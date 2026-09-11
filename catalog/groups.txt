@@ -1,0 +1,30 @@
+cat_browser | Браузер | special:default_browser; group:chrome,yandex_browser,edge,firefox,opera_gx,opera,brave,vivaldi | браузер, браузере, интернет, инет, интернетик, browser, web browser, веб браузер, обозреватель, браузерчик, браузер по умолчанию, default browser
+cat_music | Музыка | group:spotify,yandex_music,aimp,foobar2000,itunes,sys_media_player,site_yandex_music_web,site_youtube_music | музыка, музон, музончик, музыку послушать, песни, песенки, треки, плейлист, music, аудиоплеер, музыкальный плеер, плеер музыки, музыкальное приложение, әуен, ән
+cat_video_player | Видеоплеер | group:potplayer,vlc,mpc_hc,kmplayer,sys_media_player | видеоплеер, видео плеер, плеер, проигрыватель, медиаплеер, медиа плеер, video player, player, media player, смотрелка видео
+cat_messenger | Мессенджер | group:telegram,whatsapp,discord,viber,signal,site_telegram_web | мессенджер, мессенджеры, messenger, переписка, чатик, месседжер, мессенжер
+cat_mail | Почта | group:outlook,sys_mail,site_gmail,site_yandex_mail,site_mail_ru,site_outlook_web | почта, почтовый ящик, email, e mail, мейл, мыло, электронная почта, имейл, емейл, емэйл, inbox, mail, пошта, электронка
+cat_code_editor | Редактор кода | group:vscode,cursor,pycharm,sublime_text,notepadpp,visual_studio,intellij_idea,webstorm | редактор кода, ide, иде, айдишка, среда разработки, code editor, кодинг, программирование, писать код, кодить
+cat_text_editor | Текстовый редактор | group:word,libreoffice_writer,wps_office,sys_notepad,site_google_docs | текстовый редактор, редактор текста, text editor, текстовый документ, написать текст, печаталка
+cat_spreadsheet | Таблицы | group:excel,libreoffice_calc,wps_office,site_google_sheets | таблицы, таблица, электронные таблицы, электронная таблица, spreadsheet, spreadsheets, табличка, таблички
+cat_presentation | Презентации | group:powerpoint,libreoffice_impress,wps_office,site_google_slides | презентация, презентации, презентуха, презу, слайды, presentation, slides, презенташка
+cat_pdf | PDF-ридер | group:acrobat_reader,sumatra_pdf,edge | pdf, пдф, пдфка, читалка pdf, pdf reader, пдф ридер, pdf ридер, просмотр pdf
+cat_torrent | Торрент | group:qbittorrent,utorrent,bittorrent | торрент, торренты, торрент клиент, torrent, торент, торрентик, качалка
+cat_archiver | Архиватор | group:winrar,7zip | архиватор, архив, archiver, распаковщик, разархиватор, zip, зип, rar, рар
+cat_game_launcher | Игры | group:steam,epic_games,gog_galaxy,battlenet,ea_app,ubisoft_connect,xbox_app | игры, игрушки, games, лаунчер, игровой лаунчер, гейм лаунчер, game launcher, поиграть, ойындар
+cat_photo_editor | Фоторедактор | group:photoshop,krita,gimp,paint_net,lightroom,sys_paint | фоторедактор, редактор фото, редактор изображений, графический редактор, photo editor, image editor, рисовалка, обработка фото, редактор картинок
+cat_video_editor | Видеоредактор | group:davinci_resolve,premiere_pro,capcut,vegas_pro,filmora | видеоредактор, видео редактор, редактор видео, монтаж, монтажка, video editor, смонтировать видео, монтировать
+cat_notes | Заметки | group:obsidian,notion,onenote,evernote,sys_notepad | заметки, заметка, записки, записная книжка, notes, блокнот для заметок, ежедневник
+cat_terminal | Терминал | group:sys_terminal,sys_powershell,sys_cmd | терминал, консоль, terminal, console, шелл, shell, консолька, терминалка
+cat_screenshot | Скриншот | group:sharex,lightshot,sys_snipping_tool | скриншот, скрин, скриншотер, снимок экрана, screenshot, скрины, скриншоты, скринер, фото экрана
+cat_antivirus | Антивирус | group:kaspersky,malwarebytes,sys_security | антивирус, антивирусник, antivirus, защита от вирусов, проверка на вирусы
+cat_vpn | VPN | group:protonvpn,nordvpn,set_vpn | vpn, впн, впнка, випиэн, ви пи эн, обход блокировок
+cat_cloud | Облако | group:google_drive,onedrive,yandex_disk,dropbox,site_google_drive | облако, облачное хранилище, хранилище, cloud, клауд, облачный диск, облачко файлов
+cat_ai | Нейросеть | group:claude_app,chatgpt_app,site_chatgpt,site_claude,site_gemini,site_deepseek | нейросеть, нейронка, нейросетка, ии, ai, искусственный интеллект, чат бот, чатбот, ai чат, ии чат, жи ай
+cat_translator | Переводчик | group:site_google_translate,site_yandex_translate,site_deepl | переводчик, перевод, translator, translate, транслейт, переводилка, аударма
+cat_maps | Карты | group:site_2gis,site_yandex_maps,site_google_maps,sys_maps | карты, карта, maps, map, навигатор, карта города, картa
+cat_weather | Погода | group:site_yandex_weather,site_gismeteo,sys_weather | погода, прогноз погоды, weather, погодка, ауа райы
+cat_video_site | Видео | group:site_youtube,site_rutube,site_vk_video | видео, видосы, видосики, посмотреть видео, видосики посмотреть, videos
+cat_movies | Фильмы | group:site_kinopoisk,site_netflix | фильмы, фильм, кино, сериалы, сериал, кинотеатр, онлайн кинотеатр, movies, киношка, киношку
+cat_remote | Удалённый доступ | group:anydesk,teamviewer | удаленный доступ, удаленное управление, удаленка, удалёнка, удаленный рабочий стол, remote access
+cat_password | Менеджер паролей | group:bitwarden,keepass | менеджер паролей, пароли, password manager, хранилище паролей
+cat_streaming | Стрим | group:obs,site_twitch | стрим, стримить, трансляция, стриминг, stream, streaming, запись экрана

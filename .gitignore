@@ -1,0 +1,10 @@
+.env
+config.json
+__pycache__/
+*.pyc
+assets/sprites/preview_sheet.png
+zetabuddy.log
+apps_cache.json
+assets/sounds/
+assets/sprites/*.png
+!assets/sprites/.gitkeep

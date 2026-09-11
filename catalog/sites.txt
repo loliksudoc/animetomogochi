@@ -1,0 +1,538 @@
+site_google | Google | url:https://www.google.com | google, гугл, гугол, гоогле, google.com, google.kz, гугл кз, гугл поиск, google search, гуглик, ггл, гугл ком, гугель
+site_yandex | Яндекс | url:https://yandex.kz | yandex, яндекс, яндех, яндыкс, яндэкс, yandex.kz, yandex.ru, ya.ru, я ру, яндекс поиск, yandex search, яндекс кз, яндекс ру
+site_bing | Bing | url:https://www.bing.com | bing, бинг, бинк, bing.com, бинг поиск, microsoft bing, майкрософт бинг
+site_duckduckgo | DuckDuckGo | url:https://duckduckgo.com | duckduckgo, дакдакго, дак дак гоу, дакдакгоу, duck duck go, ddg, duckduckgo.com
+site_ecosia | Ecosia | url:https://www.ecosia.org | ecosia, экосия, экозия, ecosia.org
+site_rambler | Rambler | url:https://www.rambler.ru | rambler, рамблер, rambler.ru, рамблер ру
+site_yahoo | Yahoo | url:https://www.yahoo.com | yahoo, яху, яхоо, yahoo.com, яху ком
+site_dzen | Дзен | url:https://dzen.ru | дзен, дзэн, dzen, dzen.ru, дзен ру, яндекс дзен, yandex zen
+site_msn | MSN | url:https://www.msn.com | msn, мсн, msn.com, эм эс эн
+site_gmail | Gmail | url:https://mail.google.com | gmail, джимейл, джимэйл, джимеил, джи мейл, гмейл, гмайл, гмаил, жмейл, gmail.com, mail.google.com, гугл почта, почта гугл, google mail, гугл мейл
+site_yandex_mail | Яндекс Почта | url:https://mail.yandex.ru | яндекс почта, почта яндекс, yandex mail, mail.yandex.ru, яндекс мейл, яндекс майл, яндекс мыло, yandex почта
+site_mail_ru | Mail.ru Почта | url:https://e.mail.ru | mail.ru, мэйл ру, майл ру, мейл ру, маил ру, мэйлру, мейлру, майлру, mailru, почта mail.ru, мейл ру почта, почта майл ру, майл почта, мыло ру, e.mail.ru
+site_outlook_web | Outlook (веб) | url:https://outlook.live.com/mail/ | outlook web, аутлук веб, веб аутлук, outlook online, аутлук онлайн, outlook.com, outlook.live.com, hotmail, хотмейл, hotmail.com, live.com, outlook в браузере, почта аутлук онлайн, аутлук в браузере
+site_rambler_mail | Рамблер Почта | url:https://mail.rambler.ru | рамблер почта, почта рамблер, rambler mail, mail.rambler.ru
+site_yahoo_mail | Yahoo Mail | url:https://mail.yahoo.com | yahoo mail, яху почта, почта яху, яху мейл, mail.yahoo.com
+site_proton_mail | Proton Mail | url:https://mail.proton.me | proton mail, протон мейл, протонмейл, protonmail, протон почта, mail.proton.me, proton.me
+site_icloud | iCloud | url:https://www.icloud.com | icloud, айклауд, ай клауд, айклоуд, icloud.com, icloud mail, айклауд почта, apple icloud
+site_temp_mail | Temp Mail | url:https://temp-mail.org | temp mail, tempmail, темп мейл, временная почта, одноразовая почта, temp-mail.org
+site_10minutemail | 10 Minute Mail | url:https://10minutemail.com | 10minutemail, 10 minute mail, десятиминутная почта, 10minutemail.com
+site_google_account | Аккаунт Google | url:https://myaccount.google.com | google account, гугл аккаунт, аккаунт гугл, гугл акк, мой аккаунт гугл, гугл профиль, myaccount.google.com
+site_google_drive | Google Drive (веб) | url:https://drive.google.com | гугл диск веб, гугл диск онлайн, веб гугл диск, google drive web, google drive online, drive.google.com, гугл драйв онлайн, гугл драйв веб, гугл диск в браузере
+site_google_docs | Google Документы | url:https://docs.google.com/document/ | google docs, гугл документы, гугл документ, гугл доки, гугл док, гугл докс, google документы, google doc, доки гугл, docs.google.com
+site_google_sheets | Google Таблицы | url:https://docs.google.com/spreadsheets/ | google sheets, гугл таблицы, гугл таблица, гугл шитс, гугл щитс, гугл шит, google таблицы, гугл эксель, google spreadsheets, sheets.google.com
+site_google_slides | Google Презентации | url:https://docs.google.com/presentation/ | google slides, гугл презентации, гугл презентация, гугл слайды, гугл слайдс, google презентации, slides.google.com
+site_google_forms | Google Формы | url:https://docs.google.com/forms/ | google forms, гугл формы, гугл форма, гугл формс, google форма, гугл опрос, forms.google.com
+site_google_calendar | Google Календарь | url:https://calendar.google.com | google calendar, гугл календарь, гугл календар, календарь гугл, google календарь, calendar.google.com
+site_google_photos | Google Фото | url:https://photos.google.com | google photos, гугл фото, гугл фотки, гугл фотографии, гугл галерея, google фото, photos.google.com
+site_google_keep | Google Keep | url:https://keep.google.com | google keep, гугл кип, гугл заметки, кип гугл, гугл keep, keep.google.com
+site_google_meet | Google Meet | url:https://meet.google.com | google meet, гугл мит, гугл миит, гугл meet, мит гугл, meet.google.com
+site_google_chat | Google Chat | url:https://chat.google.com | google chat, гугл чат, chat.google.com
+site_google_messages | Google Сообщения (веб) | url:https://messages.google.com/web | google messages, гугл сообщения, сообщения гугл веб, messages.google.com, смс через компьютер
+site_google_classroom | Google Classroom | url:https://classroom.google.com | google classroom, гугл класс, гугл классрум, гугл класрум, классрум, класрум, classroom, classroom.google.com
+site_google_translate | Google Переводчик | url:https://translate.google.com | google translate, гугл переводчик, гугл транслейт, гугл транслэйт, гугл перевод, переводчик гугл, google переводчик, гугл переводчик онлайн, гугл аудармашы, гугл аударма, translate.google.com
+site_google_maps | Google Карты | url:https://www.google.com/maps | google maps, гугл карты, гугл карта, гугл мапс, карты гугл, google карты, maps.google.com
+site_google_earth | Google Earth | url:https://earth.google.com/web/ | google earth, гугл земля, гугл эрс, гугл ерс, гугл earth, earth.google.com
+site_google_news | Google Новости | url:https://news.google.com | google news, гугл новости, гугл ньюс, news.google.com
+site_google_images | Google Картинки | url:https://images.google.com | google images, гугл картинки, картинки гугл, гугл изображения, images.google.com
+site_google_lens | Google Lens | url:https://lens.google.com | google lens, гугл линз, гугл ленс, гугл объектив, поиск по картинке гугл, lens.google.com
+site_google_play | Google Play | url:https://play.google.com | google play, гугл плей, плей маркет, плеймаркет, play market, гугл плей маркет, play store, плей стор, google play store, play.google.com
+site_google_books | Google Книги | url:https://books.google.com | google books, гугл книги, books.google.com
+site_google_scholar | Google Академия | url:https://scholar.google.com | google scholar, гугл академия, гугл скалар, гугл шолар, гугл scholar, scholar.google.com
+site_google_trends | Google Trends | url:https://trends.google.com | google trends, гугл тренды, гугл трендс, trends.google.com
+site_google_contacts | Google Контакты | url:https://contacts.google.com | google contacts, гугл контакты, contacts.google.com
+site_google_fonts | Google Fonts | url:https://fonts.google.com | google fonts, гугл шрифты, гугл фонтс, fonts.google.com
+site_google_ads | Google Ads | url:https://ads.google.com | google ads, гугл адс, гугл реклама, google adwords, гугл адвордс, adwords, ads.google.com
+site_google_analytics | Google Analytics | url:https://analytics.google.com | google analytics, гугл аналитикс, гугл аналитика, ga4, analytics.google.com
+site_google_search_console | Google Search Console | url:https://search.google.com/search-console | google search console, search console, серч консоль, гугл серч консоль, гугл вебмастер
+site_youtube_studio | YouTube Studio | url:https://studio.youtube.com | youtube studio, ютуб студио, ютуб студия, студия ютуб, творческая студия ютуб, yt studio, studio.youtube.com
+site_google_find_device | Найти устройство (Google) | url:https://www.google.com/android/find | find my device, гугл поиск устройства, поиск телефона андроид, локатор андроид, google find my device
+site_google_timer | Таймер (Google) | url:https://www.google.com/search?q=timer | таймер онлайн, онлайн таймер, гугл таймер, timer online, google timer
+site_google_stopwatch | Секундомер (Google) | url:https://www.google.com/search?q=stopwatch | секундомер онлайн, онлайн секундомер, гугл секундомер, stopwatch online, google stopwatch
+site_google_calculator | Калькулятор (Google) | url:https://www.google.com/search?q=calculator | калькулятор онлайн, онлайн калькулятор, гугл калькулятор, calculator online, google calculator
+site_yandex_id | Яндекс ID | url:https://id.yandex.ru | яндекс id, яндекс айди, яндекс аккаунт, yandex id, id.yandex.ru
+site_yandex_disk_web | Яндекс Диск (веб) | url:https://disk.yandex.ru | яндекс диск веб, яндекс диск онлайн, веб яндекс диск, yandex disk web, яндекс диск в браузере, disk.yandex.ru
+site_yandex_maps | Яндекс Карты | url:https://yandex.kz/maps | яндекс карты, яндекс карта, карты яндекс, яндекс мапс, yandex maps, yandex карты, яндекс карты онлайн, maps.yandex.ru
+site_yandex_weather | Яндекс Погода | url:https://yandex.kz/pogoda | яндекс погода, погода яндекс, yandex weather, yandex pogoda, яндекс погода кз
+site_yandex_translate | Яндекс Переводчик | url:https://translate.yandex.ru | яндекс переводчик, переводчик яндекс, яндекс перевод, яндекс транслейт, yandex translate, yandex переводчик, яндекс переводчик онлайн, яндекс аудармашы, translate.yandex.ru
+site_yandex_music_web | Яндекс Музыка (веб) | url:https://music.yandex.ru | яндекс музыка веб, яндекс музыка онлайн, яндекс музыка сайт, веб яндекс музыка, yandex music web, яндекс музыка в браузере, music.yandex.ru, music.yandex.kz
+site_yandex_market | Яндекс Маркет | url:https://market.yandex.ru | яндекс маркет, маркет яндекс, yandex market, я маркет, market.yandex.ru
+site_yandex_eda | Яндекс Еда | url:https://eda.yandex.kz | яндекс еда, еда яндекс, yandex eats, yandex eda, яндекс доставка еды, eda.yandex.kz, eda.yandex.ru
+site_yandex_go | Яндекс Go (Такси) | url:https://go.yandex | yandex go, яндекс го, яндекс гоу, яндекс такси, такси яндекс, yandex taxi, go.yandex, taxi.yandex.ru
+site_yandex_lavka | Яндекс Лавка | url:https://lavka.yandex.ru | яндекс лавка, лавка яндекс, yandex lavka, lavka.yandex.ru
+site_yandex_plus | Яндекс Плюс | url:https://plus.yandex.ru | яндекс плюс, плюс яндекс, yandex plus, яндекс плюс подписка, plus.yandex.ru
+site_alice | Алиса (Яндекс) | url:https://alice.yandex.ru | алиса, яндекс алиса, alice, алиса ai, алиса про, yandexgpt, yandex gpt, яндекс гпт, яндексгпт, alice.yandex.ru
+site_shedevrum | Шедеврум | url:https://shedevrum.ai | шедеврум, shedevrum, яндекс шедеврум, shedevrum.ai
+site_yandex_images | Яндекс Картинки | url:https://yandex.kz/images | яндекс картинки, картинки яндекс, yandex images, яндекс поиск по картинке
+site_yandex_calendar | Яндекс Календарь | url:https://calendar.yandex.ru | яндекс календарь, yandex calendar, calendar.yandex.ru
+site_yandex_telemost | Яндекс Телемост | url:https://telemost.yandex.ru | телемост, яндекс телемост, telemost, telemost.yandex.ru
+site_yandex_travel | Яндекс Путешествия | url:https://travel.yandex.ru | яндекс путешествия, yandex travel, travel.yandex.ru
+site_yandex_afisha | Яндекс Афиша | url:https://afisha.yandex.ru | яндекс афиша, афиша яндекс, yandex afisha, afisha.yandex.ru
+site_yandex_rasp | Яндекс Расписания | url:https://rasp.yandex.ru | яндекс расписания, расписание электричек, yandex rasp, rasp.yandex.ru
+site_yandex_games | Яндекс Игры | url:https://yandex.kz/games | яндекс игры, игры яндекс, yandex games
+site_yandex_books | Яндекс Книги | url:https://books.yandex.ru | яндекс книги, букмейт, bookmate, yandex books, books.yandex.ru
+site_yandex_metrika | Яндекс Метрика | url:https://metrika.yandex.ru | яндекс метрика, метрика, yandex metrika, yandex metrica, metrika.yandex.ru
+site_yandex_direct | Яндекс Директ | url:https://direct.yandex.ru | яндекс директ, yandex direct, direct.yandex.ru
+site_kinopoisk | Кинопоиск | url:https://www.kinopoisk.ru | кинопоиск, кинопойск, кинапоиск, kinopoisk, kinopoisk.ru, кинопоиск ру, кинопоиск hd, кинопоиск хд, яндекс кинопоиск, hd.kinopoisk.ru
+site_yandex_practicum | Яндекс Практикум | url:https://practicum.yandex.ru | яндекс практикум, практикум яндекс, практикум, yandex practicum, practicum.yandex.ru
+site_microsoft | Microsoft | url:https://www.microsoft.com | microsoft.com, майкрософт сайт, microsoft сайт, сайт майкрософт
+site_microsoft_account | Учётная запись Microsoft | url:https://account.microsoft.com | microsoft account, аккаунт майкрософт, майкрософт аккаунт, аккаунт microsoft, учетная запись майкрософт, учётная запись microsoft, account.microsoft.com
+site_office_web | Microsoft 365 (веб) | url:https://www.microsoft365.com | office online, офис онлайн, office web, офис веб, office.com, офис 365 онлайн, office 365 web, microsoft 365 онлайн, microsoft 365 web, майкрософт офис онлайн, microsoft365.com, m365 онлайн
+site_word_online | Word Online | url:https://www.microsoft365.com/launch/word | word online, ворд онлайн, онлайн ворд, word web, ворд веб, веб ворд, word в браузере, ворд в браузере, microsoft word online
+site_excel_online | Excel Online | url:https://www.microsoft365.com/launch/excel | excel online, эксель онлайн, эксел онлайн, онлайн эксель, excel web, эксель веб, веб эксель, excel в браузере, microsoft excel online
+site_powerpoint_online | PowerPoint Online | url:https://www.microsoft365.com/launch/powerpoint | powerpoint online, пауэрпоинт онлайн, поверпоинт онлайн, повер поинт онлайн, павер поинт онлайн, ппт онлайн, powerpoint web, powerpoint в браузере
+site_onedrive_web | OneDrive (веб) | url:https://onedrive.live.com | onedrive web, onedrive online, ванд драйв онлайн, ванддрайв онлайн, уан драйв онлайн, уандрайв онлайн, ванд драйв веб, веб onedrive, onedrive.live.com, onedrive.com
+site_teams_web | Teams (веб) | url:https://teams.microsoft.com | teams web, teams online, тимс веб, тимс онлайн, тимз онлайн, веб тимс, майкрософт тимс онлайн, teams в браузере, teams.microsoft.com
+site_outlook_calendar | Outlook Календарь | url:https://outlook.live.com/calendar/ | outlook calendar, аутлук календарь, календарь аутлук, outlook календарь
+site_microsoft_forms | Microsoft Forms | url:https://forms.office.com | microsoft forms, майкрософт формы, forms.office.com
+site_microsoft_todo_web | Microsoft To Do (веб) | url:https://to-do.live.com | microsoft to do web, майкрософт ту ду онлайн, to do онлайн, to-do.live.com
+site_microsoft_learn | Microsoft Learn | url:https://learn.microsoft.com | microsoft learn, майкрософт лёрн, майкрософт лерн, microsoft docs, документация майкрософт, msdn, мсдн, learn.microsoft.com
+site_bing_translator | Bing Translator | url:https://www.bing.com/translator | bing translator, бинг переводчик, переводчик бинг, microsoft translator, майкрософт переводчик
+site_copilot | Microsoft Copilot (веб) | url:https://copilot.microsoft.com | copilot web, копилот веб, копилот онлайн, copilot сайт, копилот сайт, bing copilot, бинг копилот, bing chat, бинг чат, майкрософт копилот онлайн, copilot.microsoft.com
+site_xbox_web | Xbox (веб) | url:https://www.xbox.com | xbox.com, xbox web, xbox сайт, иксбокс сайт, хбокс сайт, иксбокс веб, иксбокс онлайн, xbox cloud gaming, xbox game pass сайт
+site_youtube | YouTube | url:https://www.youtube.com | youtube, ютуб, ютюб, ютьюб, ютубчик, youtube.com, ютаб, юту, yt, ютуп, ютуб ком, you tube, ю туб
+site_youtube_music | YouTube Music | url:https://music.youtube.com | youtube music, ютуб музыка, ютуб мьюзик, ютуб мюзик, ютуб музик, yt music, youtube музыка, ютуб музыка онлайн, music.youtube.com
+site_youtube_shorts | YouTube Shorts | url:https://www.youtube.com/shorts | youtube shorts, ютуб шортс, ютуб шорты, шортс, shorts
+site_youtube_kids | YouTube Kids | url:https://www.youtubekids.com | youtube kids, ютуб кидс, ютуб детский, детский ютуб, youtubekids.com
+site_vk | ВКонтакте | url:https://vk.com | vk, вк, вконтакте, в контакте, вконтакт, вкантакте, вкантакт, контакт, контактик, vkontakte, vk.com, vk.ru, вк ком, вэка, вэ ка, вкашка
+site_vk_video | VK Видео | url:https://vkvideo.ru | vk video, вк видео, вк видос, видео вк, вконтакте видео, vk видео, vkvideo, vkvideo.ru
+site_vk_video_live | VK Видео Live | url:https://live.vkvideo.ru | vk video live, вк видео лайв, vk play live, вк плей лайв, стримы вк, live.vkvideo.ru
+site_vk_music | VK Музыка | url:https://vk.com/audio | vk музыка, вк музыка, музыка вк, vk music, вк мьюзик, вконтакте музыка, аудиозаписи вк, vk audio, boom музыка, бум музыка
+site_vk_messenger_web | VK Мессенджер (веб) | url:https://vk.com/im | вк мессенджер веб, vk messenger web, vk мессенджер онлайн, сообщения вк, вк сообщения, вконтакте сообщения, диалоги вк, вк личка
+site_vk_play | VK Play | url:https://vkplay.ru | vk play, вк плей, vkplay, vkplay.ru
+site_ok | Одноклассники | url:https://ok.ru | одноклассники, однокласники, одноклассник, одноклассники ру, odnoklassniki, ok.ru, ок ру, ok ru, однокл
+site_instagram | Instagram | url:https://www.instagram.com | instagram, инстаграм, инстаграмм, инстограм, инстаграмчик, инста, инст, инстик, insta, ig, instagram.com, инстаграм ком
+site_facebook | Facebook | url:https://www.facebook.com | facebook, фейсбук, фэйсбук, фесбук, фейсбучек, фейс, фб, fb, facebook.com, fb.com, фейсбук ком
+site_messenger_web | Facebook Messenger | url:https://www.messenger.com | facebook messenger, фейсбук мессенджер, фб мессенджер, messenger.com
+site_threads | Threads | url:https://www.threads.com | threads, тредс, трэдс, тредз, треды инстаграм, threads.com, threads.net
+site_x | X (Twitter) | url:https://x.com | twitter, твиттер, твитер, x.com, twitter.com, икс твиттер, x твиттер, твиттер икс, икс ком, твит, тви
+site_bluesky | Bluesky | url:https://bsky.app | bluesky, блюскай, блю скай, bsky, bsky.app
+site_tiktok | TikTok | url:https://www.tiktok.com | tiktok, тикток, тик ток, тиктак, тик так, тикточек, тт, tiktok.com
+site_reddit | Reddit | url:https://www.reddit.com | reddit, реддит, редит, рэддит, редик, редд, reddit.com
+site_pinterest | Pinterest | url:https://www.pinterest.com | pinterest, пинтерест, пинтерес, пинтрест, пинтерестик, пинт, pinterest.com, пинтерест ком
+site_linkedin | LinkedIn | url:https://www.linkedin.com | linkedin, линкедин, линкдин, линкед ин, линкедн, линкеден, linkedin.com
+site_snapchat_web | Snapchat | url:https://web.snapchat.com | snapchat, снапчат, снэпчат, снап, snapchat web, снапчат веб, web.snapchat.com
+site_tumblr | Tumblr | url:https://www.tumblr.com | tumblr, тамблер, тумблер, тамблр, tumblr.com
+site_livejournal | Живой Журнал | url:https://www.livejournal.com | livejournal, живой журнал, жж, лайвджорнал, livejournal.com
+site_twitch | Twitch | url:https://www.twitch.tv | twitch, твич, твитч, твиш, твичик, twitch.tv, твич тв, твитч тв
+site_kick | Kick | url:https://kick.com | kick, кик, kick.com, кик стрим, кик ком
+site_rutube | Rutube | url:https://rutube.ru | rutube, рутуб, рутюб, ру туб, русский ютуб, rutube.ru
+site_dailymotion | Dailymotion | url:https://www.dailymotion.com | dailymotion, дейлимоушн, дэйлимоушн, dailymotion.com
+site_vimeo | Vimeo | url:https://vimeo.com | vimeo, вимео, vimeo.com, вимео ком
+site_likee | Likee | url:https://likee.video | likee, лайки, likee.video
+site_ted | TED | url:https://www.ted.com | ted, тед, тед ток, ted talks, ted.com
+site_boosty | Boosty | url:https://boosty.to | boosty, бусти, бусти то, boosty.to
+site_patreon | Patreon | url:https://www.patreon.com | patreon, патреон, патрион, patreon.com
+site_pikabu | Пикабу | url:https://pikabu.ru | pikabu, пикабу, пикабушка, pikabu.ru
+site_habr | Хабр | url:https://habr.com | habr, хабр, хабрахабр, habrahabr, habr.com, хабр ком
+site_vc_ru | vc.ru | url:https://vc.ru | vc.ru, вц ру, виси ру, vc ру
+site_dtf | DTF | url:https://dtf.ru | dtf, дтф, дэтээф, dtf.ru
+site_9gag | 9GAG | url:https://9gag.com | 9gag, 9 гаг, найн гэг, найнгаг, девять гаг, 9gag.com
+site_imgur | Imgur | url:https://imgur.com | imgur, имгур, имджур, imgur.com
+site_quora | Quora | url:https://www.quora.com | quora, квора, кьюора, quora.com
+site_medium | Medium | url:https://medium.com | medium, медиум, medium.com
+site_substack | Substack | url:https://substack.com | substack, сабстак, substack.com
+site_tgstat | TGStat | url:https://tgstat.ru | tgstat, тгстат, tgstat.ru
+site_telegram_web | Telegram Web | url:https://web.telegram.org | telegram web, телеграм веб, веб телеграм, web telegram, web.telegram.org, телеграмм веб, телеграм онлайн, тг веб, телеграм в браузере
+site_whatsapp_web | WhatsApp Web | url:https://web.whatsapp.com | whatsapp web, ватсап веб, веб ватсап, вотсап веб, вацап веб, уатсап веб, web whatsapp, ватсап онлайн, whatsapp онлайн, ватсап в браузере, ватсап веб версия, web.whatsapp.com
+site_discord_web | Discord (веб) | url:https://discord.com/app | discord web, дискорд веб, веб дискорд, дискорд онлайн, discord online, дискорд в браузере, дискорд сайт, дс веб, discord.com
+site_slack_web | Slack (веб) | url:https://app.slack.com | slack web, слак веб, слэк веб, слак онлайн, веб слак, app.slack.com, slack.com
+site_zoom_web | Zoom (веб) | url:https://app.zoom.us | zoom web, зум веб, зум онлайн, zoom онлайн, веб зум, зум в браузере, зум сайт, zoom.us
+site_chatgpt | ChatGPT (сайт) | url:https://chatgpt.com | chatgpt.com, chatgpt сайт, чатгпт сайт, чат гпт сайт, chat gpt сайт, чатгпт онлайн, чат гпт онлайн, chatgpt online, чатгпт веб, chatgpt web, гпт онлайн, жпт онлайн, чат гпт в браузере, chat.openai.com
+site_claude | Claude (сайт) | url:https://claude.ai | claude.ai, claude ai, claude сайт, клод сайт, клод онлайн, клод веб, клод ai, клод аи, claude online, claude web, клод в браузере
+site_gemini | Gemini | url:https://gemini.google.com | gemini, гемини, гемени, джемини, джеминай, гугл гемини, google gemini, джемини ai, гемини ai, бард, bard, гугл бард, gemini.google.com
+site_deepseek | DeepSeek | url:https://chat.deepseek.com | deepseek, deep seek, дипсик, дип сик, дипсек, дипсик чат, дипсик ai, deepseek.com, chat.deepseek.com
+site_perplexity | Perplexity | url:https://www.perplexity.ai | perplexity, перплексити, перплекс, перплексити ai, pplx, perplexity.ai
+site_grok | Grok | url:https://grok.com | grok, грок, grok ai, грок ai, grok.com
+site_mistral | Le Chat (Mistral) | url:https://chat.mistral.ai | mistral, мистраль, мистрал, le chat, ле чат, mistral ai, мистраль ai, chat.mistral.ai
+site_qwen | Qwen | url:https://chat.qwen.ai | qwen, квен, кьювен, qwen chat, квен чат, chat.qwen.ai
+site_kimi | Kimi | url:https://www.kimi.com | kimi, кими, kimi ai, кими ai, moonshot ai, kimi.com
+site_gigachat | GigaChat | url:https://giga.chat | gigachat, гигачат, гига чат, сбер гигачат, гигачат сбер, giga.chat
+site_character_ai | Character.AI | url:https://character.ai | character ai, character.ai, чарактер ai, чарактер аи, карактер ай, чарактер, c.ai
+site_poe | Poe | url:https://poe.com | poe, пое, поу, poe.com
+site_lmarena | LMArena | url:https://lmarena.ai | lmarena, lm arena, лм арена, chatbot arena, чатбот арена, lmarena.ai
+site_huggingface | Hugging Face | url:https://huggingface.co | hugging face, huggingface, хаггинг фейс, хагинг фейс, хаггингфейс, hf, huggingface.co
+site_openrouter | OpenRouter | url:https://openrouter.ai | openrouter, опенроутер, опен роутер, openrouter.ai
+site_openai | OpenAI | url:https://openai.com | openai, опенаи, опен аи, опенай, openai.com
+site_openai_platform | OpenAI Platform | url:https://platform.openai.com | openai platform, openai api, опенаи апи, опен аи апи, опенай апи, платформа openai, openai playground, platform.openai.com
+site_anthropic | Anthropic | url:https://www.anthropic.com | anthropic, антропик, антропик сайт, anthropic.com
+site_anthropic_console | Anthropic Console | url:https://console.anthropic.com | anthropic console, антропик консоль, консоль антропик, anthropic api, антропик апи, claude console, клод апи, console.anthropic.com
+site_google_ai_studio | Google AI Studio | url:https://aistudio.google.com | google ai studio, ai studio, аи студио, аистудио, ai студия, гугл аи студио, гугл ai studio, aistudio.google.com
+site_notebooklm | NotebookLM | url:https://notebooklm.google.com | notebooklm, notebook lm, ноутбук лм, ноутбуклм, гугл ноутбук лм, notebooklm.google.com
+site_midjourney | Midjourney | url:https://www.midjourney.com | midjourney, миджорни, мидджорни, миджерни, миджорней, мидж, midjourney.com
+site_leonardo | Leonardo.Ai | url:https://leonardo.ai | leonardo ai, леонардо ai, леонардо аи, леонардо нейросеть, leonardo.ai
+site_ideogram | Ideogram | url:https://ideogram.ai | ideogram, идеограм, идеограмм, ideogram.ai
+site_krea | Krea | url:https://www.krea.ai | krea, креа, krea ai, krea.ai
+site_civitai | Civitai | url:https://civitai.com | civitai, цивитай, сивитай, цивит, civitai.com
+site_suno | Suno | url:https://suno.com | suno, суно, suno ai, суно ai, suno.com
+site_udio | Udio | url:https://www.udio.com | udio, удио, юдио, udio.com
+site_elevenlabs | ElevenLabs | url:https://elevenlabs.io | elevenlabs, eleven labs, элевенлабс, элевен лабс, илевен лабс, 11labs, elevenlabs.io
+site_runway | Runway | url:https://runwayml.com | runway, runwayml, runway ml, ранвей, ранвэй, runwayml.com
+site_pika | Pika | url:https://pika.art | pika, пика, pika labs, пика ai, pika.art
+site_sora | Sora | url:https://sora.chatgpt.com | sora, сора, openai sora, сора openai, sora.com, sora.chatgpt.com
+site_kling | Kling AI | url:https://klingai.com | kling, клинг, kling ai, клинг ai, klingai.com
+site_heygen | HeyGen | url:https://www.heygen.com | heygen, хейген, хэйген, heygen.com
+site_gamma | Gamma | url:https://gamma.app | gamma, гамма, gamma ai, гамма презентации, gamma.app
+site_phind | Phind | url:https://www.phind.com | phind, финд, phind.com
+site_you_com | You.com | url:https://you.com | you.com, you com, ю ком
+site_bolt_new | Bolt.new | url:https://bolt.new | bolt.new, bolt new, болт нью
+site_lovable | Lovable | url:https://lovable.dev | lovable, лавабл, lovable.dev
+site_v0 | v0 by Vercel | url:https://v0.app | v0, v0 vercel, ви зеро, v0.dev, v0.app
+site_quillbot | QuillBot | url:https://quillbot.com | quillbot, квилбот, quillbot.com
+site_grammarly | Grammarly | url:https://app.grammarly.com | grammarly, грамарли, граммарли, grammarly.com, app.grammarly.com
+site_github | GitHub | url:https://github.com | github, гитхаб, гитхуб, гит хаб, гидхаб, гитхабчик, гх, gh, github.com, гитхаб ком
+site_github_gist | GitHub Gist | url:https://gist.github.com | gist, гист, github gist, гитхаб гист, gist.github.com
+site_gitlab | GitLab | url:https://gitlab.com | gitlab, гитлаб, гит лаб, gitlab.com
+site_bitbucket | Bitbucket | url:https://bitbucket.org | bitbucket, битбакет, битбукет, bitbucket.org
+site_stackoverflow | Stack Overflow | url:https://stackoverflow.com | stack overflow, stackoverflow, стековерфлоу, стек оверфлоу, стэк оверфлоу, стак оверфлоу, стековерфлов, stackoverflow.com
+site_stackoverflow_ru | Stack Overflow на русском | url:https://ru.stackoverflow.com | stackoverflow ru, стек оверфлоу ру, стековерфлоу на русском, русский стековерфлоу, ru.stackoverflow.com
+site_mdn | MDN Web Docs | url:https://developer.mozilla.org | mdn, мдн, mdn web docs, мдн доки, mozilla developer, мозилла девелопер, developer.mozilla.org
+site_w3schools | W3Schools | url:https://www.w3schools.com | w3schools, w3 schools, в3скулс, в3 скулз, дабл ю три скулс, w3schools.com
+site_devdocs | DevDocs | url:https://devdocs.io | devdocs, девдокс, devdocs.io
+site_python_docs | Документация Python | url:https://docs.python.org/3/ | python docs, python documentation, документация python, питон документация, документация питон, питон доки, пайтон доки, docs.python.org
+site_python_org | Python.org | url:https://www.python.org | python.org, python сайт, питон сайт, пайтон сайт
+site_pypi | PyPI | url:https://pypi.org | pypi, пайпиай, пай пи ай, пипи, python package index, pypi.org
+site_npm | npm | url:https://www.npmjs.com | npm, нпм, энпиэм, npmjs, npm сайт, npmjs.com
+site_docker_hub | Docker Hub | url:https://hub.docker.com | docker hub, dockerhub, докер хаб, докерхаб, hub.docker.com
+site_react_docs | React | url:https://react.dev | react docs, react.dev, реакт доки, документация react, документация реакт
+site_learn_javascript | Современный учебник JavaScript | url:https://learn.javascript.ru | learn.javascript.ru, learnjs, учебник javascript, учебник джаваскрипт, лерн джаваскрипт
+site_metanit | Metanit | url:https://metanit.com | metanit, метанит, metanit.com
+site_geeksforgeeks | GeeksforGeeks | url:https://www.geeksforgeeks.org | geeksforgeeks, geeks for geeks, гиксфоргикс, gfg, geeksforgeeks.org
+site_roadmap_sh | roadmap.sh | url:https://roadmap.sh | roadmap.sh, roadmap sh, роадмап, роудмап
+site_leetcode | LeetCode | url:https://leetcode.com | leetcode, литкод, лит код, литкоде, leetcode.com
+site_codeforces | Codeforces | url:https://codeforces.com | codeforces, кодфорсес, код форсес, кодфорс, codeforces.com
+site_hackerrank | HackerRank | url:https://www.hackerrank.com | hackerrank, хакерранк, хакер ранк, hackerrank.com
+site_codewars | Codewars | url:https://www.codewars.com | codewars, кодварс, код варс, codewars.com
+site_kaggle | Kaggle | url:https://www.kaggle.com | kaggle, каггл, кагл, каггле, kaggle.com
+site_replit | Replit | url:https://replit.com | replit, реплит, репл ит, repl.it, replit.com
+site_codepen | CodePen | url:https://codepen.io | codepen, кодпен, код пен, codepen.io
+site_codesandbox | CodeSandbox | url:https://codesandbox.io | codesandbox, кодсэндбокс, кодсендбокс, код сендбокс, codesandbox.io
+site_jsfiddle | JSFiddle | url:https://jsfiddle.net | jsfiddle, js fiddle, джс фидл, джейэс фиддл, jsfiddle.net
+site_regex101 | regex101 | url:https://regex101.com | regex101, регекс101, регекс 101, regex тестер, регулярки онлайн, regex101.com
+site_caniuse | Can I Use | url:https://caniuse.com | can i use, caniuse, кэн ай юз, кен ай юз, caniuse.com
+site_json_formatter | JSON Formatter | url:https://jsonformatter.org | json formatter, json форматтер, форматтер json, jsonformatter.org
+site_vercel | Vercel | url:https://vercel.com/dashboard | vercel, версел, версель, верцел, vercel.com
+site_netlify | Netlify | url:https://app.netlify.com | netlify, нетлифай, нетлифи, netlify.com
+site_cloudflare | Cloudflare | url:https://dash.cloudflare.com | cloudflare, клаудфлер, клаудфлэр, клоудфлер, cloudflare dashboard, dash.cloudflare.com
+site_aws_console | AWS Console | url:https://console.aws.amazon.com | aws, авс, aws console, авс консоль, amazon web services, амазон веб сервисес, console.aws.amazon.com
+site_gcp_console | Google Cloud Console | url:https://console.cloud.google.com | google cloud, гугл клауд, gcp, google cloud console, гугл клауд консоль, console.cloud.google.com
+site_azure_portal | Azure Portal | url:https://portal.azure.com | azure, азур, ажур, azure portal, азур портал, майкрософт азур, portal.azure.com
+site_firebase | Firebase Console | url:https://console.firebase.google.com | firebase, файрбейс, файрбэйс, фаербейс, firebase console, console.firebase.google.com
+site_supabase | Supabase | url:https://supabase.com/dashboard | supabase, супабейс, супабэйс, supabase.com
+site_heroku | Heroku | url:https://dashboard.heroku.com | heroku, хероку, хироку, heroku.com
+site_render | Render | url:https://dashboard.render.com | render.com, рендер ком, render dashboard
+site_railway | Railway | url:https://railway.com | railway.com, railway.app, рейлвей
+site_digitalocean | DigitalOcean | url:https://cloud.digitalocean.com | digitalocean, digital ocean, диджитал оушен, диджиталошен, digitalocean.com
+site_overleaf | Overleaf | url:https://www.overleaf.com | overleaf, оверлиф, latex онлайн, латех онлайн, overleaf.com
+site_whois | Whois | url:https://www.whois.com/whois/ | whois, ху из, хуиз, whois.com
+site_pastebin | Pastebin | url:https://pastebin.com | pastebin, пастебин, пейстбин, pastebin.com
+site_figma_web | Figma (веб) | url:https://www.figma.com/files | figma web, figma online, фигма веб, фигма онлайн, веб фигма, фигма в браузере, фигма сайт, figma.com
+site_canva | Canva | url:https://www.canva.com | canva, канва, кэнва, канва ком, canva.com
+site_miro | Miro | url:https://miro.com/app/dashboard/ | miro, миро, миро доска, realtimeboard, miro.com
+site_excalidraw | Excalidraw | url:https://excalidraw.com | excalidraw, экскалидро, экскалидроу, экскалидрав, excalidraw.com
+site_drawio | draw.io | url:https://app.diagrams.net | draw.io, drawio, дро ио, дроу ио, драв ио, diagrams.net, диаграмс нет
+site_trello | Trello | url:https://trello.com | trello, трелло, трело, трелло доска, trello.com
+site_atlassian | Atlassian | url:https://home.atlassian.com | atlassian, атлассиан, атласиан, home.atlassian.com
+site_jira | Jira | url:https://www.atlassian.com/software/jira | jira, джира, жира, jira atlassian, джира атлассиан
+site_confluence | Confluence | url:https://www.atlassian.com/software/confluence | confluence, конфлюенс, конфлюэнс, конфлуенс
+site_notion_web | Notion (веб) | url:https://www.notion.so | notion web, notion online, ноушен веб, ноушн веб, ноушен онлайн, ноушн онлайн, веб ноушен, notion в браузере, notion.so, notion.com
+site_clickup | ClickUp | url:https://app.clickup.com | clickup, кликап, клик ап, clickup.com
+site_asana | Asana | url:https://app.asana.com | asana, асана, asana.com
+site_linear | Linear | url:https://linear.app | linear, linear app, линеар, linear.app
+site_yougile | YouGile | url:https://ru.yougile.com | yougile, югайл, югиле, yougile.com
+site_bitrix24 | Битрикс24 | url:https://www.bitrix24.kz | битрикс, битрикс24, битрикс 24, bitrix, bitrix24, bitrix24.kz, bitrix24.ru
+site_todoist | Todoist | url:https://app.todoist.com | todoist, тудуист, тодоист, todoist.com
+site_dropbox_web | Dropbox (веб) | url:https://www.dropbox.com/home | dropbox web, dropbox online, дропбокс веб, дропбокс онлайн, веб дропбокс, dropbox.com
+site_bitwarden_web | Bitwarden (веб) | url:https://vault.bitwarden.com | bitwarden web, битварден веб, битварден онлайн, vault.bitwarden.com
+site_wetransfer | WeTransfer | url:https://wetransfer.com | wetransfer, ви трансфер, витрансфер, wetransfer.com
+site_capcut_web | CapCut (веб) | url:https://www.capcut.com | capcut web, capcut online, капкут онлайн, капкут веб, кап кут онлайн, capcut.com
+site_adobe | Adobe | url:https://www.adobe.com | adobe.com, adobe сайт, адоби сайт
+site_adobe_express | Adobe Express | url:https://new.express.adobe.com | adobe express, адоби экспресс, express.adobe.com
+site_photopea | Photopea | url:https://www.photopea.com | photopea, фотопеа, фотопия, фотошоп онлайн, photopea.com
+site_pixlr | Pixlr | url:https://pixlr.com | pixlr, пикслр, пикслер, pixlr.com
+site_removebg | remove.bg | url:https://www.remove.bg | remove.bg, remove bg, removebg, ремув бг, удаление фона онлайн
+site_coolors | Coolors | url:https://coolors.co | coolors, кулорс, генератор палитр, coolors.co
+site_behance | Behance | url:https://www.behance.net | behance, беханс, биханс, behance.net
+site_dribbble | Dribbble | url:https://dribbble.com | dribbble, dribble, дрибл, дриббл, dribbble.com
+site_artstation | ArtStation | url:https://www.artstation.com | artstation, артстейшн, артстейшен, арт стейшн, artstation.com
+site_pixiv | Pixiv | url:https://www.pixiv.net | pixiv, пиксив, pixiv.net
+site_deviantart | DeviantArt | url:https://www.deviantart.com | deviantart, девиантарт, девиант арт, deviantart.com
+site_unsplash | Unsplash | url:https://unsplash.com | unsplash, ансплеш, ансплэш, unsplash.com
+site_pexels | Pexels | url:https://www.pexels.com | pexels, пексельс, пекселс, pexels.com
+site_pixabay | Pixabay | url:https://pixabay.com | pixabay, пиксабей, pixabay.com
+site_freepik | Freepik | url:https://www.freepik.com | freepik, фрипик, freepik.com
+site_flaticon | Flaticon | url:https://www.flaticon.com | flaticon, флатикон, flaticon.com
+site_icons8 | Icons8 | url:https://icons8.com | icons8, айконс8, иконс8, icons8.com
+site_tilda | Tilda | url:https://tilda.cc | tilda, тильда, тильда конструктор, tilda.cc
+site_wix | Wix | url:https://www.wix.com | wix, викс, wix.com
+site_wordpress | WordPress.com | url:https://wordpress.com | wordpress, вордпресс, ворд пресс, wordpress.com
+site_stepik | Stepik | url:https://stepik.org | stepik, степик, stepik.org
+site_coursera | Coursera | url:https://www.coursera.org | coursera, курсера, курсэра, coursera.org
+site_udemy | Udemy | url:https://www.udemy.com | udemy, юдеми, удеми, юдэми, udemy.com
+site_edx | edX | url:https://www.edx.org | edx, эдикс, edx.org
+site_skillbox | Skillbox | url:https://skillbox.ru | skillbox, скиллбокс, скилбокс, skillbox.ru
+site_hexlet | Хекслет | url:https://ru.hexlet.io | hexlet, хекслет, хэкслет, hexlet.io
+site_freecodecamp | freeCodeCamp | url:https://www.freecodecamp.org | freecodecamp, free code camp, фрикодкемп, фри код кемп, freecodecamp.org
+site_codecademy | Codecademy | url:https://www.codecademy.com | codecademy, кодекадеми, кодакадеми, код академи, codecademy.com
+site_sololearn | Sololearn | url:https://www.sololearn.com | sololearn, сололерн, sololearn.com
+site_khan_academy | Khan Academy | url:https://www.khanacademy.org | khan academy, khanacademy, хан академия, хан академи, академия хана, khanacademy.org
+site_duolingo | Duolingo | url:https://www.duolingo.com | duolingo, дуолинго, дуалинго, дуолинга, дуо, duolingo.com
+site_quizlet | Quizlet | url:https://quizlet.com | quizlet, квизлет, quizlet.com
+site_kahoot | Kahoot! | url:https://kahoot.it | kahoot, кахут, кахуд, кахут ит, kahoot.it
+site_uchi_ru | Учи.ру | url:https://uchi.ru | учи ру, учиру, uchi.ru
+site_foxford | Фоксфорд | url:https://foxford.ru | фоксфорд, foxford, foxford.ru
+site_znanija | Знания | url:https://znanija.com | znanija, знания ком, znanija.com
+site_wolfram_alpha | Wolfram Alpha | url:https://www.wolframalpha.com | wolfram alpha, wolframalpha, вольфрам альфа, вольфрамальфа, вольфрам, wolframalpha.com
+site_desmos | Desmos | url:https://www.desmos.com/calculator | desmos, десмос, графический калькулятор, desmos.com
+site_geogebra | GeoGebra | url:https://www.geogebra.org | geogebra, геогебра, geogebra.org
+site_symbolab | Symbolab | url:https://www.symbolab.com | symbolab, симболаб, symbolab.com
+site_photomath | Photomath | url:https://photomath.com | photomath, фотомат, фотомач, photomath.com
+site_mathway | Mathway | url:https://www.mathway.com | mathway, мэсвэй, мазвей, mathway.com
+site_wikipedia_ru | Википедия | url:https://ru.wikipedia.org | википедия, википедиа, вики, wiki, wikipedia, википедия ру, ru.wikipedia.org
+site_wikipedia_en | Wikipedia (English) | url:https://en.wikipedia.org | english wikipedia, wikipedia en, английская википедия, википедия на английском, en.wikipedia.org
+site_wikipedia_kk | Уикипедия (қазақша) | url:https://kk.wikipedia.org | уикипедия, казахская википедия, википедия на казахском, қазақ уикипедиясы, kk.wikipedia.org
+site_wiktionary | Викисловарь | url:https://ru.wiktionary.org | викисловарь, wiktionary, викшенари, ru.wiktionary.org
+site_wikihow | wikiHow | url:https://ru.wikihow.com | wikihow, викихау, ru.wikihow.com
+site_fandom | Fandom | url:https://www.fandom.com | fandom, фандом, фэндом, вики фандом, fandom.com
+site_arxiv | arXiv | url:https://arxiv.org | arxiv, арксив, архив arxiv, arxiv.org
+site_academia | Academia.edu | url:https://www.academia.edu | academia.edu, academia edu, академия эду
+site_researchgate | ResearchGate | url:https://www.researchgate.net | researchgate, research gate, ресерчгейт, researchgate.net
+site_cyberleninka | КиберЛенинка | url:https://cyberleninka.ru | киберленинка, кибер ленинка, cyberleninka, cyberleninka.ru
+site_elibrary | eLibrary.ru | url:https://elibrary.ru | elibrary, елибрари, ринц, elibrary.ru
+site_archive_org | Internet Archive | url:https://archive.org | archive.org, интернет архив, веб архив, wayback machine, вейбэк машин, web.archive.org
+site_deepl | DeepL | url:https://www.deepl.com/translator | deepl, дипл, дипэл, дипэль, дип эл, дипл переводчик, deepl translator, дипл транслейт, deepl.com
+site_reverso_context | Reverso Context | url:https://context.reverso.net | reverso, реверсо, reverso context, реверсо контекст, context.reverso.net
+site_multitran | Мультитран | url:https://www.multitran.com | multitran, мультитран, мультитран словарь, multitran.com
+site_gramota | Грамота.ру | url:https://gramota.ru | грамота ру, грамота, gramota, gramota.ru
+site_sozdik | Sozdik.kz | url:https://sozdik.kz | sozdik, создик, сөздік, казахский словарь, казахско русский словарь, sozdik.kz
+site_cambridge_dictionary | Cambridge Dictionary | url:https://dictionary.cambridge.org | cambridge dictionary, кембридж словарь, кембриджский словарь, dictionary.cambridge.org
+site_urban_dictionary | Urban Dictionary | url:https://www.urbandictionary.com | urban dictionary, урбан дикшнари, urbandictionary.com
+site_wordreference | WordReference | url:https://www.wordreference.com | wordreference, вордреференс, wordreference.com
+site_translit | Translit.net | url:https://translit.net | транслит, транслитерация, translit, translit.net
+site_gismeteo | Gismeteo | url:https://www.gismeteo.kz | gismeteo, гисметео, гизметео, гис метео, gismeteo.kz, gismeteo.ru
+site_windy | Windy | url:https://www.windy.com | windy, винди, windy.com
+site_accuweather | AccuWeather | url:https://www.accuweather.com | accuweather, аккувезер, аккуведер, accuweather.com
+site_rp5 | RP5 | url:https://rp5.kz | rp5, рп5, эрпэ пять, rp5.kz, rp5.ru
+site_ventusky | Ventusky | url:https://www.ventusky.com | ventusky, вентуски, ventusky.com
+site_kazhydromet | Казгидромет | url:https://www.kazhydromet.kz | казгидромет, kazhydromet, kazhydromet.kz
+site_iqair | IQAir | url:https://www.iqair.com | iqair, айкьюэйр, качество воздуха, air quality, iqair.com
+site_airkaz | AirKaz | url:https://airkaz.org | airkaz, эйрказ, airkaz.org
+site_2gis | 2ГИС | url:https://2gis.kz | 2gis, 2гис, 2 гис, два гис, двагис, дубль гис, дубльгис, гис, 2gis.kz, 2gis.ru
+site_openstreetmap | OpenStreetMap | url:https://www.openstreetmap.org | openstreetmap, опенстритмап, osm, openstreetmap.org
+site_flightradar24 | Flightradar24 | url:https://www.flightradar24.com | flightradar, flightradar24, флайтрадар, флайтрадар24, flightradar24.com
+site_indrive | inDrive | url:https://indrive.com | indrive, indriver, индрайв, индрайвер, indrive.com
+site_onay | Onay | url:https://onay.kz | onay, онай, онай карта, onay.kz
+site_kaspi | Kaspi.kz | url:https://kaspi.kz | kaspi, каспи, каспий, kaspi.kz, каспи кз, kaspi кз, каспи банк, kaspi bank, каспи онлайн, каспишка
+site_kaspi_shop | Kaspi Магазин | url:https://kaspi.kz/shop/ | kaspi магазин, каспи магазин, магазин каспи, каспи шоп, kaspi shop, каспи маркет, каспи товары, kaspi.kz/shop
+site_kaspi_travel | Kaspi Travel | url:https://kaspi.kz/travel/ | kaspi travel, каспи тревел, каспи травел, каспи билеты
+site_wildberries | Wildberries | url:https://www.wildberries.ru | wildberries, вайлдберриз, вайлдбериз, вайлдберис, вайлдберрис, валдберис, валберис, вилдберис, вб, wb, wildberries.ru, wildberries.kz, wb.ru
+site_ozon | Ozon | url:https://ozon.kz | ozon, озон, озончик, ozon.kz, ozon.ru, озон кз, озон ру
+site_aliexpress | AliExpress | url:https://aliexpress.com | aliexpress, алиэкспресс, алиэкспрес, алиекспресс, али экспресс, али, алик, aliexpress.com, aliexpress.ru
+site_temu | Temu | url:https://www.temu.com | temu, тему, теему, тэму, temu.com
+site_shein | SHEIN | url:https://www.shein.com | shein, шеин, шейн, shein.com
+site_amazon | Amazon | url:https://www.amazon.com | amazon, амазон, амазон ком, amazon.com
+site_ebay | eBay | url:https://www.ebay.com | ebay, ибей, ибэй, ебей, ебэй, ebay.com
+site_iherb | iHerb | url:https://kz.iherb.com | iherb, айхерб, ай херб, iherb.com
+site_avito | Авито | url:https://www.avito.ru | авито, avito, авито ру, avito.ru
+site_olx | OLX.kz | url:https://www.olx.kz | olx, олх, олкс, олэкс, olx.kz, олх кз, olx кз
+site_kolesa | Kolesa.kz | url:https://kolesa.kz | kolesa, колеса, колёса, колеса кз, kolesa.kz
+site_krisha | Krisha.kz | url:https://krisha.kz | krisha, крыша, криша, крыша кз, krisha.kz
+site_market_kz | Market.kz | url:https://market.kz | market.kz, маркет кз
+site_satu | Satu.kz | url:https://satu.kz | satu, сату, сату кз, satu.kz
+site_lamoda | Lamoda | url:https://www.lamoda.kz | lamoda, ламода, ламода кз, lamoda.kz, lamoda.ru
+site_sulpak | Sulpak | url:https://www.sulpak.kz | sulpak, сулпак, сульпак, sulpak.kz
+site_technodom | Technodom | url:https://www.technodom.kz | technodom, технодом, техно дом, technodom.kz
+site_mechta | Мечта.kz | url:https://www.mechta.kz | mechta, мечта кз, мечта магазин, mechta.kz
+site_alser | Alser | url:https://alser.kz | alser, алсер, alser.kz
+site_dns | DNS | url:https://www.dns-shop.kz | dns, днс, днс шоп, dns-shop, dns-shop.kz
+site_mvideo | М.Видео | url:https://www.mvideo.ru | мвидео, м видео, mvideo, mvideo.ru
+site_flip_kz | Flip.kz | url:https://www.flip.kz | flip.kz, флип кз, flip кз
+site_meloman | Meloman | url:https://www.meloman.kz | meloman, меломан, meloman.kz
+site_halyk_market | Halyk Market | url:https://halykmarket.kz | halyk market, halykmarket, халык маркет, халық маркет, halykmarket.kz
+site_arbuz | Arbuz.kz | url:https://arbuz.kz | arbuz, арбуз, арбуз кз, арбуз доставка, arbuz.kz
+site_europharma | Европа Фарм | url:https://europharma.kz | европафарм, европа фарм, europharma, europharma.kz
+site_glovo | Glovo | url:https://glovoapp.com | glovo, глово, глова, glovoapp, glovoapp.com
+site_wolt | Wolt | url:https://wolt.com | wolt, вольт, волт, wolt.com
+site_kuper | Купер (СберМаркет) | url:https://kuper.ru | купер, kuper, сбермаркет, sbermarket, kuper.ru
+site_samokat | Самокат | url:https://samokat.ru | samokat, самокат доставка, samokat.ru
+site_cdek | СДЭК | url:https://www.cdek.kz | сдэк, сдек, cdek, cdek.kz, cdek.ru
+site_kazpost | Казпочта | url:https://post.kz | казпочта, казпост, қазпошта, kazpost, трекинг казпочта, post.kz
+site_pochta_ru | Почта России | url:https://www.pochta.ru | почта россии, почта рф, pochta ru, трекинг почта россии, pochta.ru
+site_ticketon | Ticketon | url:https://ticketon.kz | ticketon, тикетон, ticketon.kz
+site_kino_kz | Kino.kz | url:https://kino.kz | kino.kz, кино кз, kino kz
+site_kinopark | Kinopark | url:https://kinopark.kz | kinopark, кинопарк, kinopark.kz
+site_chocotravel | Chocotravel | url:https://www.chocotravel.com | chocotravel, choco travel, чокотревел, чоко тревел, chocotravel.com
+site_aviata | Aviata.kz | url:https://aviata.kz | aviata, авиата, авиата кз, aviata.kz
+site_aviasales | Aviasales | url:https://www.aviasales.kz | aviasales, авиасейлс, авиасейлз, авиасэйлс, aviasales.kz, aviasales.ru
+site_air_astana | Air Astana | url:https://airastana.com | air astana, airastana, эйр астана, эир астана, аир астана, airastana.com
+site_flyarystan | FlyArystan | url:https://flyarystan.com | flyarystan, fly arystan, флай арыстан, флайарыстан, флай арустан, flyarystan.com
+site_ktzh | КТЖ — билеты на поезд | url:https://bilet.railways.kz | ктж, қтж, ktzh, ктж билеты, казахстан темир жолы, қазақстан темір жолы, темир жолы, жд билеты кз, билеты на поезд кз, railways.kz, bilet.railways.kz
+site_tutu | Туту.ру | url:https://www.tutu.ru | tutu, туту, туту ру, tutu.ru
+site_booking | Booking.com | url:https://www.booking.com | booking, букинг, букинг ком, booking.com
+site_airbnb | Airbnb | url:https://www.airbnb.com | airbnb, эйрбиэнби, эйрбнб, аирбнб, эир би эн би, airbnb.com
+site_skyscanner | Skyscanner | url:https://www.skyscanner.net | skyscanner, скайсканер, скай сканер, skyscanner.net
+site_tripadvisor | Tripadvisor | url:https://www.tripadvisor.com | tripadvisor, трипадвизор, трипэдвайзер, tripadvisor.com
+site_trip_com | Trip.com | url:https://www.trip.com | trip.com, trip com, трип ком
+site_ostrovok | Островок | url:https://ostrovok.ru | островок, ostrovok, ostrovok.ru
+site_egov_kz | eGov.kz | url:https://egov.kz | egov, егов, е гов, игов, егов кз, egov kz, egov.kz, электронное правительство, госуслуги кз, госуслуги казахстан
+site_gov_kz | Gov.kz | url:https://www.gov.kz | gov.kz, гов кз, портал госорганов
+site_elicense | Elicense.kz | url:https://elicense.kz | elicense, елицензия, е лицензия, лицензирование кз, elicense.kz
+site_pki_gov_kz | НУЦ РК (ЭЦП, NCALayer) | url:https://pki.gov.kz | нуц, нуц рк, эцп, ncalayer сайт, нкалаер сайт, пки гов кз, pki.gov.kz
+site_kgd | КГД РК | url:https://kgd.gov.kz | кгд, kgd, комитет государственных доходов, налоговая кз, мемлекеттік кірістер, kgd.gov.kz
+site_salyk_cabinet | Кабинет налогоплательщика | url:https://cabinet.salyk.kz | салык, салық, salyk, салык кз, кабинет налогоплательщика, налоговый кабинет, salyk.kz, cabinet.salyk.kz
+site_enpf | ЕНПФ | url:https://www.enpf.kz | енпф, enpf, бжзқ, пенсионный фонд, единый накопительный пенсионный фонд, enpf.kz
+site_adilet | Әділет | url:https://adilet.zan.kz | адилет, әділет, adilet, законы рк, законодательство казахстана, adilet.zan.kz
+site_stat_gov_kz | Бюро национальной статистики | url:https://stat.gov.kz | stat.gov.kz, статистика кз, бюро статистики
+site_nationalbank_kz | Национальный банк РК | url:https://nationalbank.kz | нацбанк, нацбанк рк, national bank kz, национальный банк казахстана, курс нацбанка, nationalbank.kz
+site_kase | KASE | url:https://kase.kz | kase, касе, казахстанская фондовая биржа, kase.kz
+site_kundelik | Kundelik.kz | url:https://kundelik.kz | kundelik, кунделик, күнделік, кунделик кз, электронный дневник, kundelik.kz
+site_bilimland | Bilimland | url:https://bilimland.kz | bilimland, билимленд, билимлэнд, білімленд, bilimland.kz
+site_daryn_online | Daryn.online | url:https://daryn.online | daryn online, дарын онлайн, daryn.online
+site_testcenter | Национальный центр тестирования | url:https://testcenter.kz | нцт, ент, testcenter, центр тестирования, testcenter.kz
+site_enbek | Enbek.kz | url:https://www.enbek.kz | enbek, енбек, еңбек, электронная биржа труда, enbek.kz
+site_hh | hh.kz | url:https://hh.kz | hh, хх, аш аш, эйч эйч, хедхантер, хэдхантер, headhunter, head hunter, хх кз, хх ру, hh.kz, hh.ru
+site_superjob | SuperJob | url:https://www.superjob.ru | superjob, суперджоб, superjob.ru
+site_habr_career | Хабр Карьера | url:https://career.habr.com | хабр карьера, habr career, career.habr.com
+site_halyk_homebank | Halyk Bank (Homebank) | url:https://homebank.kz | halyk, халык, халик, халык банк, халық банк, halyk bank, halykbank, народный банк, homebank, хоумбанк, халык хоумбанк, homebank.kz
+site_jusan | Jusan Bank | url:https://jusan.kz | jusan, джусан, жусан, jusan bank, джусан банк, jusan.kz
+site_freedom_bank | Freedom Bank | url:https://bankffin.kz | freedom bank, фридом банк, фридом финанс банк, bankffin, bankffin.kz
+site_freedom_finance | Freedom Finance | url:https://ffin.kz | freedom finance, фридом финанс, freedom broker, фридом брокер, ффин, ffin.kz
+site_forte | ForteBank | url:https://forte.kz | forte, форте, форте банк, фортебанк, forte bank, fortebank, forte.kz
+site_bcc | Bank CenterCredit | url:https://www.bcc.kz | bcc, бцк, бисиси, банк центркредит, центркредит, bank centercredit, bcc.kz
+site_home_credit_kz | Home Credit Bank | url:https://homecredit.kz | home credit, хоум кредит, хоум кредит банк, home credit bank, homecredit.kz
+site_bereke | Bereke Bank | url:https://berekebank.kz | bereke, береке, bereke bank, береке банк, berekebank.kz
+site_otbasy | Отбасы банк | url:https://hcsbk.kz | отбасы, отбасы банк, otbasy, otbasy bank, жилстройсбербанк, жссб, hcsbk, hcsbk.kz
+site_kurs_kz | Kurs.kz | url:https://kurs.kz | kurs.kz, курс кз, курс валют, курсы валют кз
+site_xe | XE | url:https://www.xe.com | xe, xe.com, конвертер валют
+site_beeline_kz | Beeline KZ | url:https://beeline.kz | билайн, beeline, билайн кз, beeline.kz
+site_kcell | Kcell | url:https://www.kcell.kz | kcell, кселл, ксел, kcell.kz
+site_activ | Activ | url:https://www.activ.kz | activ, актив кз, activ.kz
+site_tele2_kz | Tele2 KZ | url:https://tele2.kz | tele2, теле2, теле 2, tele2.kz
+site_kazakhtelecom | Казахтелеком | url:https://telecom.kz | казахтелеком, kazakhtelecom, telecom.kz
+site_tengrinews | Tengrinews | url:https://tengrinews.kz | tengrinews, тенгриньюс, тенгри ньюс, тенгри, tengrinews.kz
+site_nur_kz | Nur.kz | url:https://www.nur.kz | nur.kz, nur kz, нур кз, нур
+site_kursiv | Kursiv | url:https://kz.kursiv.media | kursiv, курсив, курсив медиа, kursiv.media
+site_zakon_kz | Zakon.kz | url:https://www.zakon.kz | zakon.kz, zakon kz, закон кз
+site_informburo | Informburo | url:https://informburo.kz | informburo, информбюро, informburo.kz
+site_orda | Orda.kz | url:https://orda.kz | orda, орда, орда кз, orda.kz
+site_vlast | Vlast.kz | url:https://vlast.kz | vlast, власть кз, vlast.kz
+site_365info | 365info.kz | url:https://365info.kz | 365info, 365 инфо, 365info.kz
+site_forbes_kz | Forbes Kazakhstan | url:https://forbes.kz | forbes kz, forbes.kz, форбс кз, форбс казахстан
+site_khabar | Хабар 24 | url:https://24.kz | хабар 24, хабар, khabar 24, 24.kz
+site_kazinform | Kazinform | url:https://www.inform.kz | kazinform, казинформ, inform.kz
+site_gosuslugi | Госуслуги | url:https://www.gosuslugi.ru | госуслуги, гос услуги, госуслуги рф, госуслуги ру, gosuslugi, gosuslugi.ru
+site_mos_ru | Mos.ru | url:https://www.mos.ru | mos.ru, мос ру, мосру
+site_nalog_ru | ФНС России | url:https://www.nalog.gov.ru | фнс, налог ру, налоговая россии, nalog.ru, nalog.gov.ru
+site_sberbank | СберБанк Онлайн | url:https://online.sberbank.ru | сбербанк, сбер, сбербанк онлайн, сбер онлайн, sberbank, sber, sberbank online, sberbank.ru, online.sberbank.ru
+site_tbank | Т-Банк | url:https://www.tbank.ru | т банк, тбанк, t-bank, tbank, тинькофф, тинькоф, тиньков, тинек, tinkoff, tbank.ru, tinkoff.ru
+site_vtb | ВТБ | url:https://online.vtb.ru | втб, vtb, втб онлайн, втб банк, vtb.ru, online.vtb.ru
+site_alfabank | Альфа-Банк | url:https://alfabank.ru | альфа банк, альфабанк, alfa bank, alfabank, альфа клик, alfabank.ru
+site_gazprombank | Газпромбанк | url:https://www.gazprombank.ru | газпромбанк, gazprombank, гпб, gazprombank.ru
+site_cian | ЦИАН | url:https://www.cian.ru | циан, cian, циан ру, cian.ru
+site_drom | Дром | url:https://www.drom.ru | дром, drom, дром ру, drom.ru
+site_auto_ru | Авто.ру | url:https://auto.ru | авто ру, автору, autoru, auto.ru
+site_rbc | РБК | url:https://www.rbc.ru | рбк, rbc, рбк ру, rbc.ru
+site_lenta_ru | Лента.ру | url:https://lenta.ru | лента ру, лентару, lenta ru, lenta.ru
+site_ria | РИА Новости | url:https://ria.ru | риа, риа новости, риа ру, ria, ria.ru
+site_tass | ТАСС | url:https://tass.ru | тасс, tass, tass.ru
+site_kommersant | Коммерсантъ | url:https://www.kommersant.ru | коммерсант, коммерсантъ, kommersant, kommersant.ru
+site_meduza | Медуза | url:https://meduza.io | медуза, meduza, медуза ио, meduza.io
+site_netflix | Netflix | url:https://www.netflix.com | netflix, нетфликс, нэтфликс, нетфлекс, нетфлик, нетфликс ком, netflix.com
+site_disney_plus | Disney+ | url:https://www.disneyplus.com | disney plus, disney+, disneyplus, дисней плюс, дисней, disneyplus.com
+site_hbo_max | HBO Max | url:https://www.hbomax.com | hbo max, hbomax, hbo, хбо, хбо макс, эйчбио макс, hbomax.com
+site_prime_video | Prime Video | url:https://www.primevideo.com | prime video, amazon prime video, прайм видео, амазон прайм, амазон прайм видео, primevideo.com
+site_apple_tv | Apple TV+ | url:https://tv.apple.com | apple tv, apple tv plus, эпл тв, эппл тв, эпл тв плюс, tv.apple.com
+site_crunchyroll | Crunchyroll | url:https://www.crunchyroll.com | crunchyroll, кранчиролл, кранчирол, крончиролл, crunchyroll.com
+site_ivi | Иви | url:https://www.ivi.ru | иви, ivi, иви ру, ivi.ru, ivi.tv
+site_okko | Okko | url:https://okko.tv | okko, окко, окко тв, okko.tv
+site_wink | Wink | url:https://wink.ru | wink, винк, ростелеком винк, wink.ru
+site_premier | Premier | url:https://premier.one | premier, премьер, премьер тнт, тнт премьер, premier.one
+site_start | Start | url:https://start.ru | start.ru, start ру, старт ру, онлайн кинотеатр старт
+site_kion | Kion | url:https://kion.ru | kion, кион, мтс кион, kion.ru
+site_amediateka | Амедиатека | url:https://www.amediateka.ru | амедиатека, амедиатэка, amediateka, amediateka.ru
+site_imdb | IMDb | url:https://www.imdb.com | imdb, имдб, айэмдиби, ай эм ди би, imdb.com
+site_letterboxd | Letterboxd | url:https://letterboxd.com | letterboxd, леттербоксд, летербокс, letterboxd.com
+site_myshows | MyShows | url:https://myshows.me | myshows, майшоус, myshows.me
+site_shikimori | Shikimori | url:https://shikimori.one | shikimori, шикимори, шики, shikimori.one
+site_myanimelist | MyAnimeList | url:https://myanimelist.net | myanimelist, mal, майанимелист, май аниме лист, myanimelist.net
+site_litres | Литрес | url:https://www.litres.ru | литрес, литрез, litres, литрес ру, litres.ru
+site_mybook | MyBook | url:https://mybook.ru | mybook, майбук, май бук, mybook.ru
+site_spotify_web | Spotify (веб) | url:https://open.spotify.com | spotify web, spotify online, спотифай веб, спотифай онлайн, спотифай сайт, веб спотифай, спотифай в браузере, спотик веб, open.spotify.com, spotify.com
+site_apple_music_web | Apple Music (веб) | url:https://music.apple.com | apple music web, apple music онлайн, эпл мьюзик онлайн, эппл мьюзик веб, эпл музыка онлайн, music.apple.com
+site_soundcloud | SoundCloud | url:https://soundcloud.com | soundcloud, саундклауд, саунклауд, саундклоуд, саунд клауд, soundcloud.com
+site_deezer | Deezer | url:https://www.deezer.com | deezer, дизер, дезер, deezer.com
+site_zvuk | Звук | url:https://zvuk.com | zvuk, сберзвук, сбер звук, звук сбер, zvuk.com
+site_bandcamp | Bandcamp | url:https://bandcamp.com | bandcamp, бэндкэмп, бендкемп, bandcamp.com
+site_genius | Genius | url:https://genius.com | genius, джениус, гениус, genius.com
+site_lastfm | Last.fm | url:https://www.last.fm | last.fm, last fm, lastfm, ласт фм, ластфм
+site_shazam | Shazam | url:https://www.shazam.com | shazam, шазам, shazam.com
+site_steam_store | Steam (магазин, веб) | url:https://store.steampowered.com | steam store, стим магазин, магазин стим, стим сайт, steam сайт, стим веб, steam web, стим онлайн, steampowered.com, store.steampowered.com
+site_steam_community | Steam Community | url:https://steamcommunity.com | steam community, steamcommunity, стим комьюнити, стим сообщество, steamcommunity.com
+site_steamdb | SteamDB | url:https://steamdb.info | steamdb, steam db, стимдб, стим дб, steamdb.info
+site_epic_store_web | Epic Games Store (веб) | url:https://store.epicgames.com | epic games store web, epic store сайт, эпик геймс сайт, эпик геймс веб, эпик стор онлайн, epicgames.com, store.epicgames.com
+site_gog | GOG.com | url:https://www.gog.com | gog.com, gog сайт, гог сайт, гог ком, gog store
+site_playstation_store | PlayStation Store | url:https://store.playstation.com | playstation store, ps store, пс стор, плейстейшн стор, store.playstation.com
+site_itch_io | itch.io | url:https://itch.io | itch.io, itch, итч ио, итчио, ич ио
+site_humble_bundle | Humble Bundle | url:https://www.humblebundle.com | humble bundle, humblebundle, хамбл бандл, хамбл, humblebundle.com
+site_instant_gaming | Instant Gaming | url:https://www.instant-gaming.com | instant gaming, инстант гейминг, instant-gaming.com
+site_ggsel | GGSEL | url:https://ggsel.net | ggsel, ггсел, ggsel.net
+site_plati_market | Plati.market | url:https://plati.market | plati, плати маркет, плати ру, plati.market, plati.ru
+site_howlongtobeat | HowLongToBeat | url:https://howlongtobeat.com | howlongtobeat, how long to beat, хаулонгтубит, hltb, howlongtobeat.com
+site_protondb | ProtonDB | url:https://www.protondb.com | protondb, протондб, протон дб, protondb.com
+site_nexus_mods | Nexus Mods | url:https://www.nexusmods.com | nexus mods, nexusmods, нексус модс, нексус, nexusmods.com
+site_curseforge | CurseForge | url:https://www.curseforge.com | curseforge, курсфордж, керсфордж, курс фордж, curseforge.com
+site_modrinth | Modrinth | url:https://modrinth.com | modrinth, модринт, modrinth.com
+site_roblox_web | Roblox (сайт) | url:https://www.roblox.com | roblox.com, roblox сайт, roblox web, роблокс сайт, роблокс веб, роблокс онлайн
+site_minecraft_net | Minecraft.net | url:https://www.minecraft.net | minecraft.net, minecraft сайт, майнкрафт сайт, майнкрафт нет
+site_chess_com | Chess.com | url:https://www.chess.com | chess.com, chess com, чесс ком, чес ком, чесском, шахматы онлайн
+site_lichess | Lichess | url:https://lichess.org | lichess, личесс, личес, ли чесс, lichess.org
+site_poki | Poki | url:https://poki.com | poki, поки, poki.com
+site_crazygames | CrazyGames | url:https://www.crazygames.com | crazygames, crazy games, крейзи геймс, крейзигеймс, crazygames.com
+site_hoyolab | HoYoLAB | url:https://www.hoyolab.com | hoyolab, хойолаб, хоёлаб, хоелаб, hoyolab.com
+site_genshin_map | Интерактивная карта Genshin Impact | url:https://act.hoyolab.com/ys/app/interactive-map/index.html | genshin map, геншин карта, интерактивная карта геншин, genshin interactive map
+site_dotabuff | Dotabuff | url:https://www.dotabuff.com | dotabuff, дотабафф, дотабаф, dotabuff.com
+site_hltv | HLTV | url:https://www.hltv.org | hltv, хлтв, эйч эл ти ви, hltv.org
+site_faceit | FACEIT | url:https://www.faceit.com | faceit, фейсит, фэйсит, фасеит, faceit.com
+site_opgg | OP.GG | url:https://www.op.gg | op.gg, opgg, опгг, оп гг
+site_ugg | U.GG | url:https://u.gg | u.gg, ю гг, югг
+site_blitz_gg | Blitz.gg | url:https://blitz.gg | blitz.gg, blitz gg, блиц гг
+site_liquipedia | Liquipedia | url:https://liquipedia.net | liquipedia, ликвипедия, liquipedia.net
+site_cybersport_ru | Cybersport.ru | url:https://www.cybersport.ru | cybersport.ru, cybersport, киберспорт ру, киберспорт
+site_stopgame | StopGame | url:https://stopgame.ru | stopgame, стопгейм, стоп гейм, stopgame.ru
+site_igromania | Игромания | url:https://www.igromania.ru | игромания, igromania, igromania.ru
+site_ign | IGN | url:https://www.ign.com | ign, игн, ай джи эн, ign.com
+site_metacritic | Metacritic | url:https://www.metacritic.com | metacritic, метакритик, metacritic.com
+site_sports_ru | Sports.ru | url:https://www.sports.ru | sports.ru, спортс ру, спортсру
+site_championat | Чемпионат | url:https://www.championat.com | championat, чемпионат ком, championat.com
+site_flashscore | Flashscore | url:https://www.flashscore.com | flashscore, флешскор, флэшскор, flashscore.com
+site_sofascore | Sofascore | url:https://www.sofascore.com | sofascore, софаскор, sofascore.com
+site_transfermarkt | Transfermarkt | url:https://www.transfermarkt.com | transfermarkt, трансфермаркт, transfermarkt.com
+site_tradingview | TradingView | url:https://www.tradingview.com | tradingview, трейдингвью, трейдинг вью, tradingview.com
+site_investing | Investing.com | url:https://www.investing.com | investing.com, investing, инвестинг
+site_coinmarketcap | CoinMarketCap | url:https://coinmarketcap.com | coinmarketcap, коинмаркеткап, cmc, coinmarketcap.com
+site_binance | Binance | url:https://www.binance.com | binance, бинанс, binance.com
+site_speedtest | Speedtest | url:https://www.speedtest.net | speedtest, спидтест, спид тест, ookla, укла, скорость интернета, тест скорости интернета, speedtest.net
+site_fast_com | Fast.com | url:https://fast.com | fast.com, fast com, фаст ком, нетфликс спидтест
+site_downdetector | Downdetector | url:https://downdetector.com | downdetector, даундетектор, даун детектор, downdetector.com
+site_2ip | 2ip | url:https://2ip.ru | 2ip, 2ип, 2 ип, ту ай пи, мой ip, узнать ip, 2ip.ru
+site_whatismyip | WhatIsMyIP | url:https://www.whatismyip.com | whatismyip, what is my ip, вотисмайайпи, какой у меня ip, whatismyip.com
+site_virustotal | VirusTotal | url:https://www.virustotal.com | virustotal, вирустотал, вирус тотал, virustotal.com
+site_haveibeenpwned | Have I Been Pwned | url:https://haveibeenpwned.com | have i been pwned, haveibeenpwned, hibp, проверка утечки паролей, haveibeenpwned.com
+site_ilovepdf | iLovePDF | url:https://www.ilovepdf.com | ilovepdf, i love pdf, ай лав пдф, айлавпдф, ilovepdf.com
+site_smallpdf | Smallpdf | url:https://smallpdf.com | smallpdf, small pdf, смолпдф, смол пдф, smallpdf.com
+site_tinypng | TinyPNG | url:https://tinypng.com | tinypng, tiny png, тайни пнг, тинипнг, tinypng.com
+site_squoosh | Squoosh | url:https://squoosh.app | squoosh, скуош, сквош, squoosh.app
+site_convertio | Convertio | url:https://convertio.co | convertio, конвертио, convertio.co
+site_cloudconvert | CloudConvert | url:https://cloudconvert.com | cloudconvert, клауд конверт, cloudconvert.com
+site_bitly | Bitly | url:https://bitly.com | bitly, битли, bit.ly, сокращатель ссылок, bitly.com
+site_qr_generator | QR Code Generator | url:https://www.qr-code-generator.com | qr code generator, генератор qr, генератор qr кода, qr генератор, qr код онлайн, куар код генератор, qr-code-generator.com
+site_time_is | Time.is | url:https://time.is | time.is, time is, тайм из, точное время, точное время онлайн
+site_timeanddate | timeanddate.com | url:https://www.timeanddate.com | timeanddate, тайм энд дейт, мировое время, timeanddate.com
+site_pomofocus | Pomofocus | url:https://pomofocus.io | pomofocus, помофокус, помодоро таймер, pomodoro timer, pomofocus.io
+site_monkeytype | Monkeytype | url:https://monkeytype.com | monkeytype, monkey type, манкитайп, монкитайп, monkeytype.com
+site_10fastfingers | 10FastFingers | url:https://10fastfingers.com | 10fastfingers, 10 fast fingers, тен фаст фингерс, 10fastfingers.com
+site_keybr | Keybr | url:https://www.keybr.com | keybr, кейбр, кибр, keybr.com
+site_klavogonki | Клавогонки | url:https://klavogonki.ru | клавогонки, klavogonki, klavogonki.ru
+site_ratatype | Ratatype | url:https://www.ratatype.com | ratatype, рататайп, ratatype.com
+site_icloud_find | Локатор iCloud | url:https://www.icloud.com/find | найти айфон, find my iphone, локатор айфон, icloud find
+site_apple | Apple | url:https://www.apple.com | apple.com, apple сайт, эпл сайт, эппл сайт

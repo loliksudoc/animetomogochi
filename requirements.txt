@@ -1,0 +1,6 @@
+PySide6>=6.6
+openai>=1.30
+pygame>=2.5
+pynput>=1.7
+keyboard>=0.13
+Pillow>=10.0
