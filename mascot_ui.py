@@ -1420,7 +1420,7 @@ class BuddyController(QObject):
         if not targets:
             self.say("Что открыть? Например: 'открой телеграм', 'запусти стим', 'открой загрузки'.")
             return True
-        opened, web, missing, errors = [], [], [], []
+        opened, web, store, missing, errors = [], [], [], [], []
         for query in targets[:6]:
             match = self.launcher.resolve(query, allow_raw=allow_raw)
             if match is None:
@@ -1429,11 +1429,13 @@ class BuddyController(QObject):
             ok, info = self.launcher.launch(match)
             if not ok:
                 errors.append(info)
+            elif match.web_fallback and match.spec[1].startswith("steam://"):
+                store.append(match.title)
             elif match.web_fallback:
                 web.append(match.title)
             else:
                 opened.append(match.title)
-        if quiet_fail and not (opened or web or errors):
+        if quiet_fail and not (opened or web or store or errors):
             return False
 
         parts = []
@@ -1441,6 +1443,8 @@ class BuddyController(QObject):
             parts.append(random.choice(OPEN_PHRASES).format(", ".join(opened)))
         if web:
             parts.append(f"{', '.join(web)} на компьютере не нашла - открываю веб-версию.")
+        if store:
+            parts.append(f"{', '.join(store)} не установлена - открываю в Steam.")
         parts += errors
         for query in missing:
             hints = self.launcher.suggest(query)
@@ -1448,7 +1452,7 @@ class BuddyController(QObject):
         if missing and self.launcher.refreshing:
             parts.append("(Ещё сканирую установленные программы - попробуйте через пару секунд.)")
 
-        if opened or web:
+        if opened or web or store:
             self.mascot.react("jump")
             self.mascot.spawn("sparkle", 3)
         else:

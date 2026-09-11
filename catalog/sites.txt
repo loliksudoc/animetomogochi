@@ -238,7 +238,7 @@ site_confluence | Confluence | url:https://www.atlassian.com/software/confluence
 site_notion_web | Notion (веб) | url:https://www.notion.so | notion web, notion online, ноушен веб, ноушн веб, ноушен онлайн, ноушн онлайн, веб ноушен, notion в браузере, notion.com
 site_clickup | ClickUp | url:https://app.clickup.com | clickup.com
 site_asana | Asana | url:https://app.asana.com | asana.com
-site_linear | Linear | url:https://linear.app | linear
+site_linear | Linear | url:https://linear.app | site linear
 site_yougile | YouGile | url:https://ru.yougile.com | yougile, югайл, югиле, yougile.com
 site_bitrix24 | Битрикс24 | url:https://www.bitrix24.kz | bitrix24.kz, bitrix24.ru
 site_todoist | Todoist | url:https://app.todoist.com | todoist.com
