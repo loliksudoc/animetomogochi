@@ -68,6 +68,18 @@ def stem_key(text: str) -> str:
     return " ".join(stem_word(w) for w in norm(text).split())
 
 
+def edit_distance(a: str, b: str) -> int:
+    if abs(len(a) - len(b)) > 2:
+        return 3
+    prev = list(range(len(b) + 1))
+    for i, ca in enumerate(a, 1):
+        cur = [i]
+        for j, cb in enumerate(b, 1):
+            cur.append(min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (ca != cb)))
+        prev = cur
+    return prev[-1]
+
+
 def lat_key(text: str) -> str:
     s = "".join(_RU_LAT.get(ch, ch) for ch in norm(text))
     for a, b in (("wh", "v"), ("ph", "f"), ("ck", "k"), ("qu", "kv"), ("kh", "h"),
@@ -558,7 +570,10 @@ class AppLauncher:
             for ref in self.by_lat.get(lk, ()):
                 put(ref, 0.93 * factor, n)
             if len(lk) >= 3:
+                allowed = 0 if len(lk) <= 4 else 1 if len(lk) <= 7 else 2
                 for key in difflib.get_close_matches(lk, self.lat_keys, n=10, cutoff=0.8):
+                    if key[0] != lk[0] or edit_distance(lk, key) > allowed:
+                        continue
                     ratio = difflib.SequenceMatcher(None, lk, key).ratio()
                     for ref in self.by_lat[key]:
                         put(ref, ratio * 0.9 * factor, key)
@@ -610,7 +625,7 @@ class AppLauncher:
     def suggest(self, query: str, n: int = 3) -> list[str]:
         titles = []
         for m in self.candidates(query, limit=12):
-            if m.score >= 0.45 and m.title not in titles:
+            if m.score >= 0.6 and m.title not in titles:
                 titles.append(m.title)
         return titles[:n]
 
@@ -632,6 +647,8 @@ class AppLauncher:
             return ("uri", f"steam://rungameid/{app.value}")
         if app.kind == "epic":
             return ("uri", f"com.epicgames.launcher://apps/{app.value}?action=launch&silent=true")
+        if app.kind == "appsfolder" and "://" in app.value:
+            return ("uri", app.value)
         return (app.kind, app.value)
 
     def _find_by_name(self, name: str) -> Installed | None:

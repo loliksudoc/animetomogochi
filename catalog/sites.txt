@@ -46,7 +46,7 @@ site_google_ads | Google Ads | url:https://ads.google.com | google ads, гугл
 site_google_analytics | Google Analytics | url:https://analytics.google.com | google analytics, гугл аналитикс, гугл аналитика, ga4, analytics.google.com
 site_google_search_console | Google Search Console | url:https://search.google.com/search-console | google search console, search console, серч консоль, гугл серч консоль, гугл вебмастер
 site_youtube_studio | YouTube Studio | url:https://studio.youtube.com | youtube studio, ютуб студио, ютуб студия, студия ютуб, творческая студия ютуб, yt studio, studio.youtube.com
-site_google_find_device | Найти устройство (Google) | url:https://www.google.com/android/find | find my device, гугл поиск устройства, поиск телефона андроид, локатор андроид, google find my device
+site_google_find_device | Найти устройство (Google) | url:https://www.google.com/android/find | гугл поиск устройства, поиск телефона андроид, локатор андроид, google find my device
 site_google_timer | Таймер (Google) | url:https://www.google.com/search?q=timer | таймер онлайн, онлайн таймер, гугл таймер, timer online, google timer
 site_google_stopwatch | Секундомер (Google) | url:https://www.google.com/search?q=stopwatch | секундомер онлайн, онлайн секундомер, гугл секундомер, stopwatch online, google stopwatch
 site_google_calculator | Калькулятор (Google) | url:https://www.google.com/search?q=calculator | калькулятор онлайн, онлайн калькулятор, гугл калькулятор, calculator online, google calculator
@@ -83,7 +83,7 @@ site_excel_online | Excel Online | url:https://www.microsoft365.com/launch/excel
 site_powerpoint_online | PowerPoint Online | url:https://www.microsoft365.com/launch/powerpoint | powerpoint online, пауэрпоинт онлайн, поверпоинт онлайн, повер поинт онлайн, павер поинт онлайн, ппт онлайн, powerpoint web, powerpoint в браузере
 site_onedrive_web | OneDrive (веб) | url:https://onedrive.live.com | onedrive web, onedrive online, ванд драйв онлайн, ванддрайв онлайн, уан драйв онлайн, уандрайв онлайн, ванд драйв веб, веб onedrive, onedrive.live.com, onedrive.com
 site_teams_web | Teams (веб) | url:https://teams.microsoft.com | teams web, teams online, тимс веб, тимс онлайн, тимз онлайн, веб тимс, майкрософт тимс онлайн, teams в браузере, teams.microsoft.com
-site_outlook_calendar | Outlook Календарь | url:https://outlook.live.com/calendar/ | outlook calendar, аутлук календарь, календарь аутлук, outlook календарь
+site_outlook_calendar | Outlook Календарь | url:https://outlook.live.com/calendar/ | аутлук календарь, календарь аутлук, outlook календарь
 site_microsoft_forms | Microsoft Forms | url:https://forms.office.com | microsoft forms, майкрософт формы, forms.office.com
 site_microsoft_todo_web | Microsoft To Do (веб) | url:https://to-do.live.com | microsoft to do web, майкрософт ту ду онлайн, to do онлайн, to-do.live.com
 site_microsoft_learn | Microsoft Learn | url:https://learn.microsoft.com | microsoft learn, майкрософт лёрн, майкрософт лерн, microsoft docs, документация майкрософт, msdn, мсдн, learn.microsoft.com
@@ -527,7 +527,7 @@ site_cloudconvert | CloudConvert | url:https://cloudconvert.com | cloudconvert, 
 site_bitly | Bitly | url:https://bitly.com | bitly, битли, bit.ly, сокращатель ссылок, bitly.com
 site_qr_generator | QR Code Generator | url:https://www.qr-code-generator.com | qr code generator, генератор qr, генератор qr кода, qr генератор, qr код онлайн, куар код генератор, qr-code-generator.com
 site_time_is | Time.is | url:https://time.is | time.is, time is, тайм из, точное время, точное время онлайн
-site_timeanddate | timeanddate.com | url:https://www.timeanddate.com | timeanddate, тайм энд дейт, мировое время, timeanddate.com
+site_timeanddate | timeanddate.com | url:https://www.timeanddate.com | timeanddate, тайм энд дейт, timeanddate.com
 site_pomofocus | Pomofocus | url:https://pomofocus.io | pomofocus, помофокус, помодоро таймер, pomodoro timer, pomofocus.io
 site_monkeytype | Monkeytype | url:https://monkeytype.com | monkeytype, monkey type, манкитайп, монкитайп, monkeytype.com
 site_10fastfingers | 10FastFingers | url:https://10fastfingers.com | 10fastfingers, 10 fast fingers, тен фаст фингерс, 10fastfingers.com
