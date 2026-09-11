@@ -1,0 +1,593 @@
+chrome | Google Chrome | name:Google Chrome; exe:chrome.exe; path:%ProgramFiles%\Google\Chrome\Application\chrome.exe; path:%LOCALAPPDATA%\Google\Chrome\Application\chrome.exe; url:https://www.google.com/chrome/ | chrome, google chrome, хром, гугл хром, хроме, гугл хроме, хромчик, chrom, crome, chorme, хрон, гугол хром, хром браузер, браузер хром
+firefox | Mozilla Firefox | name:Firefox; name:Mozilla Firefox; exe:firefox.exe; path:%ProgramFiles%\Mozilla Firefox\firefox.exe; url:https://www.mozilla.org/firefox/ | firefox, mozilla firefox, фаерфокс, файрфокс, мозилла, мозила, mozilla, мозилла фаерфокс, мозила файрфокс, фирефокс, фаерфох, огнелис, ff, фф, firefox browser, firfox, farefox
+edge | Microsoft Edge | name:Microsoft Edge; exe:msedge.exe; path:%ProgramFiles(x86)%\Microsoft\Edge\Application\msedge.exe; uri:microsoft-edge:; url:https://www.microsoft.com/edge | edge, microsoft edge, эдж, едж, эйдж, майкрософт эдж, мс эдж, ms edge, эдже, едже, майкрософт едж, edge browser, egde
+opera | Opera | name:Opera Browser; path:%LOCALAPPDATA%\Programs\Opera\launcher.exe; url:https://www.opera.com | opera, опера, opera browser, опера браузер, браузер опера, опра, oprea, опэра
+opera_gx | Opera GX | name:Opera GX Browser; name:Opera GX; path:%LOCALAPPDATA%\Programs\Opera GX\launcher.exe; url:https://www.opera.com/gx | opera gx, опера gx, опера гх, опера джи икс, операгх, operagx, gx, гх, опера геймерская, геймерская опера, опера гэ икс, opera g x
+yandex_browser | Яндекс Браузер | name:Yandex; path:%LOCALAPPDATA%\Yandex\YandexBrowser\Application\browser.exe; url:https://browser.yandex.ru | яндекс браузер, yandex browser, браузер яндекс, яндекс бро, ябраузер, я браузер, яндекс браузер кз, yandex бро, яндыкс браузер
+brave | Brave | name:Brave; exe:brave.exe; path:%ProgramFiles%\BraveSoftware\Brave-Browser\Application\brave.exe; path:%LOCALAPPDATA%\BraveSoftware\Brave-Browser\Application\brave.exe; url:https://brave.com | brave, брейв, брэйв, брав, brave browser, брейв браузер, браве браузер, brav
+vivaldi | Vivaldi | name:Vivaldi; exe:vivaldi.exe; path:%LOCALAPPDATA%\Vivaldi\Application\vivaldi.exe; url:https://vivaldi.com | vivaldi, вивальди, вивалди, вивальди браузер, vivaldi browser, вивалъди
+tor_browser | Tor Browser | name:Tor Browser; path:%USERPROFILE%\Desktop\Tor Browser\Browser\firefox.exe; path:%USERPROFILE%\OneDrive\Desktop\Tor Browser\Browser\firefox.exe; url:https://www.torproject.org/download/ | tor browser, тор браузер, тор, tor, торбраузер, тор бровзер, тор браузэр, луковый браузер, tor браузер
+chromium | Chromium | name:Chromium; path:%LOCALAPPDATA%\Chromium\Application\chrome.exe; url:https://www.chromium.org | chromium, хромиум, хромиум браузер, хромий, chromium browser, хромимум
+arc | Arc | name:Arc; url:https://arc.net | arc browser, арк браузер, арк, arc, браузер арк
+waterfox | Waterfox | name:Waterfox; exe:waterfox.exe; url:https://www.waterfox.net | waterfox, вотерфокс, ватерфокс, уотерфокс
+librewolf | LibreWolf | name:LibreWolf; exe:librewolf.exe; url:https://librewolf.net | librewolf, либревольф, либре вольф, либревулф, libre wolf
+maxthon | Maxthon | name:Maxthon; exe:Maxthon.exe; url:https://www.maxthon.com | maxthon, макстон, максон браузер, макстхон
+atom_browser | Atom (браузер Mail.ru) | path:%LOCALAPPDATA%\Mail.Ru\Atom\Application\atom.exe; name:Atom; url:https://atom.ru | атом браузер, atom browser, браузер атом, атом мейл, atom mail.ru, атом от мейл ру
+amigo | Амиго | name:Амиго; name:Amigo; path:%LOCALAPPDATA%\Amigo\Application\amigo.exe | амиго, amigo, амиго браузер, amigo browser, браузер амиго
+opera_neon | Opera Neon | name:Opera Neon; url:https://www.operaneon.com | opera neon, опера неон, неон опера
+pale_moon | Pale Moon | name:Pale Moon; exe:palemoon.exe; url:https://www.palemoon.org | pale moon, палемун, пейл мун, пале мун, palemoon
+thorium | Thorium | name:Thorium; path:%LOCALAPPDATA%\Thorium\Application\thorium.exe; url:https://thorium.rocks | thorium, ториум, ториум браузер
+floorp | Floorp | name:Floorp; exe:floorp.exe; url:https://floorp.app | floorp, флорп, флоорп
+zen_browser | Zen Browser | name:Zen Browser; name:Zen; exe:zen.exe; url:https://zen-browser.app | zen browser, зен браузер, зен, zen, браузер зен
+duckduckgo_browser | DuckDuckGo Browser | name:DuckDuckGo; url:https://duckduckgo.com/windows | duckduckgo, дакдакго, дак дак го, duckduckgo browser, утка браузер, ddg
+comet_browser | Comet (Perplexity) | name:Comet; url:https://www.perplexity.ai/comet | comet, комет, комет браузер, comet browser, perplexity comet, перплексити комет
+telegram | Telegram | name:Telegram; exe:Telegram.exe; path:%APPDATA%\Telegram Desktop\Telegram.exe; uri:tg://; url:https://web.telegram.org | telegram, телеграм, телеграмм, телега, тг, tg, телеграм десктоп, telegram desktop, телеграмм десктоп, телеграмчик, телегу, телеграмп, телеграммчик, телеграмка, телеграм кз, телик, telegramm, telegarm
+ayugram | AyuGram | name:AyuGram; exe:AyuGram.exe | ayugram, аюграм, аю грам, ayu gram
+whatsapp | WhatsApp | name:WhatsApp; uwp:5319275A.WhatsAppDesktop; uri:whatsapp:; url:https://web.whatsapp.com | whatsapp, ватсап, вотсап, вацап, ватсапп, вотсапп, воцап, ватцап, whats app, what's app, ватс ап, вотс ап, уатсап, ватсаб, вотсаб, wa, вацапп, ватсапчик, whatsap, watsapp
+discord | Discord | name:Discord; exe:Discord.exe; uri:discord://; url:https://discord.com/app | discord, дискорд, дс, ds, дискорт, дискард, дизкорд, дискордик, discrod, dicsord, disord, дискод, дискорд десктоп
+viber | Viber | name:Viber; exe:Viber.exe; path:%LOCALAPPDATA%\Viber\Viber.exe; uri:viber://; url:https://www.viber.com/download/ | viber, вайбер, вибер, вайбир, вайбер десктоп, viber desktop, вайбэр, вайбр
+skype | Skype | name:Skype; exe:Skype.exe; uwp:Microsoft.SkypeApp; uri:skype:; url:https://web.skype.com | skype, скайп, скайпе, скап, skaip, скаип, скайпик
+zoom | Zoom | name:Zoom Workplace; name:Zoom; exe:Zoom.exe; path:%APPDATA%\Zoom\bin\Zoom.exe; uri:zoommtg://; url:https://app.zoom.us/wc | zoom, зум, зуум, зоом, zoom workplace, zoom meetings, зум конференция, зумчик, зум митинг, zoom us, зум воркплейс
+teams | Microsoft Teams | name:Microsoft Teams; exe:ms-teams.exe; uwp:MSTeams; uri:msteams:; url:https://teams.microsoft.com | teams, microsoft teams, ms teams, тимс, тимз, майкрософт тимс, мс тимс, тимсы, тиимс, teems
+slack | Slack | name:Slack; exe:slack.exe; uri:slack://; url:https://app.slack.com/client | slack, слак, слэк, слек, слаак, slak
+signal | Signal | name:Signal; path:%LOCALAPPDATA%\Programs\signal-desktop\Signal.exe; uri:sgnl://; url:https://signal.org/download/ | signal, сигнал, signal desktop, сигнал мессенджер, сигнал десктоп
+vk_messenger | VK Мессенджер | name:VK Мессенджер; name:VK Messenger; url:https://vk.com/im | vk messenger, вк мессенджер, vk мессенджер, мессенджер вк, вконтакте мессенджер, сообщения вк, вк сообщения, вкашка мессенджер
+max_messenger | MAX | name:MAX; url:https://web.max.ru | max мессенджер, макс мессенджер, мессенджер макс, max messenger, мессенджер max
+icq | ICQ | name:ICQ; exe:icq.exe; url:https://icq.im | icq, аська, ася, айсикью, icq new, ася мессенджер
+element | Element | name:Element; path:%LOCALAPPDATA%\element-desktop\Element.exe; url:https://app.element.io | element, элемент, element matrix, элемент матрикс, matrix element, riot im
+wechat | WeChat | name:WeChat; name:Weixin; exe:WeChat.exe; url:https://web.wechat.com | wechat, вичат, вечат, вичет, weixin, вейсинь, ви чат
+line | LINE | name:LINE; path:%LOCALAPPDATA%\LINE\bin\LineLauncher.exe; url:https://line.me | line messenger, лайн мессенджер, лайн, line app, line мессенджер
+kakaotalk | KakaoTalk | name:KakaoTalk; exe:KakaoTalk.exe; url:https://www.kakaocorp.com/page/service/service/KakaoTalk | kakaotalk, какаоток, какао ток, kakao talk, какао толк
+teamspeak | TeamSpeak | name:TeamSpeak; name:TeamSpeak 3 Client; exe:ts3client_win64.exe; path:%ProgramFiles%\TeamSpeak 3 Client\ts3client_win64.exe; uri:ts3server://; url:https://teamspeak.com/downloads | teamspeak, тимспик, тим спик, ts3, тс3, teamspeak 3, тимспик 3, ts, тс, тимспик 5, тимспик 6, team speak
+mumble | Mumble | name:Mumble; exe:mumble.exe; url:https://www.mumble.info | mumble, мамбл, мумбл, мамбле
+yandex_telemost | Яндекс Телемост | name:Яндекс Телемост; name:Telemost; url:https://telemost.yandex.ru | телемост, яндекс телемост, telemost, yandex telemost, телемост яндекс, я телемост
+kontur_tolk | Контур.Толк | name:Толк; name:Контур.Толк; url:https://ktalk.ru | контур толк, толк, ktalk, контур.толк, к толк, контур талк, толк контур
+yandex_messenger | Яндекс Мессенджер | name:Яндекс Мессенджер; name:Yandex Messenger; url:https://messenger.yandex.ru | яндекс мессенджер, yandex messenger, я мессенджер, мессенджер яндекс
+vk_calls | VK Звонки | name:VK Звонки; name:VK Calls; url:https://calls.vk.com | вк звонки, vk звонки, vk calls, звонки вк, звонки вконтакте
+webex | Webex | name:Webex; name:Cisco Webex Meetings; exe:CiscoCollabHost.exe; url:https://web.webex.com | webex, вебекс, cisco webex, циско вебекс, вебэкс
+mattermost | Mattermost | name:Mattermost; url:https://mattermost.com/download/ | mattermost, маттермост, матермост
+bitrix24 | Битрикс24 | name:Bitrix24; name:Битрикс24; url:https://www.bitrix24.ru | битрикс24, битрикс 24, битрикс, bitrix24, bitrix, bitrix 24, битрикс десктоп
+rocket_chat | Rocket.Chat | name:Rocket.Chat; url:https://www.rocket.chat/download-apps | rocket.chat, рокет чат, rocketchat, рокетчат
+jitsi_meet | Jitsi Meet | name:Jitsi Meet; url:https://meet.jit.si | jitsi, джитси, jitsi meet, джитси мит
+thunderbird | Mozilla Thunderbird | name:Thunderbird; name:Mozilla Thunderbird; exe:thunderbird.exe; path:%ProgramFiles%\Mozilla Thunderbird\thunderbird.exe; url:https://www.thunderbird.net | thunderbird, тандерберд, тандербёрд, тундерберд, тандербирд, мозилла тандерберд, thunder bird
+the_bat | The Bat! | name:The Bat!; exe:thebat64.exe; url:https://www.ritlabs.com/ru/products/thebat/ | the bat, зе бат, зебат, the bat!, бат почтовик, летучая мышь почта
+em_client | eM Client | name:eM Client; exe:MailClient.exe; url:https://www.emclient.com | em client, ем клиент, эм клиент, emclient, имклиент
+mailspring | Mailspring | name:Mailspring; url:https://getmailspring.com | mailspring, мейлспринг, мэйлспринг
+mailbird | Mailbird | name:Mailbird; url:https://www.getmailbird.com | mailbird, мейлберд, мэйлберд
+spark_mail | Spark Mail | name:Spark Desktop; name:Spark; url:https://sparkmailapp.com | spark mail, спарк мейл, спарк почтовик, spark desktop
+spotify | Spotify | name:Spotify; exe:Spotify.exe; uwp:SpotifyAB.SpotifyMusic; uri:spotify:; url:https://open.spotify.com | spotify, спотифай, спотифи, спотик, спотифу, спотифаи, спотифай музыка, spotfy, spotifu, spotyfi, спотифайчик, спотифай десктоп
+yandex_music | Яндекс Музыка | name:Яндекс Музыка; name:Yandex Music; url:https://music.yandex.ru | яндекс музыка, yandex music, я музыка, ямузыка, музыка яндекс, яндекс мьюзик, yamusic, яндекс музыку, ям музыка, яндекс мюзик
+itunes | iTunes | name:iTunes; exe:iTunes.exe; uwp:AppleInc.iTunes; path:%ProgramFiles%\iTunes\iTunes.exe; url:https://www.apple.com/itunes/ | itunes, айтюнс, айтюнз, ай тюнс, itunes apple, айтюн, итюнс
+apple_music | Apple Music | name:Apple Music; uwp:AppleInc.AppleMusicWin; url:https://music.apple.com | apple music, эпл мьюзик, эппл мьюзик, эпл музыка, эппл музыка, апл мьюзик, эпл мюзик
+apple_tv | Apple TV | name:Apple TV; uwp:AppleInc.AppleTVWin; url:https://tv.apple.com | apple tv, эпл тв, эппл тв, апл тв, эпл тиви
+youtube_music | YouTube Music | name:YouTube Music; name:YouTube Music Desktop App; url:https://music.youtube.com | youtube music, ютуб музыка, ютуб мьюзик, ютуб мюзик, yt music, ютюб музыка, youtube music desktop
+deezer | Deezer | name:Deezer; url:https://www.deezer.com | deezer, дизер, дезер, дизэр
+tidal | TIDAL | name:TIDAL; url:https://listen.tidal.com | tidal, тайдал, тидал, тайдл
+winamp | Winamp | name:Winamp; exe:winamp.exe; path:%ProgramFiles(x86)%\Winamp\winamp.exe; url:https://www.winamp.com | winamp, винамп, вин амп, винамп плеер, winamp player
+aimp | AIMP | name:AIMP; exe:AIMP.exe; path:%ProgramFiles%\AIMP\AIMP.exe; path:%ProgramFiles(x86)%\AIMP\AIMP.exe; url:https://www.aimp.ru | aimp, аимп, аймп, эймп, аимп плеер, aimp player, аимп3, aimp 5
+foobar2000 | foobar2000 | name:foobar2000; exe:foobar2000.exe; path:%ProgramFiles%\foobar2000\foobar2000.exe; path:%ProgramFiles(x86)%\foobar2000\foobar2000.exe; url:https://www.foobar2000.org | foobar2000, foobar, фубар, фубар 2000, foobar 2000, фуубар, фубар2000
+musicbee | MusicBee | name:MusicBee; exe:MusicBee.exe; url:https://getmusicbee.com | musicbee, мьюзикби, музикби, music bee, мюзик би
+mediamonkey | MediaMonkey | name:MediaMonkey; exe:MediaMonkey.exe; url:https://www.mediamonkey.com | mediamonkey, медиамонки, медиа манки, media monkey
+clementine | Clementine | name:Clementine; exe:clementine.exe; url:https://www.clementine-player.org | clementine, клементин, клементина плеер
+potplayer | PotPlayer | name:PotPlayer; exe:PotPlayerMini64.exe; path:%ProgramFiles%\DAUM\PotPlayer\PotPlayerMini64.exe; path:%ProgramFiles%\PotPlayer\PotPlayerMini64.exe; url:https://potplayer.daum.net | potplayer, потплеер, пот плеер, потплейер, пот плейер, daum potplayer, потплэер, pot player
+mpc_hc | MPC-HC | name:MPC-HC; exe:mpc-hc64.exe; path:%ProgramFiles%\MPC-HC\mpc-hc64.exe; path:%ProgramFiles(x86)%\K-Lite Codec Pack\MPC-HC64\mpc-hc64.exe; url:https://github.com/clsid2/mpc-hc/releases | mpc-hc, mpc hc, mpc, мпц, мпс, media player classic, медиа плеер классик, медиаплеер классик, mpchc, мпц хц, k-lite плеер
+mpc_be | MPC-BE | name:MPC-BE; exe:mpc-be64.exe; path:%ProgramFiles%\MPC-BE x64\mpc-be64.exe; url:https://sourceforge.net/projects/mpcbe/ | mpc-be, mpc be, мпц бе, мпц be, media player classic black edition
+kmplayer | KMPlayer | name:KMPlayer; exe:KMPlayer64.exe; exe:KMPlayer.exe; url:https://www.kmplayer.com | kmplayer, кмплеер, км плеер, kmp, кмп, km player, кмплейер
+vlc | VLC media player | name:VLC media player; exe:vlc.exe; path:%ProgramFiles%\VideoLAN\VLC\vlc.exe; path:%ProgramFiles(x86)%\VideoLAN\VLC\vlc.exe; url:https://www.videolan.org/vlc/ | vlc, влц, влс, vlc player, vlc media player, влц плеер, видеолан, videolan, конус плеер, вэлэцэ, влк
+gom_player | GOM Player | name:GOM Player; exe:GOM.exe; url:https://www.gomlab.com | gom player, gom, гом плеер, гом, гомплеер
+kodi | Kodi | name:Kodi; exe:kodi.exe; path:%ProgramFiles%\Kodi\kodi.exe; url:https://kodi.tv | kodi, коди, xbmc, коди медиацентр
+plex | Plex | name:Plex; url:https://app.plex.tv | plex, плекс, plex media, плекс медиа
+jellyfin | Jellyfin Media Player | name:Jellyfin Media Player; name:Jellyfin; exe:JellyfinMediaPlayer.exe; url:https://jellyfin.org | jellyfin, джеллифин, джелифин, jellyfin media player
+stremio | Stremio | name:Stremio; url:https://web.stremio.com | stremio, стремио, стримио, стрэмио
+mpv | mpv | name:mpv; exe:mpv.exe; url:https://mpv.io | mpv, мпв, mpv player, мпв плеер
+smplayer | SMPlayer | name:SMPlayer; exe:smplayer.exe; url:https://www.smplayer.info | smplayer, смплеер, sm player, эсэм плеер
+netflix | Netflix | name:Netflix; uwp:4DF9E0F8.Netflix; url:https://www.netflix.com | netflix, нетфликс, нэтфликс, нетфлекс
+prime_video | Prime Video | name:Prime Video; name:Amazon Prime Video; url:https://www.primevideo.com | prime video, прайм видео, amazon prime video, амазон прайм
+obs | OBS Studio | name:OBS Studio; exe:obs64.exe; path:%ProgramFiles%\obs-studio\bin\64bit\obs64.exe; url:https://obsproject.com | obs, обс, obs studio, обс студио, обс студия, обска, open broadcaster software, obs64, обэс, обс стрим
+streamlabs | Streamlabs Desktop | name:Streamlabs Desktop; name:Streamlabs OBS; name:Streamlabs; url:https://streamlabs.com | streamlabs, стримлабс, стрим лабс, streamlabs obs, slobs, стримлабс обс, streamlabs desktop
+xsplit | XSplit Broadcaster | name:XSplit Broadcaster; name:XSplit; url:https://www.xsplit.com | xsplit, иксплит, хсплит, икс сплит, xsplit broadcaster
+meld_studio | Meld Studio | name:Meld Studio; url:https://meldstudio.co | meld studio, мелд студио, мелд
+bandicam | Bandicam | name:Bandicam; exe:bdcam.exe; path:%ProgramFiles%\Bandicam\bdcam.exe; url:https://www.bandicam.com | bandicam, бандикам, бандикамп, банди кам, бандикам запись, bandicam recorder
+fraps | Fraps | name:Fraps; exe:fraps.exe; path:C:\Fraps\fraps.exe; url:https://fraps.com | fraps, фрапс
+action_mirillis | Mirillis Action! | name:Action!; url:https://mirillis.com/action | mirillis action, мириллис экшн, мирилис экшен, action mirillis, экшн мириллис
+camtasia | Camtasia | name:Camtasia; url:https://www.techsmith.com/camtasia/ | camtasia, камтазия, камтасия, камтазиа
+screentogif | ScreenToGif | name:ScreenToGif; exe:ScreenToGif.exe; url:https://www.screentogif.com | screentogif, screen to gif, скринтугиф, скрин ту гиф, гифка запись
+movavi_screen_recorder | Movavi Screen Recorder | name:Movavi Screen Recorder; url:https://www.movavi.ru/screen-recorder/ | movavi screen recorder, мовави скрин рекордер, мовави запись экрана
+nvidia_app | NVIDIA App | name:NVIDIA app; path:%ProgramFiles%\NVIDIA Corporation\NVIDIA App\CEF\NVIDIA App.exe; url:https://www.nvidia.com/software/nvidia-app/ | nvidia app, нвидиа апп, нвидия апп, нвидиа приложение, приложение nvidia, shadowplay, шадоуплей, шедоуплей, шадоу плей, nvidia overlay, оверлей нвидиа, нвидиа app
+geforce_experience | GeForce Experience | name:GeForce Experience; name:NVIDIA GeForce Experience; path:%ProgramFiles%\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA GeForce Experience.exe; url:https://www.nvidia.com/geforce/geforce-experience/ | geforce experience, джифорс экспириенс, гефорс экспириенс, джифорс експириенс, geforce, джифорс, гефорс, gfe, джифорс экспириэнс
+nvidia_broadcast | NVIDIA Broadcast | name:NVIDIA Broadcast; url:https://www.nvidia.com/broadcast-app/ | nvidia broadcast, нвидиа бродкаст, нвидия бродкаст, бродкаст
+medal | Medal | name:Medal; url:https://medal.tv | medal, медал, medal tv, медал тв, медаль клипы
+voicemod | Voicemod | name:Voicemod; url:https://www.voicemod.net | voicemod, войсмод, воисмод, войс мод, изменитель голоса, голосовой модификатор
+voicemeeter | Voicemeeter | name:Voicemeeter; name:Voicemeeter Banana; name:Voicemeeter Potato; path:%ProgramFiles(x86)%\VB\Voicemeeter\voicemeeter.exe; url:https://vb-audio.com/Voicemeeter/ | voicemeeter, войсмитер, воисмитер, voicemeter, voicemeeter banana, войсмитер банана, войсмитер потато, voice meeter
+krisp | Krisp | name:Krisp; url:https://krisp.ai | krisp, крисп, шумоподавление krisp
+streamerbot | Streamer.bot | name:Streamer.bot; exe:Streamer.bot.exe; url:https://streamer.bot | streamer.bot, streamerbot, стример бот, стримербот, streamer bot
+stream_deck | Elgato Stream Deck | name:Elgato Stream Deck; name:Stream Deck; url:https://www.elgato.com/downloads | stream deck, стрим дек, стримдек, elgato stream deck, элгато стрим дек, streamdeck
+elgato_camera_hub | Elgato Camera Hub | name:Camera Hub; name:Elgato Camera Hub; url:https://www.elgato.com/downloads | elgato camera hub, камера хаб, camera hub, элгато камера хаб
+elgato_4k_capture | Elgato 4K Capture Utility | name:4K Capture Utility; url:https://www.elgato.com/downloads | 4k capture utility, элгато карта захвата, elgato capture, элгато кэпчер
+touch_portal | Touch Portal | name:Touch Portal; url:https://www.touch-portal.com | touch portal, тач портал, тачпортал
+office_hub | Microsoft 365 (Office) | name:Microsoft 365 Copilot; name:Microsoft 365; name:Office; uwp:Microsoft.MicrosoftOfficeHub; url:https://www.office.com | microsoft office, майкрософт офис, офис, office, microsoft 365, офис 365, office 365, m365, мс офис, ms office, майкрософт 365
+word | Microsoft Word | name:Word; exe:WINWORD.EXE; path:%ProgramFiles%\Microsoft Office\root\Office16\WINWORD.EXE; path:%ProgramFiles(x86)%\Microsoft Office\root\Office16\WINWORD.EXE; url:https://www.office.com/launch/word | word, ворд, ms word, microsoft word, майкрософт ворд, мс ворд, вордик, ворт, винворд, winword, вёрд, ворд документ, word документ, wrod
+excel | Microsoft Excel | name:Excel; exe:EXCEL.EXE; path:%ProgramFiles%\Microsoft Office\root\Office16\EXCEL.EXE; path:%ProgramFiles(x86)%\Microsoft Office\root\Office16\EXCEL.EXE; url:https://www.office.com/launch/excel | excel, эксель, ексель, эксел, иксель, excell, exel, ms excel, microsoft excel, майкрософт эксель, мс эксель, экселька, эксэль, эксел таблица
+powerpoint | Microsoft PowerPoint | name:PowerPoint; exe:POWERPNT.EXE; path:%ProgramFiles%\Microsoft Office\root\Office16\POWERPNT.EXE; path:%ProgramFiles(x86)%\Microsoft Office\root\Office16\POWERPNT.EXE; url:https://www.office.com/launch/powerpoint | powerpoint, power point, пауэрпоинт, пауэр поинт, поверпоинт, повер поинт, павер поинт, паверпоинт, павэрпоинт, ппт, ppt, ms powerpoint, microsoft powerpoint, майкрософт пауэрпоинт, поинт майкрософт
+outlook | Microsoft Outlook | name:Outlook; exe:OUTLOOK.EXE; exe:olk.exe; uwp:Microsoft.OutlookForWindows; uri:outlookmail:; url:https://outlook.live.com | outlook, аутлук, оутлук, аутлюк, ms outlook, microsoft outlook, майкрософт аутлук, аутлук почта, outlook почта, new outlook, аутлук мейл
+onenote | Microsoft OneNote | name:OneNote; exe:ONENOTE.EXE; uri:onenote:; url:https://www.onenote.com | onenote, one note, ваннот, ван нот, уаннот, ванноут, ван ноут, ms onenote, microsoft onenote, майкрософт ваннот
+access | Microsoft Access | exe:MSACCESS.EXE; path:%ProgramFiles%\Microsoft Office\root\Office16\MSACCESS.EXE; name:Access | microsoft access, ms access, аксесс, аксес, майкрософт аксесс, мс аксесс, access база данных
+publisher | Microsoft Publisher | exe:MSPUB.EXE; path:%ProgramFiles%\Microsoft Office\root\Office16\MSPUB.EXE; name:Publisher | publisher, microsoft publisher, ms publisher, паблишер, публишер, майкрософт паблишер
+ms_project | Microsoft Project | exe:WINPROJ.EXE; path:%ProgramFiles%\Microsoft Office\root\Office16\WINPROJ.EXE; name:Project | microsoft project, ms project, майкрософт проджект, мс проджект, проджект, мс project
+visio | Microsoft Visio | exe:VISIO.EXE; path:%ProgramFiles%\Microsoft Office\root\Office16\VISIO.EXE; name:Visio | visio, визио, вижио, ms visio, microsoft visio, майкрософт визио
+libreoffice | LibreOffice | name:LibreOffice; path:%ProgramFiles%\LibreOffice\program\soffice.exe; exe:soffice.exe; url:https://www.libreoffice.org/download/ | libreoffice, libre office, либреофис, либре офис, либреоффис, либра офис, либре, liberoffice, либер офис
+libreoffice_writer | LibreOffice Writer | name:LibreOffice Writer; path:%ProgramFiles%\LibreOffice\program\swriter.exe; exe:swriter.exe | libreoffice writer, libre writer, либре райтер, либреофис райтер, либре офис райтер, райтер, writer, либре writer
+libreoffice_calc | LibreOffice Calc | name:LibreOffice Calc; path:%ProgramFiles%\LibreOffice\program\scalc.exe; exe:scalc.exe | libreoffice calc, libre calc, либре калк, либреофис калк, калк либре, либре офис калк
+libreoffice_impress | LibreOffice Impress | name:LibreOffice Impress; path:%ProgramFiles%\LibreOffice\program\simpress.exe; exe:simpress.exe | libreoffice impress, libre impress, импресс, impress, либре импресс, либреофис импресс
+libreoffice_draw | LibreOffice Draw | name:LibreOffice Draw; path:%ProgramFiles%\LibreOffice\program\sdraw.exe; exe:sdraw.exe | libreoffice draw, libre draw, либре дро, либреофис дро, либре драв
+libreoffice_base | LibreOffice Base | name:LibreOffice Base; path:%ProgramFiles%\LibreOffice\program\sbase.exe; exe:sbase.exe | libreoffice base, libre base, либре бейс, либреофис база
+openoffice | Apache OpenOffice | name:OpenOffice; name:Apache OpenOffice; path:%ProgramFiles(x86)%\OpenOffice 4\program\soffice.exe; url:https://www.openoffice.org/download/ | openoffice, open office, опенофис, опен офис, апач опенофис, apache openoffice, опен оффис
+onlyoffice | ONLYOFFICE | name:ONLYOFFICE; path:%ProgramFiles%\ONLYOFFICE\DesktopEditors\DesktopEditors.exe; url:https://www.onlyoffice.com/download-desktop.aspx | onlyoffice, only office, онлиофис, онли офис, onlyoffice desktop editors, онлиоффис
+wps_office | WPS Office | name:WPS Office; exe:wps.exe; path:%LOCALAPPDATA%\Kingsoft\WPS Office\ksolaunch.exe; url:https://www.wps.com | wps office, wps, впс офис, впс, wps офис, кингсофт, kingsoft office, вэпээс офис
+myoffice | МойОфис | name:МойОфис; name:MyOffice; url:https://myoffice.ru | мойофис, мой офис, myoffice, my office, мой офис текст, мой офис таблица
+r7_office | Р7-Офис | name:Р7-Офис; name:R7-Office; url:https://r7-office.ru | р7 офис, р7-офис, р7офис, r7 office, r7-office, р7, эр7 офис
+adobe_acrobat | Adobe Acrobat | name:Adobe Acrobat; exe:Acrobat.exe; path:%ProgramFiles%\Adobe\Acrobat DC\Acrobat\Acrobat.exe; url:https://acrobat.adobe.com | adobe acrobat, адоб акробат, адобе акробат, акробат, acrobat pro, акробат про, acrobat dc, акробат дс
+acrobat_reader | Adobe Acrobat Reader | name:Adobe Acrobat Reader; name:Adobe Acrobat Reader DC; exe:AcroRd32.exe; path:%ProgramFiles(x86)%\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe; path:%ProgramFiles%\Adobe\Acrobat DC\Acrobat\Acrobat.exe; url:https://get.adobe.com/reader/ | acrobat reader, адоб ридер, адобе ридер, adobe reader, акробат ридер, adobe acrobat reader, акробат рідер, адоб акробат ридер, acrobat reader dc, ридер адоб
+sumatra_pdf | SumatraPDF | name:SumatraPDF; exe:SumatraPDF.exe; path:%LOCALAPPDATA%\SumatraPDF\SumatraPDF.exe; path:%ProgramFiles%\SumatraPDF\SumatraPDF.exe; url:https://www.sumatrapdfreader.org | sumatra, sumatrapdf, sumatra pdf, суматра, суматра пдф, суматра pdf, суматра ридер
+foxit_reader | Foxit PDF Reader | name:Foxit PDF Reader; name:Foxit Reader; exe:FoxitPDFReader.exe; url:https://www.foxit.com/pdf-reader/ | foxit reader, foxit, фоксит, фоксит ридер, foxit pdf reader, фоксит пдф
+foxit_editor | Foxit PDF Editor | name:Foxit PDF Editor; name:Foxit PhantomPDF; exe:FoxitPDFEditor.exe; url:https://www.foxit.com/pdf-editor/ | foxit editor, foxit pdf editor, фоксит эдитор, фоксит редактор, phantompdf, фантом пдф
+pdf_xchange | PDF-XChange Editor | name:PDF-XChange Editor; exe:PDFXEdit.exe; url:https://www.tracker-software.com/product/pdf-xchange-editor | pdf-xchange, pdf xchange, pdf-xchange editor, xchange editor, пдф иксчендж, иксчейндж, пдф эксчейндж
+pdfgear | PDFgear | name:PDFgear; url:https://www.pdfgear.com | pdfgear, pdf gear, пдфгир, пдф гир
+nitro_pdf | Nitro PDF Pro | name:Nitro PDF Pro; name:Nitro Pro; url:https://www.gonitro.com | nitro pdf, nitro pro, нитро пдф, нитро про
+stdu_viewer | STDU Viewer | name:STDU Viewer; exe:STDUViewerApp.exe; url:https://www.stdutility.com/stduviewer.html | stdu viewer, stdu, стду вьювер, стду
+windjview | WinDjView | name:WinDjView; exe:WinDjView.exe; url:https://windjview.sourceforge.io | windjview, djvu, дежавю, джвю, виндежавю, djvu reader, дежавю ридер
+abbyy_finereader | ABBYY FineReader | name:ABBYY FineReader PDF; name:ABBYY FineReader; url:https://pdf.abbyy.com | abbyy finereader, finereader, файнридер, файн ридер, абби файнридер, abbyy, абби, файнридер абби
+calibre | calibre | name:calibre; path:%ProgramFiles%\Calibre2\calibre.exe; url:https://calibre-ebook.com/download | calibre, калибр, калибре, calibre ebook, калибр книги
+kindle | Kindle | name:Kindle; url:https://read.amazon.com | kindle, киндл, киндле, amazon kindle, амазон киндл
+adobe_digital_editions | Adobe Digital Editions | name:Adobe Digital Editions; url:https://www.adobe.com/solutions/ebook/digital-editions/download.html | adobe digital editions, диджитал эдишнс, адоб диджитал эдишн, ade
+zotero | Zotero | name:Zotero; exe:zotero.exe; url:https://www.zotero.org | zotero, зотеро, зотэро
+mendeley | Mendeley Reference Manager | name:Mendeley Reference Manager; name:Mendeley Desktop; url:https://www.mendeley.com | mendeley, мендели, менделей, мендэлей
+scrivener | Scrivener | name:Scrivener 3; name:Scrivener; url:https://www.literatureandlatte.com/scrivener | scrivener, скривенер, скривнер
+grammarly | Grammarly | name:Grammarly; url:https://app.grammarly.com | grammarly, грамарли, граммарли, грамерли
+deepl | DeepL | name:DeepL; url:https://www.deepl.com/translator | deepl, дипл, дипэл, deepl translator, дипл переводчик
+abbyy_lingvo | ABBYY Lingvo | name:ABBYY Lingvo; name:Lingvo; url:https://www.lingvolive.com | lingvo, лингво, abbyy lingvo, абби лингво, лингво словарь
+promt | PROMT | name:PROMT; url:https://www.translate.ru | promt, промт переводчик, промт, promt translator
+qtranslate | QTranslate | name:QTranslate; exe:QTranslate.exe; url:https://quest-app.appspot.com | qtranslate, кьютранслейт, ку транслейт, q translate
+crow_translate | Crow Translate | name:Crow Translate; url:https://crow-translate.github.io | crow translate, кроу транслейт, кроутранслейт
+obsidian | Obsidian | name:Obsidian; path:%LOCALAPPDATA%\Programs\Obsidian\Obsidian.exe; uri:obsidian://; url:https://obsidian.md | obsidian, обсидиан, обсидан, обсидиан мд, obsidian md, обсидиан заметки, абсидиан
+notion | Notion | name:Notion; path:%LOCALAPPDATA%\Programs\Notion\Notion.exe; uri:notion://; url:https://www.notion.so | notion, ноушен, ноушн, ношн, нотион, ноутион, ноушэн, notion so, ноушен заметки, notin
+notion_calendar | Notion Calendar | name:Notion Calendar; url:https://calendar.notion.so | notion calendar, ноушен календарь, календарь ноушен, cron calendar
+evernote | Evernote | name:Evernote; exe:Evernote.exe; url:https://www.evernote.com/client/web | evernote, эверноут, евернот, эвернот
+todoist | Todoist | name:Todoist; url:https://app.todoist.com | todoist, тудуист, тодоист, ту ду ист, тудуист задачи
+ticktick | TickTick | name:TickTick; url:https://ticktick.com/webapp | ticktick, тиктик, тик тик, tick tick
+ms_todo | Microsoft To Do | name:Microsoft To Do; uwp:Microsoft.Todos; url:https://to-do.office.com | microsoft to do, ms todo, todo, to do, туду, ту ду, майкрософт туду, туду лист, todo list
+joplin | Joplin | name:Joplin; path:%LOCALAPPDATA%\Programs\Joplin\Joplin.exe; url:https://joplinapp.org | joplin, джоплин, жоплин, joplin notes
+logseq | Logseq | name:Logseq; url:https://logseq.com | logseq, логсек, логсик, лог сек
+anytype | Anytype | name:Anytype; url:https://anytype.io | anytype, энитайп, эни тайп, анитайп
+affine | AFFiNE | name:AFFiNE; url:https://app.affine.pro | affine, аффин, аффайн, affine notes
+typora | Typora | name:Typora; exe:Typora.exe; url:https://typora.io | typora, тайпора, типора, тайпора маркдаун
+marktext | MarkText | name:MarkText; url:https://www.marktext.cc | marktext, mark text, марктекст, марк текст
+anki | Anki | name:Anki; path:%LOCALAPPDATA%\Programs\Anki\anki.exe; path:%ProgramFiles%\Anki\anki.exe; url:https://ankiweb.net | anki, анки, anki карточки, анки карточки
+xmind | Xmind | name:Xmind; exe:Xmind.exe; url:https://xmind.app | xmind, x mind, иксмайнд, иксмаинд, хмайнд, икс майнд, xmind карта
+miro | Miro | name:Miro; url:https://miro.com/app | miro, миро, миро доска, miro board
+ms_whiteboard | Microsoft Whiteboard | name:Whiteboard; name:Microsoft Whiteboard; uwp:Microsoft.Whiteboard; url:https://whiteboard.office.com | microsoft whiteboard, whiteboard, вайтборд, уайтборд, доска майкрософт
+trello | Trello | name:Trello; url:https://trello.com | trello, трелло, трело, трелло доска, trelo
+clickup | ClickUp | name:ClickUp; url:https://app.clickup.com | clickup, click up, кликап, клик ап
+linear | Linear | name:Linear; url:https://linear.app | linear, linear app, линеар, линир, линеар апп
+asana | Asana | name:Asana; url:https://app.asana.com | asana, асана, asana tasks
+toggl_track | Toggl Track | name:Toggl Track; url:https://track.toggl.com | toggl, toggl track, тогл, тоггл, тогл трек
+vscode | Visual Studio Code | name:Visual Studio Code; exe:Code.exe; path:%LOCALAPPDATA%\Programs\Microsoft VS Code\Code.exe; path:%ProgramFiles%\Microsoft VS Code\Code.exe; uri:vscode://; url:https://vscode.dev | vscode, vs code, visual studio code, вскод, вс код, вскоде, визуал студио код, вижуал студио код, визуал код, вижуал код, visual code, vsc, вэс код, вс коде, вискод
+visual_studio | Visual Studio | exe:devenv.exe; path:%ProgramFiles%\Microsoft Visual Studio\*\*\Common7\IDE\devenv.exe; name:Visual Studio 2026; name:Visual Studio 2022; name:Visual Studio 2019; url:https://visualstudio.microsoft.com | visual studio, визуал студио, вижуал студио, визуал студия, вижуал студия, vs, вс, vs 2022, vs2022, visual studio 2022, visual studio 2026, вижак, визуалка, вижуал студио 2022
+visual_studio_installer | Visual Studio Installer | name:Visual Studio Installer; path:%ProgramFiles(x86)%\Microsoft Visual Studio\Installer\setup.exe | visual studio installer, установщик visual studio, vs installer, вижуал студио инсталлер
+pycharm | PyCharm | name:PyCharm; exe:pycharm64.exe; path:%ProgramFiles%\JetBrains\PyCharm*\bin\pycharm64.exe; url:https://www.jetbrains.com/pycharm/download/ | pycharm, пайчарм, пичарм, пай чарм, пайчам, pycharm community, pycharm professional, пайчарм комьюнити, пайшарм, pucharm, пайчарм про
+intellij_idea | IntelliJ IDEA | name:IntelliJ IDEA; exe:idea64.exe; path:%ProgramFiles%\JetBrains\IntelliJ IDEA*\bin\idea64.exe; url:https://www.jetbrains.com/idea/download/ | intellij idea, intellij, идея, idea, интеллидж, интелидж, интеллиджей, интелидж идея, интеллидж идея, intelij, ij, интеллиж
+webstorm | WebStorm | name:WebStorm; exe:webstorm64.exe; path:%ProgramFiles%\JetBrains\WebStorm*\bin\webstorm64.exe; url:https://www.jetbrains.com/webstorm/download/ | webstorm, web storm, вебсторм, вебшторм, веб шторм, веб сторм
+phpstorm | PhpStorm | name:PhpStorm; exe:phpstorm64.exe; url:https://www.jetbrains.com/phpstorm/download/ | phpstorm, php storm, пхпшторм, пхпсторм, пхп шторм, пэхапэ шторм
+rider | JetBrains Rider | name:Rider; name:JetBrains Rider; exe:rider64.exe; url:https://www.jetbrains.com/rider/download/ | rider, jetbrains rider, райдер, джетбрейнс райдер, райдер c#
+clion | CLion | name:CLion; exe:clion64.exe; url:https://www.jetbrains.com/clion/download/ | clion, c lion, силайон, клион, си лайон, си лион
+goland | GoLand | name:GoLand; exe:goland64.exe; url:https://www.jetbrains.com/go/download/ | goland, go land, голанд, гоуланд, го ленд
+datagrip | DataGrip | name:DataGrip; exe:datagrip64.exe; url:https://www.jetbrains.com/datagrip/download/ | datagrip, data grip, датагрип, дата грип, датагрипп
+rubymine | RubyMine | name:RubyMine; exe:rubymine64.exe; url:https://www.jetbrains.com/ruby/download/ | rubymine, ruby mine, рубимайн, руби майн
+rustrover | RustRover | name:RustRover; exe:rustrover64.exe; url:https://www.jetbrains.com/rust/download/ | rustrover, rust rover, растровер, раст ровер
+jetbrains_toolbox | JetBrains Toolbox | name:JetBrains Toolbox; path:%LOCALAPPDATA%\JetBrains\Toolbox\bin\jetbrains-toolbox.exe; url:https://www.jetbrains.com/toolbox-app/ | jetbrains toolbox, toolbox, тулбокс, джетбрейнс тулбокс, джетбрейнс, jetbrains, джетбрейнс тулбох
+android_studio | Android Studio | name:Android Studio; exe:studio64.exe; path:%ProgramFiles%\Android\Android Studio\bin\studio64.exe; url:https://developer.android.com/studio | android studio, андроид студио, андроид студия, андройд студио, android studia, студия андроид
+cursor | Cursor | name:Cursor; path:%LOCALAPPDATA%\Programs\cursor\Cursor.exe; url:https://cursor.com | cursor, курсор, cursor ai, курсор ai, курсор аи, cursor ide, курсор иде, керсор, кёрсор, курсор эдитор
+windsurf | Windsurf | name:Windsurf; path:%LOCALAPPDATA%\Programs\Windsurf\Windsurf.exe; url:https://windsurf.com | windsurf, виндсерф, виндсурф, windsurf ide, codeium, кодиум
+zed | Zed | name:Zed; exe:zed.exe; url:https://zed.dev | zed, зед, zed editor, зед эдитор
+kiro | Kiro | name:Kiro; url:https://kiro.dev | kiro, киро, kiro ide, киро иде
+trae | Trae | name:Trae; url:https://www.trae.ai | trae, трэй, трае, trae ide
+sublime_text | Sublime Text | name:Sublime Text; exe:sublime_text.exe; path:%ProgramFiles%\Sublime Text\sublime_text.exe; path:%ProgramFiles%\Sublime Text 3\sublime_text.exe; url:https://www.sublimetext.com | sublime text, sublime, саблайм, сублайм, саблайм текст, сублайм текст, сублим, sublime text 3, саблайм тэкст, sublim
+sublime_merge | Sublime Merge | name:Sublime Merge; exe:sublime_merge.exe; url:https://www.sublimemerge.com | sublime merge, саблайм мерж, сублайм мерж
+notepadpp | Notepad++ | name:Notepad++; exe:notepad++.exe; path:%ProgramFiles%\Notepad++\notepad++.exe; path:%ProgramFiles(x86)%\Notepad++\notepad++.exe; url:https://notepad-plus-plus.org | notepad++, notepad plus plus, notepadpp, нотпад++, нотепад++, нотпад плюс плюс, нотепад плюс плюс, ноутпад плюс плюс, блокнот++, блокнот плюс плюс, npp, нпп, нотпадпп, notepad pp, нотпад пп
+atom_editor | Atom (редактор) | path:%LOCALAPPDATA%\atom\atom.exe; name:Atom; url:https://github.com/atom/atom | atom editor, атом эдитор, github atom, атом гитхаб, редактор атом
+gvim | Vim (gVim) | name:gVim; exe:gvim.exe; path:%ProgramFiles%\Vim\vim91\gvim.exe; url:https://www.vim.org/download.php | vim, gvim, вим, гвим, vi, gvim editor
+neovide | Neovide (Neovim) | name:Neovide; exe:neovide.exe; url:https://neovide.dev | neovide, neovim, неовим, нвим, nvim, неовайд, нео вим
+emacs | GNU Emacs | name:Emacs; exe:runemacs.exe; url:https://www.gnu.org/software/emacs/ | emacs, имакс, емакс, эмакс, gnu emacs
+codeblocks | Code::Blocks | name:CodeBlocks; name:Code::Blocks; exe:codeblocks.exe; path:%ProgramFiles%\CodeBlocks\codeblocks.exe; url:https://www.codeblocks.org | codeblocks, code blocks, code::blocks, кодблокс, код блокс
+devcpp | Dev-C++ | name:Dev-C++; exe:devcpp.exe; url:https://github.com/Embarcadero/Dev-Cpp | dev-c++, dev c++, devcpp, дев си плюс плюс, дев с++, девсипипи
+eclipse | Eclipse IDE | name:Eclipse; exe:eclipse.exe; url:https://www.eclipse.org/downloads/ | eclipse, эклипс, иклипс, eclipse ide, эклипсе
+netbeans | Apache NetBeans | name:Apache NetBeans; name:NetBeans; exe:netbeans64.exe; url:https://netbeans.apache.org | netbeans, net beans, нетбинс, нет бинс, apache netbeans
+qt_creator | Qt Creator | name:Qt Creator; exe:qtcreator.exe; url:https://www.qt.io/download | qt creator, кьют креатор, кути креатор, qt креатор, кьюти креатор
+pascalabc | PascalABC.NET | name:PascalABC.NET; exe:PascalABCNET.exe; url:https://pascalabc.net | pascalabc, pascal abc, pascalabc.net, паскаль абц, паскаль, паскаль абс, паскаль abc, паскаль нет
+lazarus | Lazarus | name:Lazarus; exe:lazarus.exe; url:https://www.lazarus-ide.org | lazarus, лазарус, lazarus ide, free pascal лазарус
+thonny | Thonny | name:Thonny; exe:thonny.exe; url:https://thonny.org | thonny, тонни, тхонни, thonny python
+python_idle | IDLE (Python) | name:IDLE; url:https://www.python.org/downloads/ | idle, python idle, идл, айдл, питон идл, пайтон идл, idle python, айдл питон
+python | Python | name:Python; exe:python.exe; url:https://www.python.org/downloads/ | python, питон, пайтон, python 3, питон 3, пайтон 3, pyton, питончик
+anaconda_navigator | Anaconda Navigator | name:Anaconda Navigator; url:https://www.anaconda.com/download | anaconda navigator, anaconda, анаконда, анаконда навигатор, conda, конда
+jupyter | Jupyter Notebook | name:Jupyter Notebook; name:JupyterLab; url:https://jupyter.org/try | jupyter, jupyter notebook, jupyterlab, юпитер, джупитер, юпитер ноутбук, джупитер ноутбук, юпитер лаб, jupyter lab, джупайтер
+rstudio | RStudio | name:RStudio; exe:rstudio.exe; url:https://posit.co/download/rstudio-desktop/ | rstudio, r studio, р студио, эр студио, рстудио
+matlab | MATLAB | name:MATLAB; exe:matlab.exe; url:https://matlab.mathworks.com | matlab, матлаб, матлэб, мат лаб
+mathcad | Mathcad | name:PTC Mathcad Prime; name:Mathcad; url:https://www.mathcad.com | mathcad, маткад, маткад прайм, mathcad prime, мачкад
+wolfram_mathematica | Wolfram Mathematica | name:Wolfram Mathematica; name:Mathematica; url:https://www.wolfram.com/mathematica/ | mathematica, wolfram mathematica, вольфрам математика, вольфрам, wolfram
+arduino_ide | Arduino IDE | name:Arduino IDE; name:Arduino; url:https://www.arduino.cc/en/software | arduino, arduino ide, ардуино, ардуино иде, ардуинка, ардуино ide
+scratch | Scratch | name:Scratch 3; name:Scratch; url:https://scratch.mit.edu/projects/editor/ | scratch, скретч, скрэтч, скратч, scratch 3
+unity_hub | Unity Hub | name:Unity Hub; path:%ProgramFiles%\Unity Hub\Unity Hub.exe; uri:unityhub://; url:https://unity.com/download | unity, unity hub, юнити, юнити хаб, юнити хуб, унити, юнити движок
+unreal_engine | Unreal Engine | name:Unreal Engine; path:%ProgramFiles%\Epic Games\UE_*\Engine\Binaries\Win64\UnrealEditor.exe; url:https://www.unrealengine.com/download | unreal engine, unreal, анриал энджин, анрил энджин, анриал, анрил, ue5, уе5, ue, анрил энжин, анреал
+godot | Godot Engine | name:Godot; url:https://godotengine.org/download/ | godot, godot engine, годот, годо, гадот, годот энджин
+gamemaker | GameMaker | name:GameMaker; exe:GameMaker.exe; url:https://gamemaker.io | gamemaker, game maker, геймейкер, гейм мейкер, gms2, гамемакер
+rpg_maker | RPG Maker | name:RPG Maker MZ; name:RPG Maker MV; name:RPG Maker; url:https://www.rpgmakerweb.com | rpg maker, рпг мейкер, rpg maker mz, рпгмейкер
+git_bash | Git Bash | name:Git Bash; path:%ProgramFiles%\Git\git-bash.exe; url:https://git-scm.com/download/win | git bash, гит баш, гитбаш, bash, баш, git-bash, гит башь
+git_gui | Git GUI | name:Git GUI; path:%ProgramFiles%\Git\cmd\git-gui.exe; url:https://git-scm.com/download/win | git gui, гит гуи, гит гуй
+github_desktop | GitHub Desktop | name:GitHub Desktop; path:%LOCALAPPDATA%\GitHubDesktop\GitHubDesktop.exe; uri:x-github-client://; url:https://desktop.github.com | github desktop, гитхаб десктоп, гитхаб, github, гит хаб, гитхаб дескоп, гитхаб клиент
+sourcetree | Sourcetree | name:Sourcetree; path:%LOCALAPPDATA%\SourceTree\SourceTree.exe; url:https://www.sourcetreeapp.com | sourcetree, source tree, сорстри, сурстри, сорс три
+gitkraken | GitKraken | name:GitKraken; name:GitKraken Desktop; url:https://www.gitkraken.com/download | gitkraken, git kraken, гиткракен, гит кракен, кракен гит
+tortoisegit | TortoiseGit | name:TortoiseGit; url:https://tortoisegit.org | tortoisegit, tortoise git, тортоиз гит, черепаха гит, тортойз гит
+fork_git | Fork | name:Fork; path:%LOCALAPPDATA%\Fork\Fork.exe; url:https://git-fork.com | fork git, git fork, форк гит, гит форк
+docker | Docker Desktop | name:Docker Desktop; path:%ProgramFiles%\Docker\Docker\Docker Desktop.exe; url:https://www.docker.com/products/docker-desktop/ | docker, docker desktop, докер, докер десктоп, доккер, докер дескоп, dokcer
+podman | Podman Desktop | name:Podman Desktop; url:https://podman-desktop.io | podman, podman desktop, подман, подман десктоп
+rancher_desktop | Rancher Desktop | name:Rancher Desktop; url:https://rancherdesktop.io | rancher desktop, rancher, ранчер, ранчер десктоп
+postman | Postman | name:Postman; path:%LOCALAPPDATA%\Postman\Postman.exe; url:https://web.postman.co | postman, постман, пост ман, постмэн, postmen
+insomnia | Insomnia | name:Insomnia; path:%LOCALAPPDATA%\insomnia\Insomnia.exe; url:https://insomnia.rest/download | insomnia, инсомния, инсомниа, insomnia rest
+bruno | Bruno | name:Bruno; url:https://www.usebruno.com | bruno, бруно, bruno api, бруно апи
+dbeaver | DBeaver | name:DBeaver; exe:dbeaver.exe; path:%ProgramFiles%\DBeaver\dbeaver.exe; url:https://dbeaver.io/download/ | dbeaver, дбивер, дибивер, ди бивер, дбивер ce, dbeaver community
+pgadmin | pgAdmin 4 | name:pgAdmin 4; name:pgAdmin; exe:pgAdmin4.exe; url:https://www.pgadmin.org/download/ | pgadmin, pgadmin 4, пгадмин, пг админ, постгрес админ, пиджи админ
+mysql_workbench | MySQL Workbench | name:MySQL Workbench; exe:MySQLWorkbench.exe; url:https://dev.mysql.com/downloads/workbench/ | mysql workbench, workbench, воркбенч, мускул воркбенч, майскл воркбенч, mysql воркбенч, мускуль
+heidisql | HeidiSQL | name:HeidiSQL; exe:heidisql.exe; url:https://www.heidisql.com/download.php | heidisql, heidi sql, хейди, хейдискл, хайди скл, хейди эскуэль
+ssms | SQL Server Management Studio | name:SQL Server Management Studio; name:Microsoft SQL Server Management Studio; exe:Ssms.exe; url:https://aka.ms/ssms | ssms, sql server management studio, ссмс, менеджмент студио, скл сервер менеджмент студио, sql management studio
+mongodb_compass | MongoDB Compass | name:MongoDB Compass; path:%LOCALAPPDATA%\MongoDBCompass\MongoDBCompass.exe; url:https://www.mongodb.com/try/download/compass | mongodb compass, mongo compass, монго компас, монгодб компас, монгодб, mongodb
+redis_insight | Redis Insight | name:Redis Insight; name:RedisInsight; url:https://redis.io/insight/ | redis insight, redisinsight, редис инсайт, редис
+filezilla | FileZilla | name:FileZilla; exe:filezilla.exe; path:%ProgramFiles%\FileZilla FTP Client\filezilla.exe; url:https://filezilla-project.org | filezilla, file zilla, файлзилла, файлзила, filezila, фтп клиент, файл зилла
+winscp | WinSCP | name:WinSCP; exe:WinSCP.exe; path:%LOCALAPPDATA%\Programs\WinSCP\WinSCP.exe; path:%ProgramFiles(x86)%\WinSCP\WinSCP.exe; url:https://winscp.net | winscp, win scp, винскп, винсцп, вин скп
+putty | PuTTY | name:PuTTY; exe:putty.exe; path:%ProgramFiles%\PuTTY\putty.exe; url:https://www.putty.org | putty, путти, патти, пути ssh, putty ssh
+mobaxterm | MobaXterm | name:MobaXterm; exe:MobaXterm.exe; url:https://mobaxterm.mobatek.net | mobaxterm, moba xterm, мобаикстерм, моба икстерм, мобахтерм, моба
+termius | Termius | name:Termius; url:https://termius.com | termius, термиус, терминус ssh
+tabby_terminal | Tabby | name:Tabby; exe:Tabby.exe; url:https://tabby.sh | tabby, tabby terminal, табби, табби терминал
+warp_terminal | Warp | name:Warp; url:https://www.warp.dev | warp terminal, варп терминал, warp dev
+wezterm | WezTerm | name:WezTerm; exe:wezterm-gui.exe; url:https://wezterm.org | wezterm, везтерм, вез терм
+virtualbox | Oracle VirtualBox | name:Oracle VirtualBox; name:VirtualBox; path:%ProgramFiles%\Oracle\VirtualBox\VirtualBox.exe; url:https://www.virtualbox.org/wiki/Downloads | virtualbox, virtual box, виртуалбокс, виртуал бокс, вирт бокс, vbox, вбокс, виртуалка, oracle virtualbox, оракл виртуалбокс
+vmware | VMware Workstation | name:VMware Workstation Pro; name:VMware Workstation; exe:vmware.exe; path:%ProgramFiles(x86)%\VMware\VMware Workstation\vmware.exe; url:https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion | vmware, vmware workstation, вмваре, вмвар, вм варе, вмвэйр, вмвейр, вмваре воркстейшн, vmware player
+hyperv_manager | Hyper-V Manager | name:Hyper-V Manager; name:Диспетчер Hyper-V; path:%WINDIR%\System32\virtmgmt.msc | hyper-v, hyper v, hyper-v manager, хайпер ви, хайпер-в, гипер в, диспетчер hyper-v, хайпервизор
+wsl_ubuntu | Ubuntu (WSL) | name:Ubuntu; uwp:CanonicalGroupLimited.Ubuntu; exe:wsl.exe | ubuntu, убунту, убунта, wsl, всл, wsl ubuntu, линукс, linux, убунту wsl, вэсээл
+xampp | XAMPP Control Panel | name:XAMPP Control Panel; name:XAMPP; path:C:\xampp\xampp-control.exe; url:https://www.apachefriends.org | xampp, ксамп, хампп, иксамп, ксампп, xampp control panel
+open_server | Open Server Panel | name:Open Server Panel; name:Open Server; url:https://ospanel.io | open server, open server panel, опен сервер, оспанель, ospanel, опенсервер
+laragon | Laragon | name:Laragon; path:C:\laragon\laragon.exe; url:https://laragon.org | laragon, ларагон
+wireshark | Wireshark | name:Wireshark; exe:Wireshark.exe; path:%ProgramFiles%\Wireshark\Wireshark.exe; url:https://www.wireshark.org/download.html | wireshark, вайршарк, варшарк, ваершарк, wire shark
+fiddler | Fiddler | name:Fiddler Everywhere; name:Fiddler Classic; name:Fiddler; url:https://www.telerik.com/fiddler | fiddler, фидлер, фиддлер, fiddler everywhere
+burp_suite | Burp Suite | name:Burp Suite Community Edition; name:Burp Suite; url:https://portswigger.net/burp/releases | burp suite, burp, бурп, берп, бёрп сьют
+hxd | HxD Hex Editor | name:HxD; exe:HxD.exe; url:https://mh-nexus.de/en/hxd/ | hxd, hex editor, хекс эдитор, хекс редактор hxd
+x64dbg | x64dbg | name:x64dbg; exe:x64dbg.exe; url:https://x64dbg.com | x64dbg, x32dbg, икс64 дебаггер, дебаггер x64
+beyond_compare | Beyond Compare | name:Beyond Compare; exe:BCompare.exe; url:https://www.scootersoftware.com/download | beyond compare, бийонд компейр, бейонд компар
+winmerge | WinMerge | name:WinMerge; exe:WinMergeU.exe; url:https://winmerge.org | winmerge, win merge, винмерж, вин мерж
+packet_tracer | Cisco Packet Tracer | name:Cisco Packet Tracer; name:Packet Tracer; url:https://www.netacad.com/resources/lab-downloads | packet tracer, cisco packet tracer, пакет трейсер, циско пакет трейсер, пакет трасер
+gns3 | GNS3 | name:GNS3; url:https://www.gns3.com/software/download | gns3, гнс3, гнс 3
+winbox | MikroTik WinBox | name:WinBox; exe:winbox64.exe; exe:winbox.exe; url:https://mikrotik.com/download | winbox, винбокс, микротик, mikrotik, микротик винбокс
+advanced_ip_scanner | Advanced IP Scanner | name:Advanced IP Scanner; url:https://www.advanced-ip-scanner.com | advanced ip scanner, ip сканер, айпи сканер, ип сканер, адвансед ип сканер
+putty_gen | PuTTYgen | name:PuTTYgen; exe:puttygen.exe | puttygen, путтиген, генератор ключей putty
+chatgpt_app | ChatGPT | name:ChatGPT; uwp:OpenAI.ChatGPT-Desktop; url:https://chatgpt.com | chatgpt, chat gpt, чатгпт, чат гпт, чат джипити, чатжпт, чат жпт, гпт, gpt, джипити, openai, опенаи, опен аи, чатгпт приложение, чат гэпэтэ
+claude_app | Claude | name:Claude; path:%LOCALAPPDATA%\AnthropicClaude\claude.exe; uri:claude://; url:https://claude.ai | claude, клод, клоуд, claude ai, клод аи, клод ai, anthropic, антропик, claude desktop, клод десктоп
+copilot_app | Microsoft Copilot | name:Copilot; name:Microsoft Copilot; uwp:Microsoft.Copilot; url:https://copilot.microsoft.com | copilot, копилот, копайлот, ко пилот, microsoft copilot, майкрософт копилот, мс копилот
+perplexity_app | Perplexity | name:Perplexity; url:https://www.perplexity.ai | perplexity, перплексити, перплекс, перплекзити, перплексити аи
+gemini_app | Gemini | name:Gemini; name:Google Gemini; url:https://gemini.google.com | gemini, гемини, джемини, гемени, джеминай, google gemini, гугл гемини
+lm_studio | LM Studio | name:LM Studio; path:%LOCALAPPDATA%\Programs\LM Studio\LM Studio.exe; url:https://lmstudio.ai | lm studio, lmstudio, лм студио, эл эм студио, лмстудио
+ollama | Ollama | name:Ollama; path:%LOCALAPPDATA%\Programs\Ollama\ollama app.exe; url:https://ollama.com | ollama, оллама, олама, ollama app
+jan_ai | Jan | name:Jan; url:https://jan.ai | jan ai, jan, джан, джан аи
+gpt4all | GPT4All | name:GPT4All; url:https://www.nomic.ai/gpt4all | gpt4all, gpt 4 all, гпт4олл, гпт фор олл
+adobe_creative_cloud | Adobe Creative Cloud | name:Adobe Creative Cloud; name:Creative Cloud; path:%ProgramFiles%\Adobe\Adobe Creative Cloud\ACC\Creative Cloud.exe; url:https://creativecloud.adobe.com | creative cloud, adobe creative cloud, креатив клауд, криэйтив клауд, адоб креатив клауд, adobe cc, адоб сс, адоб, adobe, адобе
+photoshop | Adobe Photoshop | exe:Photoshop.exe; path:%ProgramFiles%\Adobe\Adobe Photoshop*\Photoshop.exe; name:Adobe Photoshop; url:https://photoshop.adobe.com | photoshop, фотошоп, фш, фотошопп, фотшоп, фотошоб, adobe photoshop, адоб фотошоп, адобе фотошоп, фотожоп, фотошопчик, photoshop cc, фотошоп сс, photoshop 2024, фото шоп
+illustrator | Adobe Illustrator | exe:Illustrator.exe; path:%ProgramFiles%\Adobe\Adobe Illustrator*\Support Files\Contents\Windows\Illustrator.exe; name:Adobe Illustrator; url:https://www.adobe.com/products/illustrator.html | illustrator, иллюстратор, илюстратор, иллюстрейтор, adobe illustrator, адоб иллюстратор, адобе иллюстратор, иллюстратор адоб
+premiere_pro | Adobe Premiere Pro | exe:Adobe Premiere Pro.exe; path:%ProgramFiles%\Adobe\Adobe Premiere Pro*\Adobe Premiere Pro.exe; name:Adobe Premiere Pro; url:https://www.adobe.com/products/premiere.html | premiere pro, premiere, премьер, премьер про, премьера, прем, премка, премьер про адоб, adobe premiere, адоб премьер, адобе премьер, премиер, премиер про
+after_effects | Adobe After Effects | exe:AfterFX.exe; path:%ProgramFiles%\Adobe\Adobe After Effects*\Support Files\AfterFX.exe; name:Adobe After Effects; url:https://www.adobe.com/products/aftereffects.html | after effects, афтер эффектс, афтер эфектс, афтер эффекс, афтерэффектс, афтерэфектс, афтер, ae, адоб афтер эффектс, adobe after effects, афтер эффект, афтерэффект
+lightroom | Adobe Lightroom | name:Adobe Lightroom Classic; name:Adobe Lightroom; exe:Lightroom.exe; url:https://lightroom.adobe.com | lightroom, лайтрум, лайт рум, lightroom classic, лайтрум классик, adobe lightroom, адоб лайтрум, лр, лайтрумчик
+audition | Adobe Audition | name:Adobe Audition; exe:Adobe Audition.exe; url:https://www.adobe.com/products/audition.html | audition, adobe audition, аудишн, адишн, одишн, адоб аудишн, адоб одишн
+indesign | Adobe InDesign | name:Adobe InDesign; exe:InDesign.exe; url:https://www.adobe.com/products/indesign.html | indesign, in design, индизайн, ин дизайн, адоб индизайн, adobe indesign
+adobe_animate | Adobe Animate | name:Adobe Animate; exe:Animate.exe; url:https://www.adobe.com/products/animate.html | adobe animate, адоб анимейт, анимейт, adobe flash, адоб флеш, флеш анимация
+media_encoder | Adobe Media Encoder | name:Adobe Media Encoder; exe:Adobe Media Encoder.exe; url:https://www.adobe.com/products/media-encoder.html | media encoder, adobe media encoder, медиа энкодер, адоб медиа энкодер, медиаэнкодер
+adobe_xd | Adobe XD | name:Adobe XD; url:https://www.adobe.com/products/xd.html | adobe xd, адоб xd, адоб икс ди, xd, иксди
+adobe_bridge | Adobe Bridge | name:Adobe Bridge; exe:Adobe Bridge.exe; url:https://www.adobe.com/products/bridge.html | adobe bridge, адоб бридж, бридж адоб
+dreamweaver | Adobe Dreamweaver | name:Adobe Dreamweaver; exe:Dreamweaver.exe; url:https://www.adobe.com/products/dreamweaver.html | dreamweaver, дримвивер, дримвьювер, адоб дримвивер
+substance_painter | Adobe Substance 3D Painter | name:Adobe Substance 3D Painter; name:Substance Painter; url:https://www.adobe.com/products/substance3d/apps/painter.html | substance painter, сабстенс пейнтер, субстанс пейнтер, substance 3d painter, сабстанс
+affinity | Affinity | name:Affinity; url:https://www.affinity.studio | affinity, аффинити, афинити, affinity by canva, аффинити студио
+affinity_photo | Affinity Photo | name:Affinity Photo 2; name:Affinity Photo; url:https://affinity.serif.com/photo/ | affinity photo, аффинити фото, афинити фото, affinity photo 2
+affinity_designer | Affinity Designer | name:Affinity Designer 2; name:Affinity Designer; url:https://affinity.serif.com/designer/ | affinity designer, аффинити дизайнер, афинити дизайнер
+affinity_publisher | Affinity Publisher | name:Affinity Publisher 2; name:Affinity Publisher; url:https://affinity.serif.com/publisher/ | affinity publisher, аффинити паблишер, афинити паблишер
+coreldraw | CorelDRAW | name:CorelDRAW; exe:CorelDRW.exe; url:https://www.coreldraw.com | coreldraw, corel draw, корел, корелдро, корел дро, корел драв, корэл, corel, кореал
+gimp | GIMP | name:GIMP; path:%ProgramFiles%\GIMP 3\bin\gimp-3.exe; path:%ProgramFiles%\GIMP 2\bin\gimp-2.10.exe; url:https://www.gimp.org/downloads/ | gimp, гимп, джимп, gimp 3, gimp 2, гимп 2, гимпа
+krita | Krita | name:Krita; exe:krita.exe; path:%ProgramFiles%\Krita (x64)\bin\krita.exe; url:https://krita.org/en/download/ | krita, крита, крита рисование, krita paint
+paint_net | Paint.NET | name:Paint.NET; name:paint.net; exe:paintdotnet.exe; path:%ProgramFiles%\paint.net\paintdotnet.exe; url:https://www.getpaint.net | paint.net, paint net, paintdotnet, паинт нет, пейнт нет, пэйнт нет, паинт дот нет, пейнт дот нет, пейнт.нет, паинт.нет
+inkscape | Inkscape | name:Inkscape; path:%ProgramFiles%\Inkscape\bin\inkscape.exe; url:https://inkscape.org/release/ | inkscape, инкскейп, инкскап, инскейп, инк скейп, инкскэйп
+aseprite | Aseprite | name:Aseprite; exe:Aseprite.exe; url:https://www.aseprite.org | aseprite, асепрайт, эйсспрайт, асеприте, пиксель арт aseprite
+clip_studio_paint | Clip Studio Paint | name:CLIP STUDIO PAINT; name:Clip Studio; url:https://www.clipstudio.net/en/ | clip studio paint, clip studio, клип студио, клип студио пейнт, клипстудио, csp
+medibang | MediBang Paint Pro | name:MediBang Paint Pro; name:MediBang Paint; url:https://medibangpaint.com | medibang, medibang paint, медибанг, медибэнг, медибанг пейнт
+paint_tool_sai | PaintTool SAI | name:PaintTool SAI; name:SAI Ver.2; exe:sai2.exe; exe:sai.exe; url:https://www.systemax.jp/en/sai/ | paint tool sai, painttool sai, sai, саи, сай, пейнт тул саи, сай пейнт
+firealpaca | FireAlpaca | name:FireAlpaca; url:https://firealpaca.com | firealpaca, fire alpaca, файр альпака, фаер альпака
+sketchbook | SketchBook | name:SketchBook; name:Autodesk SketchBook; url:https://www.sketchbook.com | sketchbook, скетчбук, autodesk sketchbook, скетч бук
+figma | Figma | name:Figma; path:%LOCALAPPDATA%\Figma\Figma.exe; uri:figma://; url:https://www.figma.com/files | figma, фигма, фигма десктоп, figma desktop, фигмочка, фигма дизайн
+canva | Canva | name:Canva; url:https://www.canva.com | canva, канва, канва дизайн, canva app
+pureref | PureRef | name:PureRef; exe:PureRef.exe; url:https://www.pureref.com | pureref, пьюреф, пур реф, pure ref
+irfanview | IrfanView | name:IrfanView; exe:i_view64.exe; path:%ProgramFiles%\IrfanView\i_view64.exe; url:https://www.irfanview.com | irfanview, irfan view, ирфанвью, ирфан вью
+xnview | XnView MP | name:XnView MP; name:XnView; exe:xnviewmp.exe; url:https://www.xnview.com | xnview, xnview mp, иксэнвью, хнвью, икс эн вью
+faststone | FastStone Image Viewer | name:FastStone Image Viewer; exe:FSViewer.exe; url:https://www.faststone.org | faststone, faststone image viewer, фастстоун, фаст стоун
+imageglass | ImageGlass | name:ImageGlass; url:https://imageglass.org | imageglass, image glass, имиджгласс, имидж гласс
+darktable | darktable | name:darktable; url:https://www.darktable.org | darktable, дарктейбл, дарк тейбл
+luminar_neo | Luminar Neo | name:Luminar Neo; url:https://skylum.com/luminar | luminar, luminar neo, люминар, люминар нео
+upscayl | Upscayl | name:Upscayl; url:https://upscayl.org | upscayl, апскейл, апскейлер upscayl
+blender | Blender | name:Blender; exe:blender.exe; path:%ProgramFiles%\Blender Foundation\Blender*\blender-launcher.exe; url:https://www.blender.org/download/ | blender, блендер, блэндер, блендр, blender 3d, блендер 3д, блендер 4
+cinema_4d | Cinema 4D | name:Cinema 4D; exe:Cinema 4D.exe; url:https://www.maxon.net/cinema-4d | cinema 4d, cinema4d, c4d, синема 4д, синема, синема фор ди, синема 4 д
+3ds_max | Autodesk 3ds Max | name:3ds Max; exe:3dsmax.exe; url:https://www.autodesk.com/products/3ds-max/ | 3ds max, 3dsmax, 3d max, 3д макс, тридэ макс, тридемакс, макс 3д, 3дс макс, 3d макс
+maya | Autodesk Maya | name:Maya; exe:maya.exe; url:https://www.autodesk.com/products/maya/ | maya, майя, мая, autodesk maya, автодеск майя
+zbrush | ZBrush | name:ZBrush; exe:ZBrush.exe; url:https://www.maxon.net/zbrush | zbrush, z brush, збраш, зибраш, з браш, зебраш
+houdini | Houdini | name:Houdini; exe:houdinifx.exe; exe:houdini.exe; url:https://www.sidefx.com/download/ | houdini, гудини, худини
+sketchup | SketchUp | name:SketchUp; exe:SketchUp.exe; url:https://www.sketchup.com | sketchup, sketch up, скетчап, скечап, скетч ап, скетчуп
+autocad | AutoCAD | name:AutoCAD; exe:acad.exe; url:https://www.autodesk.com/products/autocad/ | autocad, auto cad, автокад, аутокад, акад, автокат
+revit | Autodesk Revit | name:Revit; exe:Revit.exe; url:https://www.autodesk.com/products/revit/ | revit, ревит, autodesk revit, ревит архитектура
+archicad | Archicad | name:Archicad; exe:ARCHICAD.exe; url:https://graphisoft.com/solutions/archicad | archicad, архикад, архикат, архи кад, arhicad
+solidworks | SOLIDWORKS | name:SOLIDWORKS; exe:SLDWORKS.exe; url:https://www.solidworks.com | solidworks, solid works, солидворкс, солид воркс, солидворк
+fusion_360 | Autodesk Fusion | name:Autodesk Fusion; name:Fusion 360; url:https://www.autodesk.com/products/fusion-360/ | fusion 360, fusion, фьюжн 360, фьюжн, фьюжен 360, фузион, autodesk fusion
+kompas_3d | КОМПАС-3D | name:КОМПАС-3D; name:KOMPAS-3D; url:https://kompas.ru | компас, компас 3д, компас-3d, компас 3d, kompas, kompas 3d, kompas-3d, аскон компас, компас3д
+freecad | FreeCAD | name:FreeCAD; exe:FreeCAD.exe; url:https://www.freecad.org/downloads.php | freecad, free cad, фрикад, фри кад
+nanocad | nanoCAD | name:nanoCAD; url:https://www.nanocad.ru | nanocad, нанокад, нано кад
+librecad | LibreCAD | name:LibreCAD; url:https://librecad.org | librecad, либрекад, либре кад
+rhino | Rhino | name:Rhino; exe:Rhino.exe; url:https://www.rhino3d.com | rhino, rhino 3d, рино, райно, рино 3д
+lumion | Lumion | name:Lumion; url:https://lumion.com | lumion, люмион, лумион
+kicad | KiCad | name:KiCad; url:https://www.kicad.org/download/ | kicad, кикад, ки кад
+multisim | NI Multisim | name:Multisim; name:NI Multisim; url:https://www.ni.com/multisim | multisim, мультисим, ni multisim
+ltspice | LTspice | name:LTspice; url:https://www.analog.com/ltspice | ltspice, лтспайс, lt spice
+ultimaker_cura | UltiMaker Cura | name:UltiMaker Cura; name:Ultimaker Cura; url:https://ultimaker.com/software/ultimaker-cura/ | cura, кура, ultimaker cura, ультимейкер кура, cura слайсер
+prusaslicer | PrusaSlicer | name:PrusaSlicer; url:https://www.prusa3d.com/page/prusaslicer_424/ | prusaslicer, prusa slicer, пруса слайсер, прусаслайсер
+bambu_studio | Bambu Studio | name:Bambu Studio; url:https://bambulab.com/en/download/studio | bambu studio, бамбу студио, бамбу лаб студио
+google_earth_pro | Google Earth Pro | name:Google Earth Pro; url:https://earth.google.com | google earth, google earth pro, гугл земля, гугл эрт, гугл earth
+stellarium | Stellarium | name:Stellarium; url:https://stellarium.org | stellarium, стеллариум, стелариум
+geogebra | GeoGebra | name:GeoGebra; url:https://www.geogebra.org/calculator | geogebra, геогебра, гео гебра
+power_bi | Power BI Desktop | name:Power BI Desktop; exe:PBIDesktop.exe; url:https://app.powerbi.com | power bi, powerbi, power bi desktop, пауэр би ай, павер би ай, повер би ай, пауэр би, павер би
+tableau | Tableau Desktop | name:Tableau; url:https://www.tableau.com | tableau, табло, tableau desktop, таблоу
+spss | IBM SPSS Statistics | name:IBM SPSS Statistics; name:SPSS; url:https://www.ibm.com/spss | spss, спсс, ibm spss, эс пи эс эс
+davinci_resolve | DaVinci Resolve | name:DaVinci Resolve; exe:Resolve.exe; path:%ProgramFiles%\Blackmagic Design\DaVinci Resolve\Resolve.exe; url:https://www.blackmagicdesign.com/products/davinciresolve | davinci resolve, davinci, давинчи, да винчи, давинчи резолв, давинчи ризолв, резолв, давинча, дэвинчи, davinci resolve studio, давинчи резолф
+vegas_pro | VEGAS Pro | name:VEGAS Pro; path:%ProgramFiles%\VEGAS\VEGAS Pro *\vegas*.exe; url:https://www.vegascreativesoftware.com | vegas pro, vegas, вегас, вегас про, sony vegas, сони вегас, магикс вегас, вегасе
+capcut | CapCut | name:CapCut; path:%LOCALAPPDATA%\CapCut\Apps\CapCut.exe; url:https://www.capcut.com/editor | capcut, cap cut, капкут, кап кут, капкат, кап кат, кэпкат, кепкат, capcat, капкат десктоп
+filmora | Wondershare Filmora | name:Wondershare Filmora; name:Filmora; url:https://filmora.wondershare.com | filmora, филмора, фильмора, wondershare filmora, вондершер филмора, филмора 13
+movavi_video_editor | Movavi Video Editor | name:Movavi Video Editor; url:https://www.movavi.ru/videoeditor/ | movavi, movavi video editor, мовави, мовави видео эдитор, мовави видеоредактор
+shotcut | Shotcut | name:Shotcut; path:%ProgramFiles%\Shotcut\shotcut.exe; url:https://shotcut.org/download/ | shotcut, shot cut, шоткат, шот кат, шоткут
+kdenlive | Kdenlive | name:Kdenlive; exe:kdenlive.exe; url:https://kdenlive.org/download/ | kdenlive, кденлайв, кдэнлайв, кей ден лайв
+openshot | OpenShot Video Editor | name:OpenShot Video Editor; name:OpenShot; url:https://www.openshot.org/download/ | openshot, open shot, опеншот, опен шот
+lightworks | Lightworks | name:Lightworks; url:https://lwks.com | lightworks, лайтворкс, лайт воркс
+hitfilm | HitFilm | name:HitFilm; url:https://fxhome.com/product/hitfilm | hitfilm, хитфильм, хит фильм
+vsdc | VSDC Free Video Editor | name:VSDC Free Video Editor; name:VSDC; url:https://www.videosoftdev.com | vsdc, всдс, вэсдэсэ, vsdc video editor
+handbrake | HandBrake | name:HandBrake; path:%ProgramFiles%\HandBrake\HandBrake.exe; url:https://handbrake.fr/downloads.php | handbrake, hand brake, хендбрейк, хэндбрейк, ханд брейк, хандбрейк
+avidemux | Avidemux | name:Avidemux; url:https://avidemux.sourceforge.net | avidemux, авидемукс, ави демукс
+format_factory | Format Factory | name:Format Factory; name:FormatFactory; url:http://www.pcfreetime.com/formatfactory/ | format factory, formatfactory, формат фактори, фабрика форматов, формат фэктори
+freemake_video_converter | Freemake Video Converter | name:Freemake Video Converter; url:https://www.freemake.com | freemake, freemake video converter, фримейк, фримейк конвертер
+fl_studio | FL Studio | name:FL Studio; exe:FL64.exe; path:%ProgramFiles%\Image-Line\FL Studio *\FL64.exe; url:https://www.image-line.com/fl-studio-download/ | fl studio, fl, фл, фл студио, фл студия, флстудио, fruity loops, фрути лупс, фрукты, фруктилупс, флка, fl studio 21
+ableton_live | Ableton Live | name:Ableton Live; url:https://www.ableton.com/live/ | ableton, ableton live, аблетон, аблтон, эйблтон, аблетон лайв, эйблтон лайв
+cubase | Cubase | name:Cubase; url:https://www.steinberg.net/cubase/ | cubase, кубейс, кубэйс, кубасе, steinberg cubase
+reaper | REAPER | name:REAPER; exe:reaper.exe; path:%ProgramFiles%\REAPER (x64)\reaper.exe; url:https://www.reaper.fm/download.php | reaper, рипер, риппер, reaper daw
+pro_tools | Pro Tools | name:Pro Tools; exe:ProTools.exe; url:https://www.avid.com/pro-tools | pro tools, protools, протулс, про тулс
+bitwig | Bitwig Studio | name:Bitwig Studio; url:https://www.bitwig.com | bitwig, bitwig studio, битвиг, битвиг студио
+studio_one | Studio One | name:Studio One; url:https://www.presonus.com/studio-one | studio one, студио ван, студио уан, presonus studio one
+reason | Reason | name:Reason; url:https://www.reasonstudios.com | reason studio, reason daw, ризон, ризон студио
+lmms | LMMS | name:LMMS; exe:lmms.exe; url:https://lmms.io/download | lmms, лммс, элэмэмэс
+audacity | Audacity | name:Audacity; exe:Audacity.exe; path:%ProgramFiles%\Audacity\Audacity.exe; url:https://www.audacityteam.org/download/ | audacity, аудасити, одасити, адасити, audasity, audacyty, аудасиди, одасити аудио
+izotope_rx | iZotope RX | name:iZotope RX; url:https://www.izotope.com/en/products/rx.html | izotope rx, izotope, айзотоп, изотоп rx
+melodyne | Melodyne | name:Melodyne; url:https://www.celemony.com/en/melodyne | melodyne, мелодайн, мелодин
+sound_forge | SOUND FORGE Pro | name:SOUND FORGE; url:https://www.magix.com/sound-forge/ | sound forge, саунд фордж, саунд форж
+guitar_pro | Guitar Pro | name:Guitar Pro; url:https://www.guitar-pro.com | guitar pro, гитар про, гитарпро, гитара про
+musescore | MuseScore Studio | name:MuseScore Studio; name:MuseScore 4; name:MuseScore; url:https://musescore.org | musescore, muse score, мьюзскор, мюзскор, мьюз скор
+ultimate_vocal_remover | Ultimate Vocal Remover | name:Ultimate Vocal Remover; url:https://ultimatevocalremover.com | ultimate vocal remover, uvr, вокал ремувер, убрать вокал uvr
+virtualdj | VirtualDJ | name:VirtualDJ; url:https://www.virtualdj.com | virtualdj, virtual dj, виртуал диджей, виртуал дж
+rekordbox | rekordbox | name:rekordbox; url:https://rekordbox.com | rekordbox, рекордбокс, рекорд бокс
+steam | Steam | name:Steam; path:%ProgramFiles(x86)%\Steam\steam.exe; exe:steam.exe; uri:steam://open/main; url:https://store.steampowered.com | steam, стим, стимчик, стем, стиме, steam client, стим клиент, стимушка, стим магазин, steem, стимм
+epic_games | Epic Games Launcher | name:Epic Games Launcher; path:%ProgramFiles(x86)%\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe; exe:EpicGamesLauncher.exe; uri:com.epicgames.launcher://; url:https://store.epicgames.com | epic games, epic games launcher, эпик геймс, эпик, epic, эпик гейм, эпик гамес, egs, эгс, эпик геймс лаунчер, эпик стор, epic store, эпиг геймс
+gog_galaxy | GOG GALAXY | name:GOG GALAXY; path:%ProgramFiles(x86)%\GOG Galaxy\GalaxyClient.exe; exe:GalaxyClient.exe; uri:goggalaxy://; url:https://www.gog.com/galaxy | gog galaxy, gog, гог, гог галакси, гог гэлакси, галакси гог, gog galaxy 2
+battlenet | Battle.net | name:Battle.net; path:%ProgramFiles(x86)%\Battle.net\Battle.net Launcher.exe; exe:Battle.net.exe; uri:battlenet://; url:https://download.battle.net | battle.net, battlenet, battle net, батлнет, батл нет, бателнет, батл.нет, blizzard, близзард, близард, бнет, battle.net launcher
+ea_app | EA app | name:EA app; path:%ProgramFiles%\Electronic Arts\EA Desktop\EA Desktop\EALauncher.exe; exe:EADesktop.exe; url:https://www.ea.com/ea-app | ea app, ea, еа, еа апп, ea desktop, еа десктоп, electronic arts, электроник артс, origin, ориджин, оригин
+ubisoft_connect | Ubisoft Connect | name:Ubisoft Connect; path:%ProgramFiles(x86)%\Ubisoft\Ubisoft Game Launcher\UbisoftConnect.exe; exe:UbisoftConnect.exe; uri:uplay://; url:https://ubisoftconnect.com | ubisoft connect, ubisoft, юбисофт, убисофт, юбисофт коннект, убисофт коннект, uplay, юплей, аплей, юбик, ubi connect
+riot_client | Riot Client | name:Riot Client; path:C:\Riot Games\Riot Client\RiotClientServices.exe; exe:RiotClientServices.exe; url:https://www.riotgames.com | riot client, riot, riot games, райот, риот, райот клиент, риот клиент, райот геймс, риот геймс
+xbox_app | Xbox | name:Xbox; uwp:Microsoft.GamingApp; uri:xbox:; url:https://www.xbox.com/play | xbox, xbox app, иксбокс, хбокс, икс бокс, иксбокс апп, game pass, гейм пасс, геймпасс, xbox game pass, pc game pass
+rockstar_launcher | Rockstar Games Launcher | name:Rockstar Games Launcher; path:%ProgramFiles%\Rockstar Games\Launcher\Launcher.exe; url:https://socialclub.rockstargames.com/rockstar-games-launcher | rockstar games launcher, rockstar launcher, rockstar, рокстар, рокстар лаунчер, rockstar games, рокстар геймс, социал клаб, social club
+minecraft_launcher | Minecraft Launcher | name:Minecraft Launcher; uwp:Microsoft.4297127D64EC6; uri:minecraft:; url:https://www.minecraft.net/download | minecraft launcher, майнкрафт лаунчер, лаунчер майнкрафт, майн лаунчер, официальный лаунчер майнкрафт
+tlauncher | TLauncher | name:TLauncher; path:%APPDATA%\.minecraft\TLauncher.exe; url:https://tlauncher.org | tlauncher, тлаунчер, т лаунчер, тилаунчер, ти лаунчер, тлаунчер майнкрафт, t launcher
+legacy_launcher | Legacy Launcher | name:Legacy Launcher; url:https://llaun.ch | legacy launcher, легаси лаунчер, легаси, легаси майнкрафт
+prism_launcher | Prism Launcher | name:Prism Launcher; url:https://prismlauncher.org | prism launcher, призм лаунчер, призм, prism
+modrinth | Modrinth App | name:Modrinth App; name:Modrinth; url:https://modrinth.com/app | modrinth, modrinth app, модринт, модринф, модринт апп
+curseforge | CurseForge | name:CurseForge; url:https://www.curseforge.com/download/app | curseforge, curse forge, керсфорж, курсфорж, кёрсфордж, керс форж
+overwolf | Overwolf | name:Overwolf; url:https://www.overwolf.com | overwolf, оверволф, овервольф, овер вольф
+vk_play | VK Play | name:VK Play; name:Игровой центр; url:https://vkplay.ru | vk play, вк плей, вкплей, вк игры, игровой центр mail.ru, игровой центр вк, мейл игровой центр, game center mail.ru
+lesta_game_center | Lesta Game Center | name:Lesta Game Center; name:Игровой центр Lesta; url:https://lesta.ru | lesta game center, lesta, леста, леста гейм центр, lgc, игровой центр леста
+wargaming_game_center | Wargaming.net Game Center | name:Wargaming.net Game Center; name:Wargaming Game Center; url:https://wargaming.net/game-center | wargaming game center, wargaming, варгейминг, wgc, варгейминг гейм центр, вг гейм центр
+faceit | FACEIT | name:FACEIT; name:FACEIT AC; url:https://www.faceit.com | faceit, фейсит, фэйсит, фасит, фейс ит, faceit ac, фейсит античит
+hoyoplay | HoYoPlay | name:HoYoPlay; url:https://hoyoplay.hoyoverse.com | hoyoplay, хойоплей, хойо плей, hoyoverse launcher, хойоверс
+four_game | 4game | name:4game; url:https://ru.4game.com | 4game, форгейм, 4гейм, фор гейм
+exbo_launcher | EXBO Launcher | name:EXBO; url:https://exbo.net | exbo, эксбо, exbo launcher, эксбо лаунчер
+playnite | Playnite | name:Playnite; url:https://playnite.link | playnite, плейнайт, плей найт
+itch | itch | name:itch; url:https://itch.io | itch, itch.io, итч, итч ио, ич ио
+amazon_games | Amazon Games | name:Amazon Games; url:https://gaming.amazon.com | amazon games, амазон геймс, prime gaming, прайм гейминг
+razer_cortex | Razer Cortex | name:Razer Cortex; url:https://www.razer.com/cortex | razer cortex, рейзер кортекс, разер кортекс, кортекс
+vortex_mod_manager | Vortex | name:Vortex; url:https://www.nexusmods.com/about/vortex/ | vortex, вортекс, vortex mod manager, nexus mods, нексус модс
+parsec | Parsec | name:Parsec; path:%ProgramFiles%\Parsec\parsecd.exe; exe:parsecd.exe; url:https://parsec.app | parsec, парсек, парсэк, parsec gaming
+moonlight | Moonlight | name:Moonlight; url:https://moonlight-stream.org | moonlight, мунлайт, moonlight game streaming
+sunshine | Sunshine | name:Sunshine; url:https://app.lizardbyte.dev/Sunshine/ | sunshine, саншайн, sunshine stream host
+bluestacks | BlueStacks | name:BlueStacks 5; name:BlueStacks; exe:HD-Player.exe; url:https://www.bluestacks.com | bluestacks, блюстакс, блустакс, блюстакс 5, bluestacks 5, блю стакс, блюстак
+ldplayer | LDPlayer | name:LDPlayer; exe:dnplayer.exe; url:https://ru.ldplayer.net | ldplayer, ld player, лдплеер, лд плеер, ldplayer 9, лдплеер 9
+noxplayer | NoxPlayer | name:NoxPlayer; name:Nox; exe:Nox.exe; url:https://www.bignox.com | noxplayer, nox, нокс, нокс плеер, nox player
+memu | MEmu Play | name:MEmu; exe:MEmu.exe; url:https://www.memuplay.com | memu, мему, memu play, мему плей
+gameloop | GameLoop | name:GameLoop; url:https://www.gameloop.com | gameloop, game loop, геймлуп, гейм луп
+ds4windows | DS4Windows | name:DS4Windows; exe:DS4Windows.exe; url:https://ds4-windows.com | ds4windows, ds4 windows, дс4виндовс, дс4 виндовс
+lossless_scaling | Lossless Scaling | name:Lossless Scaling; uri:steam://rungameid/993090 | lossless scaling, лослес скейлинг, лосслесс, лосслес скейлинг, lsfg
+wallpaper_engine | Wallpaper Engine | name:Wallpaper Engine; uri:steam://rungameid/431960 | wallpaper engine, валпапер энджин, воллпейпер энжин, вайлпейпер, валпейпер, живые обои, обои энджин, wallpaper
+winrar | WinRAR | name:WinRAR; exe:WinRAR.exe; path:%ProgramFiles%\WinRAR\WinRAR.exe; url:https://www.win-rar.com | winrar, винрар, вин рар, винрар архив, winrar архив, винрарчик
+7zip | 7-Zip | name:7-Zip File Manager; name:7-Zip; exe:7zFM.exe; path:%ProgramFiles%\7-Zip\7zFM.exe; url:https://www.7-zip.org | 7zip, 7-zip, 7 zip, 7z, 7зип, севензип, севен зип, семь зип, семизип, 7 зип
+bandizip | Bandizip | name:Bandizip; exe:Bandizip.exe; url:https://www.bandisoft.com/bandizip/ | bandizip, бандизип, банди зип
+peazip | PeaZip | name:PeaZip; exe:peazip.exe; url:https://peazip.github.io | peazip, пизип, пи зип, пеазип
+nanazip | NanaZip | name:NanaZip; uwp:40174MouriNaruto.NanaZip; url:https://github.com/M2Team/NanaZip | nanazip, нана зип, нанзип
+everything | Everything | name:Everything; exe:Everything.exe; path:%ProgramFiles%\Everything\Everything.exe; url:https://www.voidtools.com | everything, эвритинг, эврисинг, еврисинг, эвритин, everything search, voidtools, поиск everything
+total_commander | Total Commander | name:Total Commander; exe:TOTALCMD64.EXE; exe:TOTALCMD.EXE; path:%ProgramFiles%\totalcmd\TOTALCMD64.EXE; path:C:\totalcmd\TOTALCMD64.EXE; url:https://www.ghisler.com | total commander, тотал коммандер, тотал командер, тотал, тоталкоммандер, totalcmd, тотал командир, тотал комм
+far_manager | Far Manager | name:Far Manager; exe:Far.exe; path:%ProgramFiles%\Far Manager\Far.exe; url:https://www.farmanager.com | far manager, far, фар, фар менеджер, фар манагер
+double_commander | Double Commander | name:Double Commander; exe:doublecmd.exe; url:https://doublecmd.sourceforge.io | double commander, дабл коммандер, дабл командер, doublecmd
+directory_opus | Directory Opus | name:Directory Opus; exe:dopus.exe; url:https://www.gpsoft.com.au | directory opus, директори опус, dopus
+ccleaner | CCleaner | name:CCleaner; exe:CCleaner64.exe; path:%ProgramFiles%\CCleaner\CCleaner64.exe; url:https://www.ccleaner.com | ccleaner, cc cleaner, клинер, сиклинер, си клинер, ссклинер, скклинер, сиклинэр
+bleachbit | BleachBit | name:BleachBit; exe:bleachbit.exe; url:https://www.bleachbit.org | bleachbit, bleach bit, бличбит, блич бит
+revo_uninstaller | Revo Uninstaller | name:Revo Uninstaller; name:Revo Uninstaller Pro; exe:RevoUninPro.exe; exe:RevoUnin.exe; url:https://www.revouninstaller.com | revo uninstaller, revo, рево, рево анинсталлер, рево унинсталлер, рево деинсталлятор
+iobit_uninstaller | IObit Uninstaller | name:IObit Uninstaller; url:https://www.iobit.com/advanceduninstaller.php | iobit uninstaller, айобит анинсталлер, иобит унинсталлер, iobit, айобит
+advanced_systemcare | Advanced SystemCare | name:Advanced SystemCare; url:https://www.iobit.com/advancedsystemcarefree.php | advanced systemcare, advanced system care, эдвансед систем кеа, адвансед системкеа
+driver_booster | Driver Booster | name:Driver Booster; url:https://www.iobit.com/driver-booster.php | driver booster, драйвер бустер, драйвербустер, iobit driver booster
+driverpack | DriverPack Solution | name:DriverPack; url:https://driverpack.io | driverpack, driver pack, драйверпак, драйвер пак, драйвер пак солюшн, driverpack solution
+wiztree | WizTree | name:WizTree; exe:WizTree64.exe; url:https://diskanalyzer.com | wiztree, wiz tree, визтри, виз три
+windirstat | WinDirStat | name:WinDirStat; url:https://windirstat.net | windirstat, виндирстат, вин дир стат
+treesize | TreeSize Free | name:TreeSize Free; name:TreeSize; url:https://www.jam-software.com/treesize_free | treesize, tree size, трисайз, три сайз
+recuva | Recuva | name:Recuva; url:https://www.ccleaner.com/recuva | recuva, рекува
+acronis_true_image | Acronis True Image | name:Acronis True Image; name:Acronis Cyber Protect Home Office; url:https://www.acronis.com | acronis, акронис, acronis true image, акронис тру имидж
+aomei_partition_assistant | AOMEI Partition Assistant | name:AOMEI Partition Assistant; url:https://www.aomeitech.com | aomei, аомей, aomei partition assistant, партишн ассистант
+minitool_partition_wizard | MiniTool Partition Wizard | name:MiniTool Partition Wizard; url:https://www.partitionwizard.com | minitool partition wizard, minitool, минитул, partition wizard, партишн визард
+rufus | Rufus | name:Rufus; url:https://rufus.ie | rufus, руфус, руфас, rufus флешка
+ventoy | Ventoy | name:Ventoy2Disk; name:Ventoy; exe:Ventoy2Disk.exe; url:https://www.ventoy.net | ventoy, вентой, вентои, ventoy2disk
+balena_etcher | balenaEtcher | name:balenaEtcher; url:https://etcher.balena.io | balena etcher, balenaetcher, etcher, этчер, балена этчер
+system_informer | System Informer | name:System Informer; name:Process Hacker 2; exe:SystemInformer.exe; url:https://systeminformer.sourceforge.io | system informer, process hacker, систем информер, процесс хакер, processhacker
+process_explorer | Process Explorer | name:Process Explorer; exe:procexp64.exe; url:https://learn.microsoft.com/sysinternals/downloads/process-explorer | process explorer, процесс эксплорер, procexp, процесс експлорер
+autoruns | Autoruns | name:Autoruns; exe:Autoruns64.exe; url:https://learn.microsoft.com/sysinternals/downloads/autoruns | autoruns, авторанс, авторунс
+process_lasso | Process Lasso | name:Process Lasso; url:https://bitsum.com | process lasso, процесс лассо, лассо
+mem_reduct | Mem Reduct | name:Mem Reduct; exe:memreduct.exe; url:https://www.henrypp.org/product/memreduct | mem reduct, memreduct, мем редукт, мемредукт
+ddu | Display Driver Uninstaller | name:Display Driver Uninstaller; exe:Display Driver Uninstaller.exe; url:https://www.wagnardsoft.com | display driver uninstaller, ddu, дду, удаление драйверов ddu
+sandboxie | Sandboxie-Plus | name:Sandboxie-Plus; name:Sandboxie; url:https://sandboxie-plus.com | sandboxie, sandboxie plus, сандбокси, сендбокси
+unigetui | UniGetUI | name:UniGetUI; name:WingetUI; url:https://www.marticliment.com/unigetui/ | unigetui, wingetui, юнигет
+ms_pc_manager | Microsoft PC Manager | name:Microsoft PC Manager; uwp:Microsoft.MicrosoftPCManager; url:https://pcmanager.microsoft.com | pc manager, microsoft pc manager, пк менеджер, майкрософт пк менеджер
+cpu_z | CPU-Z | name:CPU-Z; exe:cpuz.exe; path:%ProgramFiles%\CPUID\CPU-Z\cpuz.exe; url:https://www.cpuid.com/softwares/cpu-z.html | cpu-z, cpuz, cpu z, цпу з, цпуз, сипиюзед, сипию зет, цпу зет
+gpu_z | GPU-Z | name:GPU-Z; url:https://www.techpowerup.com/gpuz/ | gpu-z, gpuz, gpu z, гпу з, гпуз, джипию зет, гпу зет
+hwinfo | HWiNFO | name:HWiNFO64; name:HWiNFO; exe:HWiNFO64.exe; url:https://www.hwinfo.com | hwinfo, hwinfo64, хвинфо, хв инфо, эйчвинфо
+hwmonitor | HWMonitor | name:HWMonitor; exe:HWMonitor.exe; url:https://www.cpuid.com/softwares/hwmonitor.html | hwmonitor, hw monitor, хвмонитор, хв монитор
+aida64 | AIDA64 | name:AIDA64; exe:aida64.exe; url:https://www.aida64.com | aida64, aida, аида, аида64, аида 64
+speccy | Speccy | name:Speccy; url:https://www.ccleaner.com/speccy | speccy, спекки, спеки, спэкки
+crystaldiskinfo | CrystalDiskInfo | name:CrystalDiskInfo; exe:DiskInfo64.exe; url:https://crystalmark.info | crystaldiskinfo, crystal disk info, кристал диск инфо, кристалдискинфо, диск инфо
+crystaldiskmark | CrystalDiskMark | name:CrystalDiskMark; exe:DiskMark64.exe; url:https://crystalmark.info | crystaldiskmark, crystal disk mark, кристал диск марк, кристалдискмарк, диск марк
+victoria_hdd | Victoria HDD/SSD | name:Victoria; exe:Victoria.exe; url:https://hdd.by/victoria/ | victoria hdd, victoria, виктория, виктория hdd, виктория ссд
+msi_afterburner | MSI Afterburner | name:MSI Afterburner; exe:MSIAfterburner.exe; path:%ProgramFiles(x86)%\MSI Afterburner\MSIAfterburner.exe; url:https://www.msi.com/Landing/afterburner | msi afterburner, afterburner, афтербернер, афтербёрнер, афтер бернер, мси афтербернер, мсай афтербернер
+rivatuner | RivaTuner Statistics Server | name:RivaTuner Statistics Server; exe:RTSS.exe; url:https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/ | rivatuner, риватюнер, рива тюнер, rtss, rivatuner statistics server
+furmark | FurMark | name:FurMark; url:https://geeks3d.com/furmark/ | furmark, фурмарк, фур марк, бублик тест
+threedmark | 3DMark | name:3DMark; url:https://benchmarks.ul.com/3dmark | 3dmark, 3d mark, 3дмарк, 3д марк, тридэмарк
+cinebench | Cinebench | name:Cinebench; url:https://www.maxon.net/cinebench | cinebench, синебенч, синебенч р23
+occt | OCCT | name:OCCT; url:https://www.ocbase.com | occt, окст, оцкт, occt стресс тест
+throttlestop | ThrottleStop | name:ThrottleStop; exe:ThrottleStop.exe | throttlestop, throttle stop, тротлстоп, троттлстоп
+ryzen_master | AMD Ryzen Master | name:AMD Ryzen Master; url:https://www.amd.com/en/products/software/ryzen-master.html | ryzen master, райзен мастер, amd ryzen master, ризен мастер
+fan_control | FanControl | name:FanControl; exe:FanControl.exe; url:https://getfancontrol.com | fancontrol, fan control, фан контрол, фанконтрол
+nvidia_control_panel | Панель управления NVIDIA | name:NVIDIA Control Panel; name:Панель управления NVIDIA; uwp:NVIDIACorp.NVIDIAControlPanel | nvidia control panel, панель управления nvidia, панель нвидиа, нвидиа панель, панель нвидия, настройки нвидиа, панель управления нвидиа
+amd_adrenalin | AMD Software: Adrenalin Edition | name:AMD Software; name:AMD Software: Adrenalin Edition; exe:RadeonSoftware.exe; path:%ProgramFiles%\AMD\CNext\CNext\RadeonSoftware.exe; url:https://www.amd.com/en/support | amd adrenalin, adrenalin, адреналин, амд адреналин, amd software, амд софт, radeon software, радеон софтвер, радеон, radeon
+intel_graphics | Intel Graphics Software | name:Intel Graphics Software; name:Intel Arc Control; name:Intel Graphics Command Center; url:https://www.intel.com/content/www/us/en/download-center/home.html | intel arc control, arc control, интел арк, intel graphics command center, intel graphics software, интел графикс, интел арк контрол
+logitech_ghub | Logitech G HUB | name:Logitech G HUB; path:%ProgramFiles%\LGHUB\lghub.exe; url:https://www.logitechg.com/innovation/g-hub.html | logitech g hub, g hub, ghub, джи хаб, джихаб, логитек, logitech, лоджитек, логитек джи хаб
+razer_synapse | Razer Synapse | name:Razer Synapse; url:https://www.razer.com/synapse-4 | razer synapse, razer, рейзер, разер, синапс, рейзер синапс, разер синапс
+steelseries_gg | SteelSeries GG | name:SteelSeries GG; url:https://steelseries.com/gg | steelseries gg, steelseries, стилсириес, стил сириес, стилсериес
+corsair_icue | Corsair iCUE | name:iCUE; exe:iCUE.exe; url:https://www.corsair.com/icue | corsair icue, icue, айкью, айкю, corsair, корсар, корсаир
+armoury_crate | ASUS Armoury Crate | name:Armoury Crate; uwp:B9ECED6F.ArmouryCrate; url:https://rog.asus.com/armoury-crate/ | armoury crate, asus armoury crate, армори крейт, армуари крейт, асус армори, армори
+msi_center | MSI Center | name:MSI Center; name:MSI Dragon Center; url:https://www.msi.com/Landing/MSI-Center | msi center, мси центр, мсай центр, msi dragon center, драгон центр
+myasus | MyASUS | name:MyASUS; uwp:B9ECED6F.ASUSPCAssistant | myasus, my asus, май асус, майасус
+lenovo_vantage | Lenovo Vantage | name:Lenovo Vantage; uwp:E046963F.LenovoCompanion | lenovo vantage, леново вантаж, леново вантейдж, vantage
+hp_smart | HP Smart | name:HP Smart; uwp:AD2F1837.HPPrinterControl | hp smart, эйчпи смарт, хп смарт, hp принтер
+openrgb | OpenRGB | name:OpenRGB; url:https://openrgb.org | openrgb, open rgb, опенргб, опен ргб
+signalrgb | SignalRGB | name:SignalRGB; url:https://signalrgb.com | signalrgb, signal rgb, сигнал ргб, сигналргб
+wacom_center | Wacom Center | name:Wacom Center; name:Wacom Desktop Center; url:https://www.wacom.com/support/product-support/drivers | wacom center, wacom, ваком, ваком центр, планшет ваком
+huion_tablet | Huion Tablet | name:HuionTablet; name:Huion Tablet; url:https://www.huion.com/download | huion, хуион, хьюион, huion tablet
+xp_pen | XP-PEN PenTablet | name:PenTablet; name:XP-PEN; url:https://www.xp-pen.com/download | xp-pen, xppen, xp pen, хп пен, икс пи пен, икспи пен
+lively_wallpaper | Lively Wallpaper | name:Lively Wallpaper; uwp:12030rocksdanister.LivelyWallpaper; url:https://www.rocksdanister.com/lively/ | lively wallpaper, lively, лайвли, лайвли обои
+rainmeter | Rainmeter | name:Rainmeter; path:%ProgramFiles%\Rainmeter\Rainmeter.exe; url:https://www.rainmeter.net | rainmeter, рейнметр, рейнметер, рэйнметр, рейн метр
+powertoys | PowerToys | name:PowerToys; path:%LOCALAPPDATA%\PowerToys\PowerToys.exe; path:%ProgramFiles%\PowerToys\PowerToys.exe; url:https://learn.microsoft.com/windows/powertoys/ | powertoys, power toys, павертойс, пауэртойс, повертойс, пауэр тойс, павер тойс, повер тойс
+autohotkey | AutoHotkey | name:AutoHotkey Dash; name:AutoHotkey; url:https://www.autohotkey.com | autohotkey, auto hotkey, ahk, ахк, автохоткей, авто хоткей
+flow_launcher | Flow Launcher | name:Flow Launcher; url:https://www.flowlauncher.com | flow launcher, флоу лаунчер, flowlauncher
+startallback | StartAllBack | name:StartAllBack; url:https://www.startallback.com | startallback, стартолбэк, старт олл бэк
+translucenttb | TranslucentTB | name:TranslucentTB; uwp:28017CharlesMilette.TranslucentTB; url:https://github.com/TranslucentTB/TranslucentTB | translucenttb, translucent tb, транслюсент, транслюсент тб
+eartrumpet | EarTrumpet | name:EarTrumpet; uwp:40459File-New-Project.EarTrumpet; url:https://eartrumpet.app | eartrumpet, ear trumpet, ир трампет, иртрампет
+displayfusion | DisplayFusion | name:DisplayFusion; url:https://www.displayfusion.com | displayfusion, display fusion, дисплей фьюжн
+quicklook | QuickLook | name:QuickLook; uwp:21090PaddyXu.QuickLook; url:https://github.com/QL-Win/QuickLook | quicklook, quick look, квиклук, квик лук
+ditto | Ditto | name:Ditto; url:https://ditto-cp.sourceforge.io | ditto, дитто, ditto clipboard, дитто буфер
+flux | f.lux | name:f.lux; path:%LOCALAPPDATA%\FluxSoftware\Flux\flux.exe; url:https://justgetflux.com | f.lux, flux, флюкс, ф люкс, флакс
+punto_switcher | Punto Switcher | name:Punto Switcher; path:%ProgramFiles(x86)%\Yandex\Punto Switcher\punto.exe; url:https://yandex.ru/soft/punto/ | punto switcher, punto, пунто, пунто свитчер, пунто свичер, пунто switcher
+sharex | ShareX | name:ShareX; exe:ShareX.exe; path:%ProgramFiles%\ShareX\ShareX.exe; url:https://getsharex.com | sharex, share x, шарекс, шерикс, шарикс, шэрикс, шер икс, шар икс
+lightshot | Lightshot | name:Lightshot; path:%ProgramFiles(x86)%\Skillbrains\lightshot\Lightshot.exe; url:https://app.prntscr.com | lightshot, light shot, лайтшот, лайт шот, prntscr, принтскрин лайтшот
+greenshot | Greenshot | name:Greenshot; exe:Greenshot.exe; url:https://getgreenshot.org | greenshot, green shot, гриншот, грин шот
+snagit | Snagit | name:Snagit; url:https://www.techsmith.com/snagit/ | snagit, снагит, снэгит, снаджит
+flameshot | Flameshot | name:Flameshot; exe:flameshot.exe; url:https://flameshot.org | flameshot, флеймшот, флейм шот
+joxi | Joxi | name:Joxi; url:https://joxi.ru | joxi, джокси, жокси, джокси скрин
+localsend | LocalSend | name:LocalSend; url:https://localsend.org | localsend, local send, локалсенд, локал сенд
+kde_connect | KDE Connect | name:KDE Connect; url:https://kdeconnect.kde.org | kde connect, кде коннект, kdeconnect
+qbittorrent | qBittorrent | name:qBittorrent; exe:qbittorrent.exe; path:%ProgramFiles%\qBittorrent\qbittorrent.exe; url:https://www.qbittorrent.org/download | qbittorrent, кубиторрент, кьюбиторрент, куби торрент, кьюбит торрент, кьюбит, кубит, qbit, qb, торрент клиент кьюбит, qbitorrent, кубитторент
+utorrent | μTorrent | name:μTorrent; name:uTorrent; exe:uTorrent.exe; path:%APPDATA%\uTorrent\uTorrent.exe; url:https://www.utorrent.com | utorrent, юторрент, ютторрент, мю торрент, мютторрент, ю торрент, уторрент, utorent, ютор
+bittorrent | BitTorrent | name:BitTorrent; exe:BitTorrent.exe; path:%APPDATA%\BitTorrent\BitTorrent.exe; url:https://www.bittorrent.com | bittorrent, bit torrent, битторрент, бит торрент, биторрент, битторент
+transmission | Transmission | name:Transmission Qt Client; name:Transmission; exe:transmission-qt.exe; url:https://transmissionbt.com | transmission, трансмишн, трансмиссия, transmission qt
+bitcomet | BitComet | name:BitComet; url:https://www.bitcomet.com | bitcomet, bit comet, биткомет, бит комет
+mediaget | MediaGet | name:MediaGet; url:https://mediaget.com | mediaget, media get, медиагет, медиа гет
+idm | Internet Download Manager | name:Internet Download Manager; exe:IDMan.exe; path:%ProgramFiles(x86)%\Internet Download Manager\IDMan.exe; url:https://www.internetdownloadmanager.com | idm, internet download manager, идм, айдиэм, интернет даунлоад менеджер, айдиэм загрузчик
+fdm | Free Download Manager | name:Free Download Manager; exe:fdm.exe; url:https://www.freedownloadmanager.org | fdm, free download manager, фдм, фри даунлоад менеджер
+jdownloader | JDownloader 2 | name:JDownloader 2; name:JDownloader; url:https://jdownloader.org | jdownloader, jdownloader 2, jd2, джейдаунлоадер, жедаунлоадер, джей даунлоадер
+video_downloader_4k | 4K Video Downloader+ | name:4K Video Downloader+; name:4K Video Downloader; url:https://www.4kdownload.com | 4k video downloader, 4k downloader, 4к видео даунлоадер, 4к даунлоадер
+anydesk | AnyDesk | name:AnyDesk; exe:AnyDesk.exe; path:%ProgramFiles(x86)%\AnyDesk\AnyDesk.exe; uri:anydesk:; url:https://anydesk.com/download | anydesk, any desk, энидеск, анидеск, эни деск, ани деск, энидэск, эни дэск, анидэск, anydesc
+teamviewer | TeamViewer | name:TeamViewer; exe:TeamViewer.exe; path:%ProgramFiles%\TeamViewer\TeamViewer.exe; url:https://www.teamviewer.com/download/ | teamviewer, team viewer, тимвьювер, тимвивер, тим вьювер, тимвьюер, тимвиер, тимвьюэр, тимвювер
+rustdesk | RustDesk | name:RustDesk; exe:rustdesk.exe; url:https://rustdesk.com | rustdesk, rust desk, растдеск, раст деск
+chrome_remote_desktop | Chrome Remote Desktop | name:Chrome Remote Desktop; url:https://remotedesktop.google.com/access | chrome remote desktop, хром ремоут десктоп, удаленный рабочий стол хром, гугл удаленный рабочий стол
+radmin_viewer | Radmin Viewer | name:Radmin Viewer; url:https://www.radmin.ru | radmin viewer, радмин вьювер, радмин вьюер
+ammyy_admin | Ammyy Admin | exe:AMMYY_Admin.exe; name:Ammyy Admin; url:https://www.ammyy.com | ammyy admin, ammyy, амми админ, ами админ
+radmin_vpn | Radmin VPN | name:Radmin VPN; url:https://www.radmin-vpn.com | radmin vpn, радмин впн, радмин, radmin
+hamachi | LogMeIn Hamachi | name:LogMeIn Hamachi; name:Hamachi; url:https://vpn.net | hamachi, хамачи, хомячи, logmein hamachi
+tailscale | Tailscale | name:Tailscale; url:https://tailscale.com/download | tailscale, тейлскейл, тейл скейл
+zerotier | ZeroTier One | name:ZeroTier One; name:ZeroTier; url:https://www.zerotier.com/download/ | zerotier, zero tier, зиротир, зеротир
+kaspersky | Kaspersky | name:Kaspersky; exe:avpui.exe; path:%ProgramFiles(x86)%\Kaspersky Lab\*\avpui.exe; url:https://www.kaspersky.ru/downloads | kaspersky, касперский, каспер, касперски, каспер скай, kaspersky premium, kaspersky standard, касперский антивирус, kaspersky antivirus, kaspersky free, касперский премиум
+kaspersky_vpn | Kaspersky VPN Secure Connection | name:Kaspersky VPN Secure Connection; url:https://www.kaspersky.ru/vpn-secure-connection | kaspersky vpn, касперский впн, каспер впн, kaspersky secure connection
+kaspersky_password_manager | Kaspersky Password Manager | name:Kaspersky Password Manager; url:https://my.kaspersky.com | kaspersky password manager, касперский пароли, менеджер паролей касперский
+eset | ESET NOD32 | name:ESET Security; name:ESET; path:%ProgramFiles%\ESET\ESET Security\egui.exe; exe:egui.exe; url:https://www.esetnod32.ru | eset, eset nod32, nod32, нод32, нод 32, есет, эсет, изет, eset smart security
+drweb | Dr.Web | name:Dr.Web Security Space; name:Dr.Web; url:https://download.drweb.ru | dr.web, drweb, dr web, доктор веб, др веб, доктор web, drweb security space
+drweb_cureit | Dr.Web CureIt! | name:CureIt; url:https://free.drweb.ru/cureit/ | cureit, cure it, курейт, кьюрит, доктор веб курейт, dr.web cureit
+avast | Avast Antivirus | name:Avast Antivirus; name:Avast Free Antivirus; path:%ProgramFiles%\Avast Software\Avast\AvastUI.exe; url:https://www.avast.com | avast, аваст, аваст антивирус, avast free, avast antivirus
+avg | AVG AntiVirus | name:AVG AntiVirus; name:AVG AntiVirus FREE; path:%ProgramFiles%\AVG\Antivirus\AVGUI.exe; url:https://www.avg.com | avg, авг, avg antivirus, авг антивирус
+norton | Norton 360 | name:Norton 360; name:Norton; url:https://www.norton.com | norton, нортон, norton 360, нортон 360
+bitdefender | Bitdefender | name:Bitdefender; name:Bitdefender Total Security; url:https://www.bitdefender.com | bitdefender, bit defender, битдефендер, бит дефендер
+mcafee | McAfee | name:McAfee; url:https://www.mcafee.com | mcafee, макафи, мкафи, мак афи
+malwarebytes | Malwarebytes | name:Malwarebytes; path:%ProgramFiles%\Malwarebytes\Anti-Malware\Malwarebytes.exe; url:https://www.malwarebytes.com | malwarebytes, малварбайтс, малвабайтс, малвэрбайтс, малварь байтс, mbam, malware bytes
+total_security_360 | 360 Total Security | name:360 Total Security; url:https://www.360totalsecurity.com | 360 total security, 360, 360 тотал, 360 тотал секьюрити, тотал секьюрити
+adwcleaner | AdwCleaner | name:AdwCleaner; url:https://www.malwarebytes.com/adwcleaner | adwcleaner, adw cleaner, адвклинер, адв клинер
+adguard | AdGuard | name:AdGuard; url:https://adguard.com | adguard, адгард, адгуард, эдгард, адгард блокировщик
+adguard_vpn | AdGuard VPN | name:AdGuard VPN; url:https://adguard-vpn.com | adguard vpn, адгард впн, адгуард впн
+cryptopro_csp | КриптоПро CSP | name:КриптоПро CSP; name:CryptoPro CSP; url:https://www.cryptopro.ru | криптопро, криптопро csp, крипто про, cryptopro, cryptopro csp
+vipnet_client | ViPNet Client | name:ViPNet Client; name:ViPNet; url:https://infotecs.ru | vipnet, випнет, vipnet client, випнет клиент
+bitwarden | Bitwarden | name:Bitwarden; path:%LOCALAPPDATA%\Programs\Bitwarden\Bitwarden.exe; url:https://vault.bitwarden.com | bitwarden, bit warden, битварден, битворден, бит варден, битвардэн
+keepass | KeePass | name:KeePass; name:KeePass 2; exe:KeePass.exe; path:%ProgramFiles%\KeePass Password Safe 2\KeePass.exe; url:https://keepass.info | keepass, kee pass, кипас, кипасс, ки пасс, keepass 2, кипас 2
+keepassxc | KeePassXC | name:KeePassXC; exe:KeePassXC.exe; path:%ProgramFiles%\KeePassXC\KeePassXC.exe; url:https://keepassxc.org | keepassxc, keepass xc, кипасс xc, кипас хс, кипасс икс си
+onepassword | 1Password | name:1Password; url:https://my.1password.com | 1password, one password, ван пассворд, ванпассворд, 1 password
+dashlane | Dashlane | name:Dashlane; url:https://app.dashlane.com | dashlane, дашлейн, дэшлейн
+proton_pass | Proton Pass | name:Proton Pass; url:https://pass.proton.me | proton pass, протон пасс, протон пароли
+protonvpn | Proton VPN | name:Proton VPN; name:ProtonVPN; url:https://protonvpn.com/download | protonvpn, proton vpn, протон впн, протонвпн, протон, proton
+nordvpn | NordVPN | name:NordVPN; exe:NordVPN.exe; url:https://nordvpn.com/download/ | nordvpn, nord vpn, норд впн, нордвпн, норд, nord
+expressvpn | ExpressVPN | name:ExpressVPN; url:https://www.expressvpn.com | expressvpn, express vpn, экспресс впн, экспрессвпн, экспресс
+surfshark | Surfshark | name:Surfshark; url:https://surfshark.com/download | surfshark, surf shark, серфшарк, сёрфшарк, сурфшарк
+windscribe | Windscribe | name:Windscribe; url:https://windscribe.com/download | windscribe, виндскрайб, винд скрайб
+hotspot_shield | Hotspot Shield | name:Hotspot Shield; url:https://www.hotspotshield.com | hotspot shield, хотспот шилд, хот спот шилд
+outline | Outline Client | name:Outline; url:https://getoutline.org/get-started/ | outline, outline vpn, аутлайн, аутлайн впн, outline client
+hiddify | Hiddify | name:Hiddify; exe:Hiddify.exe; url:https://hiddify.com | hiddify, хиддифай, хидифай, хидифай впн, hiddify next
+v2rayn | v2rayN | name:v2rayN; exe:v2rayN.exe; url:https://github.com/2dust/v2rayN/releases | v2rayn, v2ray, в2рей, в2рейн, ви2рей, в2рэй
+nekoray | NekoRay (Throne) | name:NekoRay; name:Throne; exe:nekoray.exe; url:https://github.com/throneproj/Throne/releases | nekoray, некорей, неко рей, throne, трон впн
+happ | Happ | name:Happ; url:https://www.happ.su | happ, хэпп, хапп, happ proxy, хэпп впн
+clash_verge | Clash Verge | name:Clash Verge; url:https://github.com/clash-verge-rev/clash-verge-rev/releases | clash verge, clash, клэш, клэш верж, клеш верж
+amnezia_vpn | AmneziaVPN | name:AmneziaVPN; path:%ProgramFiles%\AmneziaVPN\AmneziaVPN.exe; url:https://amnezia.org | amnezia, amneziavpn, amnezia vpn, амнезия, амнезиа, амнезия впн, амнезиа впн
+wireguard | WireGuard | name:WireGuard; path:%ProgramFiles%\WireGuard\wireguard.exe; url:https://www.wireguard.com/install/ | wireguard, wire guard, вайргард, ваергард, вайр гард, wg, варгард
+openvpn | OpenVPN | name:OpenVPN GUI; name:OpenVPN Connect; path:%ProgramFiles%\OpenVPN\bin\openvpn-gui.exe; url:https://openvpn.net/client/ | openvpn, open vpn, опенвпн, опен впн, openvpn connect, openvpn gui
+cloudflare_warp | Cloudflare WARP | name:Cloudflare WARP; path:%ProgramFiles%\Cloudflare\Cloudflare WARP\Cloudflare WARP.exe; url:https://one.one.one.one | cloudflare warp, warp, варп, cloudflare, клаудфлер, клаудфлэр, 1.1.1.1, ван ван ван ван
+psiphon | Psiphon | exe:psiphon3.exe; name:Psiphon; url:https://psiphon.ca | psiphon, псифон, сайфон, psiphon 3
+lantern | Lantern | name:Lantern; url:https://lantern.io | lantern, лантерн, лантерна
+proxifier | Proxifier | name:Proxifier; url:https://www.proxifier.com | proxifier, проксифаер, проксифайер
+dropbox | Dropbox | name:Dropbox; path:%ProgramFiles(x86)%\Dropbox\Client\Dropbox.exe; url:https://www.dropbox.com/home | dropbox, drop box, дропбокс, дроп бокс, дропбох
+google_drive | Google Drive | name:Google Drive; path:%ProgramFiles%\Google\Drive File Stream\*\GoogleDriveFS.exe; url:https://drive.google.com | google drive, гугл диск, гугл драйв, диск гугл, гугл драйф, google диск, гугл диск десктоп
+onedrive | OneDrive | name:OneDrive; exe:OneDrive.exe; path:%LOCALAPPDATA%\Microsoft\OneDrive\OneDrive.exe; path:%ProgramFiles%\Microsoft OneDrive\OneDrive.exe; url:https://onedrive.live.com | onedrive, one drive, вандрайв, ван драйв, уандрайв, ондрайв, ваньдрайв, майкрософт вандрайв
+yandex_disk | Яндекс Диск | name:Яндекс Диск; name:Yandex.Disk; path:%APPDATA%\Yandex\YandexDisk2\YandexDisk2.exe; url:https://disk.yandex.ru | яндекс диск, яндекс.диск, yandex disk, yandex.disk, я диск, ядиск, диск яндекс, яндексдиск
+mailru_cloud | Облако Mail | name:Облако Mail; name:Облако Mail.ru; url:https://cloud.mail.ru | облако mail.ru, облако mail, облако мейл, облако майл, мейл облако, cloud mail.ru, mail.ru cloud, облако мэйл
+mega | MEGA | name:MEGA; name:MEGAsync; url:https://mega.nz | mega, мега, megasync, мега синк, mega nz
+icloud | iCloud | name:iCloud; uwp:AppleInc.iCloud; url:https://www.icloud.com | icloud, айклауд, ай клауд, айклуд, icloud drive, айклауд драйв
+pcloud | pCloud Drive | name:pCloud Drive; name:pCloud; url:https://my.pcloud.com | pcloud, p cloud, пиклауд, пи клауд
+nextcloud | Nextcloud | name:Nextcloud; url:https://nextcloud.com/install/ | nextcloud, next cloud, некстклауд, некст клауд
+box_drive | Box Drive | name:Box Drive; name:Box; url:https://app.box.com | box drive, бокс драйв, box облако
+syncthing | Syncthing | name:Syncthing; url:https://syncthing.net | syncthing, синкфинг, синктинг, синк синг
+resilio_sync | Resilio Sync | name:Resilio Sync; url:https://www.resilio.com | resilio sync, resilio, резилио, резилио синк
+onec | 1С:Предприятие | name:1С:Предприятие; name:1C:Enterprise; exe:1cestart.exe; path:%ProgramFiles%\1cv8\common\1cestart.exe; path:%ProgramFiles(x86)%\1cv8\common\1cestart.exe | 1с, 1c, 1с предприятие, 1c предприятие, 1с:предприятие, один эс, одинэс, одинэска, 1ска, 1с бухгалтерия, 1с бух, 1cv8, 1с 8
+ncalayer | NCALayer | name:NCALayer; url:https://pki.gov.kz/ncalayer/ | ncalayer, nca layer, нкалаер, нка лаер, нкалейер, нкалайер, нка лайер, нцалайер, эцп, ецп, эцп подпись, ncalayer эцп, нуц рк, нуц
+consultant_plus | КонсультантПлюс | name:КонсультантПлюс; name:ConsultantPlus; url:https://www.consultant.ru | консультант плюс, консультантплюс, консультант, consultant plus, консультант+
+garant | Гарант | name:Гарант; name:ГАРАНТ; url:https://www.garant.ru | гарант, система гарант, гарант аэро, garant
+paragraph_kz | Параграф | name:Параграф; url:https://prg.kz | параграф, параграф юрист, paragraph, параграф кз, информационная система параграф
+yurist_kz | Юрист (zakon.kz) | name:Юрист; url:https://online.zakon.kz | юрист, юрист zakon, zakon.kz юрист, онлайн юрист закон кз, закон кз

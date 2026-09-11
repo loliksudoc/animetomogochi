@@ -593,6 +593,7 @@ class AppLauncher:
         return out[:limit]
 
     def resolve(self, query: str, allow_raw: bool = False, threshold: float = 0.74) -> Match | None:
+        query = re.sub(r"^(?:в|во|на|in|to|on)\s+", "", query.strip(), flags=re.I)
         found = self._resolve_known(query, threshold)
         if found is None and allow_raw:
             return self._raw_target(query)
